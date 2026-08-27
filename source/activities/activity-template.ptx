@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet>
+<worksheet xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Activity Title</title>
 
   <!-- Optional introduction -->

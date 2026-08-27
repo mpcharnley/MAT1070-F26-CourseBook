@@ -1,0 +1,15 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> a=0 </definition>
+  <definition> b=6</definition>
+  <definition> f(x)=4 - (2/3)*x </definition>
+  <coordinates bbox="[-2,-2,8,8]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+    <point p="(a, f(a))" alignment="ne">
+      <m>(0,4)</m>
+    </point>
+    <point p="(b, f(b))" alignment="ne">
+      <m>(6,0)</m>
+    </point>
+  </coordinates>
+</diagram>

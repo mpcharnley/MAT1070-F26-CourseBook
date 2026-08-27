@@ -16,6 +16,10 @@
     \newcommand{\Q}{\mathbb Q}
     \newcommand{\R}{\mathbb R}
   </macros>
+  <prefigure-preamble xmlns="https://prefigure.org">
+    <!-- <graph stroke="green"/>
+    <point style="diamond" size="5" fill="blue" outline="yes"/> -->
+  </prefigure-preamble>
 
   <!-- If you put any latex-image elements you can include preambles -->
   <!-- for those in the next element. -->

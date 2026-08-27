@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet component = "past" xml:id = "wksht-graphing-equations">
+<worksheet component = "past" xml:id = "wksht-graphing-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Graphing Equations</title>
 
   <!-- Optional introduction -->
@@ -74,19 +74,8 @@
       <solution>
         <image width="60%">
   <prefigure xmlns="https://prefigure.org"
-             label="prefigure-rectangle">
-    <diagram dimensions="(300, 300)" margins="5">
-  <definition> a=1 </definition>
-  <definition> f(x)=exp(x/3)*cos(x) </definition>
-  <coordinates bbox="[-4,-4,4,4]">
-    <grid-axes xlabel="x" ylabel="y"/>
-    <graph function="f"/>
-    <tangent-line function="f" point="a"/>
-    <point p="(a, f(a))">
-      <m>(a,f(a))</m>
-    </point>
-  </coordinates>
-</diagram>
+             label="wksht-graphing-lines-points">
+    <xi:include href="../../prefigure/graphing-equations-line-points.xml" />
   </prefigure>
 </image>
       </solution>
@@ -97,6 +86,14 @@
           Graph the equation using intercepts.
         </p>
       </statement>
+      <solution>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-inter">
+    <xi:include href="../../prefigure/graphing-equations-line-intercepts.xml" />
+  </prefigure>
+</image>
+      </solution>
     </task>
     <task workspace="4in">
       <statement>
