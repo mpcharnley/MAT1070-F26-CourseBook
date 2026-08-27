@@ -5,7 +5,7 @@
   <custom name= "book-version">
     This is the blank version of the book, which contains empty versions of all class notes and activities. These will be updated before each class so that you can download or print out the notes to write on in class. The other version of the book, available on Canvas, contains the filled-in version of these notes and the answers to worksheets after they are graded.
   </custom>
-  <custom name="subtitle">
-  College Algebra (blank)
+  <custom name="docType">
+  Blank 
   </custom>
 </pi:customizations>

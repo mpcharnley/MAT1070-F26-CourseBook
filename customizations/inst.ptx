@@ -4,7 +4,7 @@
   <custom name= "book-version">
     This is the instructor version of the book, containing all of the relevant content, with solutions wherever written.
   </custom>
-  <custom name="subtitle">
-  College Algebra (instructor)
+  <custom name="docType">
+  Inst 
   </custom>
 </pi:customizations>

@@ -8,13 +8,13 @@
   <book>
     <title>MATH 1070 - Fall 2026</title>
 
-    <subtitle><custom ref="subtitle"/></subtitle>
+    <subtitle>College Algebra</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
 
     <chapter xml:id="course-notes" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <title>Course Notes</title>
+      <title><custom ref="docType"/>Course Notes</title>
 
       <xi:include href="./notes/week01.ptx"/>
       <xi:include href="./notes/week02.ptx"/>
@@ -24,7 +24,7 @@
 
 
     <chapter xml:id="activities">
-      <title>In-Class Activities</title>
+      <title><custom ref="docType"/>In-Class Activities</title>
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-graphing-equations.ptx"/>
 
@@ -38,7 +38,7 @@
     </chapter>
 
     <chapter xml:id="homework">
-      <title>Homework</title>
+      <title><custom ref="docType"/>Homework</title>
 
       <!-- Include homework files -->
       <!--<xi:include href="./homework/homework01.ptx"/>-->
