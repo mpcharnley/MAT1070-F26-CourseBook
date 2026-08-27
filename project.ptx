@@ -4,14 +4,14 @@
 <project ptx-version="2">
   <targets>
     <!-- Main course for html or pdf -->
-    <target name="course" source="main.ptx" format="html"
-            publication="publication.ptx" deploy-dir="course" />
+    <!-- <target name="course" source="main.ptx" format="html"
+            publication="publication.ptx" deploy-dir="course" /> -->
     <target name="blank" source="main.ptx" format="html"
             publication="publication_blank.ptx" deploy-dir="blank" />
     <target name="filled" source="main.ptx" format="html"
-            publication="publication_filled.ptx" deploy-dir="course" />
+            publication="publication_filled.ptx" deploy-dir="filled" />
     <target name="inst" source="main.ptx" format="html"
-            publication="publication_inst.ptx" deploy-dir="course" />
+            publication="publication_inst.ptx" />
     <target name="print" source="main.ptx" format="pdf"
             output-filename="course.pdf" publication="publication.ptx" />
 
