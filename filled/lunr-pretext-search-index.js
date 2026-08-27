@@ -69,8 +69,8 @@ var ptx_lunr_docs = [
   "url": "homework.html",
   "type": "Chapter",
   "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "title": "Filled Homework",
+  "body": " Filled Homework    "
 }
 ]
 
