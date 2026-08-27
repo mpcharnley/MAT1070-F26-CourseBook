@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet component = "past" xml:id = "wksht-graphing-equations">
+  <title>Graphing Equations</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+  <p>
+    <ul>
+        <li>
+          <title>Dates</title>
+          <p>
+            Assigned Date: 
+          </p>
+          <p>
+            Due Date: 
+          </p>
+        </li>
+        <li>
+          <title>Purpose</title>    
+          <p>
+            The skill that you will practice in this exercise is graphing equations. Mastering this skill is vital to your development as a student of mathematics. Our textbook shows graphical solutions to most problems alongside the algebraic solution. Having a firm grasp of the basics will enhance a deeper understanding as you progress through the semester and on into Calculus.
+          </p>
+        </li>
+        <li>
+          <title>Task</title>
+          <p>
+            Stuff
+          </p>
+        </li>
+        <li>
+          <title>Resources</title>
+          <p>
+            Use your notes from the first class, the online eText or contact your instructor when you have questions.
+          </p>
+        </li>
+        <li>
+          <title>Criteria for Success</title>      
+          <p>
+            Your assignment is due to your instructor by the date listed above. You must submit 1 pdf document as described in the syllabus, through Canvas. Your instructor will be assessing completeness and correctness for each question. This assignment will be worth 20 points.
+          </p>
+        </li>
+        </ul>
+        </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        [2] What does the graph of an equation represent?
+      </p>
+    </statement>
+    <solution>
+      <p>
+        The set of all solutions points to an equation.
+      </p>
+    </solution>
+  </exercise>
+
+  <exercise>
+    <introduction>
+      <p>
+        [9] Consider the equation <m>2x+3y=12</m>.
+      </p>
+    </introduction>
+    <task workspace="4in">
+      <statement>
+        <p>
+          Graph the equation using any two points.
+        </p>
+      </statement>
+      <solution>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="prefigure-rectangle">
+    <diagram dimensions="(300, 300)" margins="5">
+  <definition> a=1 </definition>
+  <definition> f(x)=exp(x/3)*cos(x) </definition>
+  <coordinates bbox="[-4,-4,4,4]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+    <tangent-line function="f" point="a"/>
+    <point p="(a, f(a))">
+      <m>(a,f(a))</m>
+    </point>
+  </coordinates>
+</diagram>
+  </prefigure>
+</image>
+      </solution>
+    </task>
+    <task workspace="4in">
+      <statement>
+        <p>
+          Graph the equation using intercepts.
+        </p>
+      </statement>
+    </task>
+    <task workspace="4in">
+      <statement>
+        <p>
+          Graph the equation using the slope and <m>y</m>-intercept.
+        </p>
+      </statement>
+    </task>
+    <conclusion>
+      <p>
+        <em>Fully explain</em> each method and your solution. 
+      </p>
+    </conclusion>
+  </exercise>
+
+</worksheet>

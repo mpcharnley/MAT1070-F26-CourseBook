@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This frontmatter division will contain all content before the -->
+<!-- first chapter. Fill in and comment/uncomment to see how this -->
+<!-- works. -->
+
+<frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
+  <bibinfo>
+    <author>
+      <personname>Matthew Charnley</personname>
+      <department>Department of Mathematics</department>
+      <institution>Wayne State University</institution>
+    </author>
+    <date>
+      Last Updated: <today />
+    </date>
+  </bibinfo>
+
+  <!-- This displays the title page information -->
+  <titlepage>
+    <titlepage-items/>
+  </titlepage>
+
+<preface xml:id="preface">
+<paragraphs>
+  <title>Introduction</title>
+  <p>
+    This eBook contains all of the course material for our MAT 1070 class this semester. It is <em>NOT</em> a substitute for attending class, participating in the activities, completing the online homework, and reading the textbook. It is meant to be a supplement to all of these, allowing you to go back and review material/solutions that were confusing to you when you saw them the first time. <custom ref="book-version"/>
+  </p>
+</paragraphs>
+
+<paragraphs>
+  <title>Course Notes</title>
+  <p>
+    These are the notes that were covered during class time. The hand-written version of the notes that was actually presented is available directly from the course Canvas page. These notes are a typed version that covers the same content in a similar level of detail. 
+  </p>
+</paragraphs>
+
+<paragraphs>
+  <title>In-Class Activities</title>
+  <p>
+    Copies of any in-class activities are available here. This is not a substitute for working on the activity in-class, but if you would like a blank copy to reattempt later in the semester, you can find it here.
+  </p>
+</paragraphs>
+
+<paragraphs>
+  <title>Handouts</title>
+  <p>
+    Any helpful handouts or notes sheets will be included here. 
+  </p>
+</paragraphs>
+
+<paragraphs>
+  <title>Homework</title>
+  <p>
+    Any hand-in homework that does not come directly from an in-class activity will be available here. The online homework is a separate part of the course, available from our Canvas site.  
+  </p>
+</paragraphs>
+</preface>
+
+
+</frontmatter>
+

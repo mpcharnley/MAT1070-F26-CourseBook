@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-01">
+  <title>Week 1</title>
+
+  <introduction>
+    <p>
+      This is an outline of the topics we covered in the first week of class.
+    </p>
+  </introduction>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+  <handout component = "cur">
+    <title>Monday 8/31</title>
+
+    <objectives>
+      <ul>
+        <li>
+          <p>
+            Introduction to the class
+          </p>
+        </li>
+        <li>
+          <p>
+            Introduction to Graphing
+          </p>
+        </li>
+      </ul>
+    </objectives>
+    
+
+    <paragraphs>
+      <title>Introduction to the Course</title>
+      <p>
+        Welcome to College Algebra!
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Introduction to the People</title>
+      <p component="b" workspace="4in">
+        Who am I?
+      </p>
+      <p component="a">
+        Your instructor is Dr. Matt Charnley. This is his first year at Wayne State, but not his first year teaching overall. He spent the last seven years teaching at Rutgers University in New Jersey, covering a wide variety of classes from Math for Liberal Arts to Differential Equations.
+      </p>
+      <p>
+        Who are all of you?
+      </p>
+    </paragraphs>
+
+  <paragraphs>
+      <title>Graphing</title>
+      <p workspace="3in" component = "b">
+        What is a graph?
+      </p>
+      <p component="a">
+        What is a graph?
+        <ul>
+          <li>
+            <p>
+              A visual representation of the solutions to an equation.
+            </p>
+          </li>
+          <li>
+            <p>
+              Mark a point if the value <m>(x,y)</m> solves the given equation.
+            </p>
+          </li>
+        </ul>
+      </p>
+    </paragraphs>
+
+    <p>
+    </p>
+  </handout>
+
+
+  <handout component = "cur">
+    <title>Wednesday 9/2</title>
+
+    <p>
+    </p>
+  </handout>
+
+
+  <handout component="future">
+    <title>Friday 9/4</title>
+
+    <p>
+    </p>
+  </handout>
+</section>

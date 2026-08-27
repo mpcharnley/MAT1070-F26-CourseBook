@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pi:customizations xmlns:pi="http://pretextbook.org/2020/pretext/internal">
+  <custom name= "book-version">
+    This is the instructor version of the book, containing all of the relevant content, with solutions wherever written.
+  </custom>
+  <custom name="subtitle">
+  College Algebra (instructor)
+  </custom>
+</pi:customizations>

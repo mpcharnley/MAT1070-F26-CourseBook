@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pi:customizations xmlns:pi="http://pretextbook.org/2020/pretext/internal">
+  <!-- Name of Western mountain gorilla -->
+  <custom name= "book-version">
+    This is the filled-in version of the book, which contains the details of the class notes (after that class day is complete) and solutions to activities/homework once they are graded. The blank version of the book, available on Canvas, has the empty version of the notes that you can print to write on during class. 
+  </custom>
+  <custom name="subtitle">
+  College Algebra (filled)
+  </custom>
+</pi:customizations>
