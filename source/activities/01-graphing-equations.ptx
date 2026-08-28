@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet component = "cur" xml:id = "wksht-graphing-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
+<worksheet component = "cur" xml:id = "wksht-graphing-equations" xmlns:xi="http://www.w3.org/2001/XInclude" bottom="0.5in">
   <title>Graphing Equations</title>
 
   <!-- Optional introduction -->
@@ -57,7 +57,7 @@
   </introduction>
 
   <!-- Exercises start here. -->
-  <exercise workspace="2in">
+  <exercise>
     <statement>
       <p>
         [2] What does the graph of an equation represent?
@@ -76,7 +76,7 @@
         [9] Consider the equation <m>2x+3y=12</m>. <em>Fully explain</em> each method and your solution. 
       </p>
     </introduction>
-    <task workspace="3in">
+    <task>
       <statement>
         <p>
           Graph the equation using any two points.
@@ -88,10 +88,11 @@
              label="wksht-graphing-lines-points">
     <xi:include href="../../prefigure/graphing-equations-line-points.xml" />
   </prefigure>
+  <shortdescription>The plot of a straight line that goes through the points (0,4) and (3,2).</shortdescription>
 </image>
       </solution>
     </task>
-    <task workspace="3in">
+    <task>
       <statement>
         <p>
           Graph the equation using intercepts.
@@ -103,10 +104,11 @@
              label="wksht-graphing-lines-inter">
     <xi:include href="../../prefigure/graphing-equations-line-intercepts.xml" />
   </prefigure>
+  <shortdescription>The plot of a straight line that goes through the points (0,4) and (6,0).</shortdescription>
 </image>
       </solution>
     </task>
-    <task workspace="3in">
+    <task>
       <statement>
         <p>
           Graph the equation using the slope and <m>y</m>-intercept.
@@ -115,7 +117,7 @@
     </task>
   </exercise>
 
-  <exercise workspace="2in">
+  <exercise>
     <statement>
       <p>
         [2] Which of the three ways above is your preferred method when you need to graph a <em>linear</em> equation? Why?
@@ -123,7 +125,7 @@
     </statement>
   </exercise>
 
-  <exercise workspace="4in">
+  <exercise>
     <statement>
       <p>
         [3] Graph the equation <m>y = 2x^2 - 4x + 5</m>.
@@ -131,7 +133,7 @@
     </statement>
   </exercise>
 
-  <exercise workspace="2in">
+  <exercise>
     <statement>
       <p>
         [4] Explain the method you used to graph your <em>non-linear</em> equation and why another method would not be appropriate. (For example: why would graphing just two points not work?)

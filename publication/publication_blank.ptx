@@ -72,7 +72,7 @@
     <!-- element, each taking @left, @center, and @right whose values are -->
     <!-- the text to place in that position.  For example:               -->
       <worksheet margin="0.75in">
-        <first-page-header left="Name: _____________" right="Date: __________"/>
+        <first-page-header left="Name: ___________________" right="Date: __________"/>
       </worksheet>
   </common>
 
