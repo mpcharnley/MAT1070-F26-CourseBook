@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet component = "past" xml:id = "wksht-graphing-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
+<worksheet component = "cur" xml:id = "wksht-graphing-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Graphing Equations</title>
 
   <!-- Optional introduction -->
@@ -11,10 +11,10 @@
         <li>
           <title>Dates</title>
           <p>
-            Assigned Date: 
+            Assigned Date: August 31, 2026
           </p>
           <p>
-            Due Date: 
+            Due Date: September 9, 2026
           </p>
         </li>
         <li>
@@ -26,7 +26,18 @@
         <li>
           <title>Task</title>
           <p>
-            Stuff
+            <ul>
+              <li>
+                <p>
+                  Read each question carefully.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Answer each question fully, using complete sentences in your explanations.
+                </p>
+              </li>
+            </ul>  
           </p>
         </li>
         <li>
@@ -54,7 +65,7 @@
     </statement>
     <solution>
       <p>
-        The set of all solutions points to an equation.
+        The set of all solution points to an equation.
       </p>
     </solution>
   </exercise>
@@ -62,10 +73,10 @@
   <exercise>
     <introduction>
       <p>
-        [9] Consider the equation <m>2x+3y=12</m>.
+        [9] Consider the equation <m>2x+3y=12</m>. <em>Fully explain</em> each method and your solution. 
       </p>
     </introduction>
-    <task workspace="4in">
+    <task workspace="3in">
       <statement>
         <p>
           Graph the equation using any two points.
@@ -80,7 +91,7 @@
 </image>
       </solution>
     </task>
-    <task workspace="4in">
+    <task workspace="3in">
       <statement>
         <p>
           Graph the equation using intercepts.
@@ -95,18 +106,37 @@
 </image>
       </solution>
     </task>
-    <task workspace="4in">
+    <task workspace="3in">
       <statement>
         <p>
           Graph the equation using the slope and <m>y</m>-intercept.
         </p>
       </statement>
     </task>
-    <conclusion>
+  </exercise>
+
+  <exercise workspace="2in">
+    <statement>
       <p>
-        <em>Fully explain</em> each method and your solution. 
+        [2] Which of the three ways above is your preferred method when you need to graph a <em>linear</em> equation? Why?
       </p>
-    </conclusion>
+    </statement>
+  </exercise>
+
+  <exercise workspace="4in">
+    <statement>
+      <p>
+        [3] Graph the equation <m>y = 2x^2 - 4x + 5</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        [4] Explain the method you used to graph your <em>non-linear</em> equation and why another method would not be appropriate. (For example: why would graphing just two points not work?)
+      </p>
+    </statement>
   </exercise>
 
 </worksheet>

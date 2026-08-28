@@ -34,6 +34,14 @@
       <p>
         Welcome to College Algebra!
       </p>
+      <p>
+        What are the goals of this course?
+      </p>
+      <p component="b" workspace="3in"/>
+      <p component="a">
+        Fundamentals...
+      </p>
+
     </paragraphs>
 
     <paragraphs>
