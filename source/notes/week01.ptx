@@ -22,13 +22,13 @@
         </li>
         <li>
           <p>
-            Introduction to Graphing
+            Introduction to graphing solutions of equations.
           </p>
         </li>
       </ul>
     </objectives>
     
-
+  <page>
     <paragraphs>
       <title>Introduction to the Course</title>
       <p>
@@ -37,54 +37,418 @@
       <p>
         What are the goals of this course?
       </p>
-      <p component="b" workspace="3in"/>
+      <p component="b" workspace="4in"/>
       <p component="a">
-        Fundamentals...
-      </p>
-
-    </paragraphs>
-
-    <paragraphs>
-      <title>Introduction to the People</title>
-      <p component="b" workspace="4in">
-        Who am I?
-      </p>
-      <p component="a">
-        Your instructor is Dr. Matt Charnley. This is his first year at Wayne State, but not his first year teaching overall. He spent the last seven years teaching at Rutgers University in New Jersey, covering a wide variety of classes from Math for Liberal Arts to Differential Equations.
-      </p>
-      <p>
-        Who are all of you?
-      </p>
-    </paragraphs>
-
-  <paragraphs>
-      <title>Graphing</title>
-      <p workspace="3in" component = "b">
-        What is a graph?
-      </p>
-      <p component="a">
-        What is a graph?
         <ul>
           <li>
             <p>
-              A visual representation of the solutions to an equation.
+              Introduction and exposure to the idea of functions.
             </p>
           </li>
           <li>
             <p>
-              Mark a point if the value <m>(x,y)</m> solves the given equation.
+              Types of functions and their basic properties.
+            </p>
+          </li>
+          <li>
+            <p>
+              A bit about what we can do with functions.
+            </p>
+          </li>
+          <li>
+            <p>
+              Word problems with functions.
+            </p>
+          </li>
+        </ul>
+        The types of functions we will see in this class include Linear, Quadratic, Polynomial, Rational, Exponential, and Logarithmic functions. MAT 1800 goes into more detail on all of these topics, but we will get started with all of that here.
+      </p>
+
+    </paragraphs>
+</page>
+<page>
+    <paragraphs>
+      <title>Introduction to the People</title>
+      <p component="b" workspace="3in">
+        Who am I?
+      </p>
+      <p component="a">
+        I'm Dr. Matt Charnley. This is my first year at Wayne State, but not my first year teaching overall. I spent the last seven years teaching at Rutgers University in New Jersey, covering a wide variety of classes from Math for Liberal Arts to Differential Equations.
+      </p>
+      <p component="a">
+        I am new here, so I don't know a lot about everything yet. If there's something you need help with, don't hesitate to ask me. If I don't know, I know who I can ask to learn these things about how Wayne State works.
+      </p>
+      <p component="a">
+        Teaching is what I'm passionate about. It has been my thing for a long time and it's why I have this job right now. I want to see all of you learn and grow throughout this course so you can be successful in the future.
+      </p>
+      <p workspace="1in">
+        Who are all of you? Take about 3 minutes to introduce yourself to the people around you. These are going to be your companions on this semester-long journey that we have together. When we come back together, I'll want everyone to introduce themselves with their name and intended major/career path.
+      </p>
+    </paragraphs>
+</page>
+<page>
+<paragraphs>
+<title>Syllabus and Canvas Overview</title>
+<p>
+  First off, the syllabus. The entire syllabus is available on our Canvas site.
+</p>
+<p>
+  <ul>
+    <li>
+      <p>
+        Basic info
+      </p>
+    </li>
+    <li>
+      <p>
+        Qualifying
+      </p>
+    </li>
+    <li>
+      <p>
+        eBook (more on that within Canvas later)
+      </p>
+    </li>
+    <li>
+      <p>
+        Attendance
+      </p>
+    </li>
+    <li>
+      <p>
+        Student Hours
+      </p>
+    </li>
+    <li>
+      <p>
+        Homework
+      </p>
+    </li>
+    <li>
+      <p>
+        Quizzes and Tests
+      </p>
+    </li>
+    <li>
+      <p>
+        Grade Policy and Final Exam Requirements
+      </p>
+    </li>
+    <li>
+      <p>
+        AI and Calculators
+      </p>
+    </li>
+  </ul>
+</p>
+
+<p>
+  For the Canvas site:
+  <ul>
+    <li>
+      <p>
+        Home page
+      </p>
+    </li>
+    <li>
+      <p>
+        Modules
+      </p>
+    </li>
+    <li>
+      <p>
+        Agenda page with notes
+      </p>
+    </li>
+    <li>
+      <p>
+        Pearson homework and eBook
+      </p>
+    </li>
+  </ul>
+</p>
+  </paragraphs>
+</page>
+<page>
+  <paragraphs>
+      <title>Graphing</title>
+      <p>
+        We're going to start this course by talking about graphing. There are many different types of graph, but the one we want to talk about in this class is the kind the allows us to compare two quantities. We want to see how the second quantity changes when the first is modified. For example:
+      </p>
+      <p workspace="2in" component="b">
+        <nbsp />
+      </p>
+      <p component="a">
+        <ul>
+          <li>
+            <p>
+              Attendance at Tigers games over the course of the season.
+            </p>
+          </li>
+          <li>
+            <p>
+              United States population as time changes.
+            </p>
+          </li>
+          <li>
+            <p>
+              Amount of money in a bank/savings/investment account over time.
             </p>
           </li>
         </ul>
       </p>
-    </paragraphs>
+      <p>
+        In order to visualize these things, we will need a two-dimensional image, where one direction corresponds to each quantity.
+      </p>
+      <p workspace="2in" component="b">
+        <nbsp />
+      </p>
+      <p component="a">
+        <ul>
+          <li>
+            <p>
+              <m>x</m> and <m>y</m> axes. The <m>x</m>-axis is the horizontal line and the <m>y</m>-axis is the vertical line.
+            </p>
+          </li>
+          <li>
+            <p>
+              The origin, which we will label with coordinates <m>(0,0)</m>, is the point where these axes meet.
+            </p>
+          </li>
+          <li>
+            <p>
+              Each point gets labeled with an ordered pair <m>(a,b)</m>, where <m>a</m> indicates where the point is in the horizontal direction and <m>b</m> is where it is in the vertical direction. We call these the <m>x</m> and <m>y</m> coordinates respectively.
+            </p>
+          </li>
+          <li>
+            <p>
+              We end up with four quadrants here, which we label in a counter-clockwise direction.
+              <ul>
+                <li>
+                  <p>
+                    Quadrant 1 is where both the <m>x</m> and <m>y</m> coordinates are positive. 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Quadrant 2 is where both the <m>x</m> coordinate is negative and <m>y</m> coordinate is positive. 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Quadrant 3 is where both the <m>x</m> and <m>y</m> coordinates are negative. 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Quadrant 4 is where both the <m>x</m> coordinate is positive and <m>y</m> coordinate is negative. 
+                  </p>
+                </li>
+              </ul> 
+              All of this together is called the <em>Cartesian plane</em> or <em>Cartesian coordinate system</em> after Rene Descartes.
+            </p>
+          </li>
+        </ul>
+      </p>
+      </paragraphs>
+    </page>
+    <page>
+      <example workspace="3in">
+        <statement>
+          <p>
+            Plot and label the points <m>(2,1)</m>, <m>(-4,3)</m>, <m>(0,0)</m>, <m>(-3,-2)</m>, <m>(3,-4)</m>, and <m>(2,-1)</m>.
+          </p>
+        </statement>
+        <solution component="a">
+          <p>
+            Graph
+          </p>
+        </solution>
+      </example>
+</page>
+<page>
+    <paragraphs>
+      <title>Solutions of Equations</title>
+      <p workspace="1in" component="b">
+        Now, what do we want to graph? Well, we're going to want to get graphs for mathematical equations (and later, functions). First, we need to look at solutions to these equations. If I have an equation in two variables <m>x</m> and <m>y</m>, then a <em>solution</em> is
+      </p>
+      <p component="a">
+        Now, what do we want to graph? Well, we're going to want to get graphs for mathematical equations (and later, functions). First, we need to look at solutions to these equations. If I have an equation in two variables <m>x</m> and <m>y</m>, then a <em>solution</em> is any ordered pair <m>(x,y)</m> where plugging these values into the equation results in a true statement. We will plug the first value in the ordered pair in for <m>x</m> and the second value in for <m>y</m>.
+      </p>
 
+      <example workspace="2in">
+        <introduction>
+          <p>
+            Determine whether each ordered pair is a solution of the equation <m>3x - 2y = 5</m>.
+          </p>
+        </introduction>
+        <task>
+          <statement>
+            <p>
+              <m>(1, 4)</m>
+            </p>
+          </statement>
+          <solution component="a">
+            <p>
+              No, this is not a solution. If we plug in the values we get <m>3(1) - 2(4) = 3 - 8 = -5</m> which is not the same as the <m>5</m> on the other side of the equation. 
+            </p>
+          </solution>
+        </task>
+        <task>
+          <statement>
+            <p>
+              <m>(3,2)</m>
+            </p>
+          </statement>
+          <solution component="a">
+            <p>
+              Yes, this is a solution. If we plug in the values, we get <m>3(3) - 2(2) = 9 - 4 = 5</m> which matches the other side of the equation.
+            </p>
+          </solution>
+        </task>
+      </example>
+      </paragraphs>
+
+    </page>
+<page>
+    <paragraphs>
+      <title>Graphs of Equations</title>
+      
+
+      <p workspace="3in" component = "b">
+        What is a graph of an equation?
+      </p>
+      <p component="a">
+        What is a graph of an equation?
+        <ul>
+          <li>
+            <p>
+              A visual representation of the solutions to the equation.
+            </p>
+          </li>
+          <li>
+            <p>
+              Mark a point (include it in the graph) if the value <m>(x,y)</m> solves the given equation.
+            </p>
+          </li>
+        </ul>
+      </p>
+      <p>
+        Graphs of equations that look like <m>Ax+By = C</m> are straight lines. Since it only takes two points to determine a straight line, we can draw these graphs by finding any two points. Two convenient points we can often use are the <em>intercepts</em>.
+      </p>
+      <definition xml:id="def-intercepts">
+        <statement>
+          <p>
+            The intercepts of a graph are the places where the graph crosses the axes.
+          </p>
+          <p workspace="3in" component="b">
+            <nbsp />
+          </p>
+          <p component = "a">
+            <ul>
+              <li>
+                <p>
+                  The <em>x-intercept</em> is where the graph crosses the <m>x</m>-axis. This means it must be a point of the form <m>(a,0)</m>. To find <m>a</m>, plug in zero for <m>y</m> and solve for <m>x</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  The <em>y-intercept</em> is where the graph crosses the <m>y</m>-axis. This means it must be a point of the form <m>(0,b)</m>. To find <m>b</m>, plug in zero for <m>x</m> and solve for <m>y</m>.
+                </p>
+              </li>
+            </ul>
+          </p>
+        </statement>
+      </definition>
+          </paragraphs>
+        </page>
+        <page>
+    <example workspace="3in">
+      <statement>
+        <p>
+          Graph <m>3x - 2y = 5</m>.
+        </p>
+      </statement>
+      <solution component="a">
+        <p>
+          The intercepts are at (0,6) and (9,0). Can also check that (3,2) from before is a solution and is on this line.
+        </p>
+      </solution>
+    </example>
+
+  </page>
+  <page>
+<p>
+  Another way to graph equations of lines is to solve for <m>y</m> first, then plug points into <m>x</m>. In the normal way we will set up these equations in the future, we'll be looking to analyze how <m>y</m> changes when we plug in different values of <m>x</m>, so solving for <m>y</m> is usually the way to go.
+</p>
+
+<example workspace="3in">
+<statement>
+<p>
+  Graph <m>5x + 3y = 18</m>.
+</p>
+  </statement>
+  <solution component="a">
     <p>
+      Solving for <m>y</m> gives <m>y = -\frac{5}{3}x + 6</m>. Now we can plug numbers in for <m>x</m>, and we want to do so in ways that will make this easy for us. So, we can plug in <m>0</m>, which gives <m>y=6</m>. Now, if we want to avoid fractions, we should plug in something that is a multiple of <m>3</m> for <m>x</m>. Plugging in <m>x=3</m> gives <m>y=1</m>, so we can draw our line.
     </p>
+  </solution>
+</example>
+</page>
+<page>
+
+<p>
+When we solve out for <m>y</m> like this, we are indicating that the value of <m>y</m> depends on <m>x</m>, so that <m>y</m> is the <em>dependent variable</em> and <m>x</m> is the <em>independent variable</em>.
+  </p>
+
+  <example workspace="3in">
+    <statement>
+      <p>
+        Graph <m>y=x^2  - 3x + 1</m>.
+      </p>
+    </statement>
+    <solution component="a">
+      <p>
+        This equation is not a straight line. That <m>x^2</m> in there means that we can't just plot two points and draw this graph. So, we need to compute a lot of points and draw the line between them the complete the graph. Plugging in points, we get
+      </p>
+      <table>
+        <title>Points For the Example</title>
+        <tabular>
+          <row header="yes">
+            <cell><m>x</m></cell><cell><m>y</m></cell><cell><m>(x,y)</m></cell>
+          </row>
+          <row>
+            <cell><m>-2</m></cell><cell><m>11</m></cell><cell><m>(-2,10)</m></cell>
+          </row>
+          <row>
+            <cell><m>-1</m></cell><cell><m>5</m></cell><cell><m>(-1,7)</m></cell>
+          </row>
+          <row>
+            <cell><m>0</m></cell><cell><m>1</m></cell><cell><m>(0,1)</m></cell>
+          </row>
+          <row>
+            <cell><m>1</m></cell><cell><m>-1</m></cell><cell><m>(1, -1)</m></cell>
+          </row>
+          <row>
+            <cell><m>2</m></cell><cell><m>-1</m></cell><cell><m>(2, -1)</m></cell>
+          </row>
+          <row>
+            <cell><m>3</m></cell><cell><m>1</m></cell><cell><m>(3, 1)</m></cell>
+          </row>
+        </tabular>
+      </table>
+      <p> And from that, we can sketch the graph. </p>
+    </solution>
+  </example>
+
+  <p>
+    Proceed to Worksheet 01 on Graphing Equations.
+  </p>
+  </page>
   </handout>
 
 
-  <handout component = "cur">
+  <handout component = "future">
     <title>Wednesday 9/2</title>
 
     <p>

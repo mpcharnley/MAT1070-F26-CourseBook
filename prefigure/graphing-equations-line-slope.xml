@@ -1,0 +1,20 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> a=0 </definition>
+  <definition> b=3</definition>
+  <definition> f(x)=4 - (2/3)*x </definition>
+  <coordinates bbox="[-2,-2,8,8]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+    <point p="(a, f(a))" alignment="ne">
+      <m>(0,4)</m>
+    </point>
+    <point p="(b, f(b))" alignment="ne">
+      <m>(3,2)</m>
+    </point>
+    <line endpoints="(0,4), (0,2)" alignment="west" rotate="90" offset="(0,-5)"><m>-2</m>
+    </line>
+    <line endpoints="(0,2), (3,2)" alignment="south"><m>3</m>
+    </line>
+    <polygon points="((0,4), (0,2), (3,2))" stroke="green" thickness="4"/>
+  </coordinates>
+</diagram>

@@ -114,6 +114,15 @@
           Graph the equation using the slope and <m>y</m>-intercept.
         </p>
       </statement>
+      <solution>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-slope">
+    <xi:include href="../../prefigure/graphing-equations-line-slope.xml" />
+  </prefigure>
+  <shortdescription>The plot of a straight line that has intercept (0,4) and shows a slope of -2/3.</shortdescription>
+</image>
+      </solution>
     </task>
   </exercise>
 
@@ -123,6 +132,11 @@
         [2] Which of the three ways above is your preferred method when you need to graph a <em>linear</em> equation? Why?
       </p>
     </statement>
+    <solution>
+      <p>
+        Answers will vary. Any of the three methods can be your preferred method as long as you have a reason for why. 
+      </p>
+    </solution>
   </exercise>
 
   <exercise>
@@ -131,6 +145,17 @@
         [3] Graph the equation <m>y = 2x^2 - 4x + 5</m>.
       </p>
     </statement>
+    <solution>
+      <solution>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-quad">
+    <xi:include href="../../prefigure/graphing-equations-quadratic.xml" />
+  </prefigure>
+  <shortdescription>The plot of an upward facing parabola with points at (-1, 11), (0,5), (1,3), (2,5) and (3,11) marked.</shortdescription>
+</image>
+      </solution>
+    </solution>
   </exercise>
 
   <exercise>
@@ -139,6 +164,11 @@
         [4] Explain the method you used to graph your <em>non-linear</em> equation and why another method would not be appropriate. (For example: why would graphing just two points not work?)
       </p>
     </statement>
+    <solution>
+      <p>
+        Since this function is not linear, it is not determined by only two points. The graph will be curved, and not a straight line. Therefore, we need to plug in a lot more points to determine the overall shape of the curve before we are able to graph it. 
+      </p>
+    </solution>
   </exercise>
 
 </worksheet>

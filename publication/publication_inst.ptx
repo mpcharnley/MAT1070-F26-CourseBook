@@ -251,12 +251,12 @@
 
     <!-- Whether a particular element is born in a knowl is set here.  -->
     <!-- Each attribute is "yes" or "no"; the defaults are shown.      -->
-      <!--<knowl
+    <knowl
         theorem="no"
-        proof="yes"
+        proof="no"
         definition="no"
-        example="yes"
-        example-solution="yes"
+        example="no"
+        example-solution="no"
         project="no"
         task="no"
         remark="no"
@@ -266,11 +266,11 @@
         table="no"
         listing="no"
         list="no"
-        exercise-inline="yes"
+        exercise-inline="no"
         exercise-divisional="no"
         exercise-worksheet="no"
         exercise-readingquestion="no"
-      />-->
+      />
 
     <!-- The theme controls the look of the html.  Which extra attributes -->
     <!-- apply depends on the theme you choose:                           -->
