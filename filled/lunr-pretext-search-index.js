@@ -19,40 +19,13 @@ var ptx_lunr_docs = [
   "body": " Week 1   This is an outline of the topics we covered in the first week of class.    "
 },
 {
-  "id": "notes-week-02",
+  "id": "activities",
   "level": "1",
-  "url": "notes-week-02.html",
-  "type": "Section",
+  "url": "activities.html",
+  "type": "Chapter",
   "number": "",
-  "title": "Week 2",
-  "body": " Week 2   Monday      Wednesday      Friday     "
-},
-{
-  "id": "wksht-graphing-equations",
-  "level": "1",
-  "url": "wksht-graphing-equations.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Graphing Equations",
-  "body": " Graphing Equations       Dates  Assigned Date:  Due Date:    Purpose  The skill that you will practice in this exercise is graphing equations. Mastering this skill is vital to your development as a student of mathematics. Our textbook shows graphical solutions to most problems alongside the algebraic solution. Having a firm grasp of the basics will enhance a deeper understanding as you progress through the semester and on into Calculus.    Task  Stuff    Resources  Use your notes from the first class, the online eText or contact your instructor when you have questions.    Criteria for Success  Your assignment is due to your instructor by the date listed above. You must submit 1 pdf document as described in the syllabus, through Canvas. Your instructor will be assessing completeness and correctness for each question. This assignment will be worth 20 points.         [2] What does the graph of an equation represent?    The set of all solutions points to an equation.      [9] Consider the equation .     Graph the equation using any two points.       a=0  b=3  f(x)=4 - (2\/3)*x      (0,4)    (3,2)           Graph the equation using intercepts.       a=0  b=6  f(x)=4 - (2\/3)*x      (0,4)    (6,0)           Graph the equation using the slope and -intercept.      Fully explain each method and your solution.    "
-},
-{
-  "id": "wksht-graphing-equations-3",
-  "level": "2",
-  "url": "wksht-graphing-equations.html#wksht-graphing-equations-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  [2] What does the graph of an equation represent?    The set of all solutions points to an equation.   "
-},
-{
-  "id": "wksht-graphing-equations-4",
-  "level": "2",
-  "url": "wksht-graphing-equations.html#wksht-graphing-equations-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  [9] Consider the equation .     Graph the equation using any two points.       a=0  b=3  f(x)=4 - (2\/3)*x      (0,4)    (3,2)           Graph the equation using intercepts.       a=0  b=6  f(x)=4 - (2\/3)*x      (0,4)    (6,0)           Graph the equation using the slope and -intercept.      Fully explain each method and your solution.   "
+  "title": "Filled In-Class Activities",
+  "body": " Filled In-Class Activities    "
 },
 {
   "id": "handouts",
