@@ -8,12 +8,14 @@
             publication="publication.ptx" deploy-dir="course" /> -->
     <target name="blank" source="main.ptx" format="html"
             publication="publication_blank.ptx" deploy-dir="blank" />
+<target name="blank_pdf" source="main.ptx" format="latex"
+            publication="publication_blank.ptx" deploy-dir="blank" />
     <target name="filled" source="main.ptx" format="html"
             publication="publication_filled.ptx"  />
     <target name="inst" source="main.ptx" format="html"
             publication="publication_inst.ptx" />
-    <target name="print" source="main.ptx" format="pdf"
-            output-filename="course.pdf" publication="publication.ptx" />
+    <target name="print" standalone="yes" source="std.ptx" format="pdf"
+            output-filename="course.pdf" publication="publication_blank.ptx"/>
 
     <!--
     <target name="slides" source="slides/slides.ptx" format="revealjs"

@@ -73,9 +73,11 @@
     <!-- the text to place in that position.  For example:               -->
       <worksheet margin="0.75in">
         <first-page-header left="Name: ___________________" right="Date: __________"/>
+        
       </worksheet>
+      
   </common>
-
+  <stringparams latex.preamble.late="\renewcommand{\ptxtriangle}{}"/>
 
   <!-- Set where generated assets will be created.  The directory is -->
   <!-- relative to the main source PreTeXt file.  The companion      -->
@@ -154,7 +156,7 @@
   <!--   underline hyperlinks in the PDF.                              -->
   <!-- @latex-style selects one of a few provided styles: AIM, chaos,  -->
   <!--   CLP, dyslexic-font, guide, texstyle.  Some are demos only.    -->
-  <latex>
+  <latex print="yes" font-size="17">
   <!-- Replace the <latex> tag above with the one below to try these-->
   <!--
     <latex
@@ -202,8 +204,9 @@
     <!-- valid for certain element types.  You may repeat the insertions  -->
     <!-- element to organize page breaks by chapter, and so on.           -->
       <!--<insertions pagebreaks="my-first-id my-second-id" />-->
+      
   </latex>
-
+  
   <!-- Options for the experimental conversion that produces PDF directly -->
   <!-- from XSL-FO, with no LaTeX stage.  @font selects the text and      -->
   <!-- monospace fonts; "latin-modern" is the only value at present.      -->

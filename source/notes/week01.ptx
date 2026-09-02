@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
 
 <section xml:id="notes-week-01" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Week 1</title>
@@ -401,7 +401,7 @@
 When we solve out for <m>y</m> like this, we are indicating that the value of <m>y</m> depends on <m>x</m>, so that <m>y</m> is the <em>dependent variable</em> and <m>x</m> is the <em>independent variable</em>.
   </p>
 
-  <example workspace="3in">
+  <example workspace="5in">
     <statement>
       <p>
         Graph <m>y=x^2  - 3x + 1</m>.
@@ -448,8 +448,17 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
   </handout>
 
 
-  <handout component = "future">
+  <handout component = "cur">
     <title>Wednesday 9/2</title>
+<objectives>
+  <ul>
+    <li>
+      <p>
+        
+      </p>
+    </li>
+  </ul>
+</objectives>
 
     <p>
     </p>
