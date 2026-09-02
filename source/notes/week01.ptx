@@ -762,12 +762,12 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
         From the graph given below, determine <m>f(1)</m> and <m>f(-2)</m>.
       </p>
       <image width="60%">
-    <prefigure xmlns="https://prefigure.org">
-    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
-  <definition> f(x)=1/4*(-x^4 + 3x^2 - 4) </definition>
-  <coordinates bbox="[-5,-3,5,10]">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-identify">
+    <diagram dimensions="(300,300)" margins="5">
+  <definition> f(x)=1/2*(-x^4 + 3*x^2 - 4)+8 </definition>
+  <coordinates bbox="[-5,-2,5,9]">
     <grid-axes xlabel="x" ylabel="y"/>
-    <graph function="f"/>
+    <graph function="f" domain="[-5,5]"/>
   </coordinates>
 </diagram>
     </prefigure>
@@ -886,7 +886,7 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
           <md>f(x) = 4-3x</md>
         </p>
         <image width="60%">
-    <prefigure xmlns="https://prefigure.org">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-linear">
     <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
   <definition> f(x)=4-3*x </definition>
   <coordinates bbox="[-5, -5, 5, 5]">
@@ -906,7 +906,7 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
           <md>f(x) = \sqrt{x+1}</md>
         </p>
         <image width="60%">
-    <prefigure xmlns="https://prefigure.org">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-radical">
     <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
   <definition> f(x)=sqrt(x+1)</definition>
   <coordinates bbox="[-5, -5, 5, 5]">
@@ -926,7 +926,7 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
           <md>f(x) = \frac{1}{x}</md>
         </p>
         <image width="60%">
-    <prefigure xmlns="https://prefigure.org">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-asympt">
     <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
   <definition> f(x)=1/x</definition>
   <coordinates bbox="[-5, -5, 5, 5]">
@@ -947,7 +947,7 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
           <md>f(x) = \frac{1}{(x-2)^2}</md>
         </p>
         <image width="60%">
-    <prefigure xmlns="https://prefigure.org">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-posasympt">
     <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
   <definition> f(x)=1/(x-2)^2</definition>
   <coordinates bbox="[-5, -5, 5, 5]">
@@ -968,7 +968,7 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
           <md>f(x) = \sqrt{9 - (x+1)^2}</md>
         </p>
         <image width="60%">
-    <prefigure xmlns="https://prefigure.org">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-circle">
     <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
   <definition> f(x)=sqrt(9-(x+1)^2)</definition>
   <coordinates bbox="[-5, -5, 5, 5]">
