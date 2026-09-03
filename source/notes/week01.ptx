@@ -986,10 +986,137 @@ When we solve out for <m>y</m> like this, we are indicating that the value of <m
   </handout>
 
 
-  <handout component="future">
+  <handout component="cur">
     <title>Friday 9/4</title>
+<objectives>
+  <ul>
+    <li>
+      <p>
+        Determine the domain and range of a function from its graph.
+      </p>
+    </li>
+  </ul>
+</objectives>
 
-    <p>
+<page>
+  <paragraphs>
+    <title>Visualizing Domain and Range</title>
+    <p workspace="2in">
+      The main things to keep in mind for seeing domain and range on graphs are
     </p>
+  </paragraphs>
+</page>
+<page>
+<example>
+  <introduction>
+    <p>
+      For each of the graphs below, determine the domain and range of the function.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <sidebyside>
+        <p>
+          <md>f(x) = 4-3x</md>
+        </p>
+        <image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-linear2">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=4-3*x </definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+      </sidebyside>
+    </statement>
+  </task>
+   <task>
+    <statement>
+      <sidebyside>
+        <p>
+          <md>f(x) = \sqrt{x+1}</md>
+        </p>
+        <image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-radical2">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=sqrt(x+1)</definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="[-1, 5]"/>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+      </sidebyside>
+    </statement>
+  </task>
+   <task>
+    <statement>
+      <sidebyside>
+        <p>
+          <md>f(x) = \frac{1}{x}</md>
+        </p>
+        <image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-asympt2">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=1/x</definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="[-5, -0.1]"/>
+    <graph function="f" domain="[0.1, 5]"/>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+      </sidebyside>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <sidebyside>
+        <p>
+          <md>f(x) = \frac{1}{(x-2)^2}</md>
+        </p>
+        <image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-posasympt2">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=1/(x-2)^2</definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="[-5, 1.9]"/>
+    <graph function="f" domain="[2.1, 5]"/>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+      </sidebyside>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <sidebyside>
+        <p>
+          <md>f(x) = \sqrt{9 - (x+1)^2}</md>
+        </p>
+        <image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="fun-graph-circle2">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=sqrt(9-(x+1)^2)</definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="[-4, 2]"/>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+      </sidebyside>
+    </statement>
+  </task>
+</example>
+</page>
+
   </handout>
 </section>

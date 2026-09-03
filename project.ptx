@@ -9,7 +9,7 @@
     <target name="blank" source="main.ptx" format="html"
             publication="publication_blank.ptx" deploy-dir="blank" />
 <target name="blank_pdf" source="main.ptx" format="latex"
-            publication="publication_blank.ptx" deploy-dir="blank" />
+            publication="publication_blank.ptx"/>
     <target name="filled" source="main.ptx" format="html"
             publication="publication_filled.ptx"  />
     <target name="inst" source="main.ptx" format="html"
