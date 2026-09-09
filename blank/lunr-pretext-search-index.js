@@ -454,8 +454,8 @@ var ptx_lunr_docs = [
   "id": "wksht-functions-domains-4-1-3",
   "level": "2",
   "url": "wksht-functions-domains.html#wksht-functions-domains-4-1-3",
-  "type": "Example",
-  "number": "35",
+  "type": "Worksheet Exercise",
+  "number": "5",
   "title": "",
   "body": "  Find the domain of each function.             .    "
 },
