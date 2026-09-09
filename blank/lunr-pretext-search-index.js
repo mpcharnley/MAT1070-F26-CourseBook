@@ -235,6 +235,123 @@ var ptx_lunr_docs = [
   "body": "  For each of the graphs below, determine the domain and range of the function.            f(x)=4-3*x                     f(x)=sqrt(x+1)                     f(x)=1\/x                      f(x)=1\/(x-2)^2                      f(x)=sqrt(9-(x+1)^2)            "
 },
 {
+  "id": "notes-week-02",
+  "level": "1",
+  "url": "notes-week-02.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 2",
+  "body": " Week 2   Wednesday 9\/9     Review main concepts of functions,    Discuss linear functions and their graphs, and    Review a few applications of linear functions.       Functions Recap  Last time, we discussed a lot of properties about functions and what we can do with them.  Now, we'll do an activity to review all of these ideas for actual functions.      Linear Functions  The next first class of functions that we want to talk about in this class is linear functions. These are, in some sense, the simplest class of functions, but they have a lot of nice properties that can build into the future classes of functions we'll consider.    A linear function is a function where    There are a few special cases of linear functions:      The meaning of and  We know we can write linear equations as , but what do those parameters mean? We'll start with .  Consider the graphs of the two functions below and a corresponding table of values.      f(x)=(1\/2)*x + 5      f(x)          f(x)=(3\/200)*x^2 + 10      g(x)          Values for       0 5    10 10    20 15    30 20    40 25      Values for       0 10    10 11.5    20 16    30 23.5    40 34      What do we notice from this data?       The slope  of a line containing the points and is      Graph the function and determine its slope.      What about the slope of horizontal and vertical lines?  How does changing the slope affect the line?    What about the term in the equation? How can we visualize the effect that that has on the graph and equation?     f(x)=2*x  g(x)=2*x+3  h(x)=2*x-1        2x  2x+3  2x-1              The slope-intercept form of a linear equation is      Find the slope and intercept of the linear function given by .      Find the slope and intercept of the linear function given by .        Graph using the slope and intercept.       Applications of Slope and Linear Equations  The most important thing to keep in mind for all problems of this type is that the slope of a line gives the average rate of change.     Consider the following data and plot for the price of Chegg stock during a time period between January 2019 and January 2025    Data Points for Chegg Stock Price    Date Months since 01\/2019 Price ($)    1-Jan-19 0 28    1-Jul-19 6 39.43    1-Jan-20 12 38.09    1-Jul-20 18 67.26    1-Jan-21 24 90.25    1-Jul-21 30 83    1-Jan-22 36 30.81    1-Jul-22 42 19    1-Jan-23 48 25.73    1-Jul-23 54 8.89    1-Jan-24 60 11.24    1-Jul-24 66 3.16    1-Jan-25 72 1.67         x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    Months  Stock Price            Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2024.      Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2021.         An electric company charges a bill of $30 plus $0.50 per kWh used for the first 200 kWh. After that, the rate changes.     Determine a function for the amount that the electric company will charge for a bill of kWh.      What is the domain of this function?      How much will they charge for a house that uses 120 kWh in a month?        Wednesday      Friday     "
+},
+{
+  "id": "notes-week-02-2-2",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review main concepts of functions,    Discuss linear functions and their graphs, and    Review a few applications of linear functions.    "
+},
+{
+  "id": "def-linear-function-one",
+  "level": "2",
+  "url": "notes-week-02.html#def-linear-function-one",
+  "type": "Definition",
+  "number": "21",
+  "title": "",
+  "body": "  A linear function is a function where   "
+},
+{
+  "id": "notes-week-02-2-5-1-5-1",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-5-1-5-1",
+  "type": "Table",
+  "number": "22",
+  "title": "Values for <span class=\"process-math\">\\(f(x)\\)<\/span>",
+  "body": " Values for       0 5    10 10    20 15    30 20    40 25    "
+},
+{
+  "id": "notes-week-02-2-5-1-5-2",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-5-1-5-2",
+  "type": "Table",
+  "number": "23",
+  "title": "Values for <span class=\"process-math\">\\(g(x)\\)<\/span>",
+  "body": " Values for       0 10    10 11.5    20 16    30 23.5    40 34    "
+},
+{
+  "id": "def-slope",
+  "level": "2",
+  "url": "notes-week-02.html#def-slope",
+  "type": "Definition",
+  "number": "24",
+  "title": "",
+  "body": "  The slope  of a line containing the points and is   "
+},
+{
+  "id": "notes-week-02-2-6-2",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-6-2",
+  "type": "Example",
+  "number": "25",
+  "title": "",
+  "body": "  Graph the function and determine its slope.   "
+},
+{
+  "id": "def-slope-intercept-form",
+  "level": "2",
+  "url": "notes-week-02.html#def-slope-intercept-form",
+  "type": "Definition",
+  "number": "26",
+  "title": "",
+  "body": "  The slope-intercept form of a linear equation is   "
+},
+{
+  "id": "notes-week-02-2-9-2",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-9-2",
+  "type": "Example",
+  "number": "27",
+  "title": "",
+  "body": "  Find the slope and intercept of the linear function given by .   "
+},
+{
+  "id": "notes-week-02-2-9-3",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-9-3",
+  "type": "Example",
+  "number": "28",
+  "title": "",
+  "body": "  Find the slope and intercept of the linear function given by .   "
+},
+{
+  "id": "notes-week-02-2-10-1",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-10-1",
+  "type": "Example",
+  "number": "29",
+  "title": "",
+  "body": "  Graph using the slope and intercept.   "
+},
+{
+  "id": "notes-week-02-2-11-2",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-11-2",
+  "type": "Example",
+  "number": "30",
+  "title": "",
+  "body": "  Consider the following data and plot for the price of Chegg stock during a time period between January 2019 and January 2025    Data Points for Chegg Stock Price    Date Months since 01\/2019 Price ($)    1-Jan-19 0 28    1-Jul-19 6 39.43    1-Jan-20 12 38.09    1-Jul-20 18 67.26    1-Jan-21 24 90.25    1-Jul-21 30 83    1-Jan-22 36 30.81    1-Jul-22 42 19    1-Jan-23 48 25.73    1-Jul-23 54 8.89    1-Jan-24 60 11.24    1-Jul-24 66 3.16    1-Jan-25 72 1.67         x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    Months  Stock Price            Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2024.      Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2021.    "
+},
+{
+  "id": "notes-week-02-2-12-1",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-2-12-1",
+  "type": "Example",
+  "number": "32",
+  "title": "",
+  "body": "  An electric company charges a bill of $30 plus $0.50 per kWh used for the first 200 kWh. After that, the rate changes.     Determine a function for the amount that the electric company will charge for a bill of kWh.      What is the domain of this function?      How much will they charge for a house that uses 120 kWh in a month?    "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
@@ -287,6 +404,60 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  [4] Explain the method you used to graph your non-linear equation and why another method would not be appropriate. (For example: why would graphing just two points not work?)    Since this function is not linear, it is not determined by only two points. The graph will be curved, and not a straight line. Therefore, we need to plug in a lot more points to determine the overall shape of the curve before we are able to graph it.   "
+},
+{
+  "id": "wksht-functions-domains",
+  "level": "1",
+  "url": "wksht-functions-domains.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Functions, Domains, and Evaluation",
+  "body": " Functions, Domains, and Evaluation       Dates  Assigned Date: September 9, 2026  Due Date: September 14, 2026    Purpose  This activity was partially completed in class. Here you will explore functions and get practice evaluating them and finding their domains.    Resources  Use your notes from the class, the online eText or contact your instructor when you have questions.    Criteria for Success  Your assignment is due to your instructor by the date listed above. You must submit 1 pdf document as described in the syllabus, through Canvas. Your instructor will be assessing completeness and correctness for each question. This assignment will be worth 20 points.        In-Class Exercises (not for submission)    Consider the relation .     Is this a function? Justify your answer.      What is its domain?      What is its range?        Given that , find each of the following.                    Find the domain of each function.      .       .       .        Homework Exercises (for submission)    Given that , find each of the following.                    .       Find the domain of each function.             .       "
+},
+{
+  "id": "wksht-functions-domains-3-1-2",
+  "level": "2",
+  "url": "wksht-functions-domains.html#wksht-functions-domains-3-1-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the relation .     Is this a function? Justify your answer.      What is its domain?      What is its range?    "
+},
+{
+  "id": "wksht-functions-domains-3-2",
+  "level": "2",
+  "url": "wksht-functions-domains.html#wksht-functions-domains-3-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Given that , find each of the following.                 "
+},
+{
+  "id": "wksht-functions-domains-3-3",
+  "level": "2",
+  "url": "wksht-functions-domains.html#wksht-functions-domains-3-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Find the domain of each function.      .       .       .    "
+},
+{
+  "id": "wksht-functions-domains-4-1-2",
+  "level": "2",
+  "url": "wksht-functions-domains.html#wksht-functions-domains-4-1-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Given that , find each of the following.                    .    "
+},
+{
+  "id": "wksht-functions-domains-4-1-3",
+  "level": "2",
+  "url": "wksht-functions-domains.html#wksht-functions-domains-4-1-3",
+  "type": "Example",
+  "number": "35",
+  "title": "",
+  "body": "  Find the domain of each function.             .    "
 },
 {
   "id": "handouts",
