@@ -1,14 +1,423 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="notes-week-02" xmlns:xi="http://www.w3.org/2001/XInclude" component="future">
+<section xml:id="notes-week-02" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Week 2</title>
 
-  <subsection>
-    <title>Monday</title>
+<handout component="cur">
+  <title>Wednesday 9/9</title>
+  <objectives>
+    <ul>
+      <li>
+        <p>
+          Review main concepts of functions,
+        </p>
+      </li>
+      <li>
+        <p>
+          Discuss linear functions and their graphs, and
+        </p>
+      </li>
+      <li>
+        <p>
+          Review a few applications of linear functions.
+        </p>
+      </li>
+    </ul>
+  </objectives>
+  <page>
+    <paragraphs>
+      <title>Functions Recap</title>
 
-    <p>
+<p component="b" workspace="4in">
+  Last time, we discussed a lot of properties about functions and what we can do with them.
+</p>
+<p component="a">
+  Last time, we discussed a lot of properties about functions and what we can do with them. This includes things like
+  <ul>
+    <li>
+      <p>
+        Domain
+      </p>
+    </li>
+    <li>
+      <p>
+        Range
+      </p>
+    </li>
+    <li>
+      <p>
+        How to evaluate functions
+      </p>
+    </li>
+    <li>
+      <p>
+        Evaluating functions with variable expressions
+      </p>
+    </li>
+  </ul>
+</p>
+<p>
+  Now, we'll do an activity to review all of these ideas for actual functions.
+</p>
+    </paragraphs>
+  </page>
+  <page>
+    <paragraphs>
+      <title>Linear Functions</title>
+      <p>
+        The next first class of functions that we want to talk about in this class is linear functions. These are, in some sense, the simplest class of functions, but they have a lot of nice properties that can build into the future classes of functions we'll consider.
+      </p>
+
+      <definition xml:id="def-linear-function-one">
+        <statement>
+          <p component="b" workspace="2in">
+            A <term>linear function</term> is a function <m>f(x)</m> where 
+          </p>
+          <p component="a">
+            A <term>linear function</term> is a function <m>f(x)</m> where the graph of <m>f(x)</m> is a straight line. We can also define a linear function as one that can be written in the form <md>
+              f(x) = mx + b
+            </md> for two constants <m>m</m> and <m>b</m>.
+          </p>
+        </statement>
+      </definition>
+<p component="b" workspace="3in">
+  There are a few special cases of linear functions:
+</p>
+<p component="a">
+  There are a few special cases of linear functions: <ul>
+    <li>
+      <p>
+        <m>m=1</m> and <m>b=0</m>, the identity function
+      </p>
+    </li>
+    <li>
+      <p>
+        <m>m=0</m>, the constant functions.
+      </p>
+    </li>
+  </ul>
+  We can draw the graphs of some of these functions. [Include one vertical and one horizontal, write equation for horizontal, discuss for vertical]
+</p>
+    </paragraphs>
+  </page>
+
+  <page>
+    <paragraphs>
+      <title>The meaning of <m>m</m> and <m>b</m></title>
+      
+      <p>
+        We know we can write linear equations as <m>f(x) = mx + b</m>, but what do those parameters mean? We'll start with <m>m</m>.
+      </p>
+
+      <p>
+        Consider the graphs of the two functions below and a corresponding table of values.
+      </p>
+ 
+      <sidebyside>
+          <image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="lin-fun-lin-graph">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=(1/2)*x + 5</definition>
+  <coordinates bbox="[0, 0, 40, 40]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at = "f" function="f"/>
+    <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>f(x)</m></item>
+    </legend>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+
+<image width="60%">
+    <prefigure xmlns="https://prefigure.org" label="lin-fun-nlin-graph">
+    <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=(3/200)*x^2 + 10 </definition>
+  <coordinates bbox="[0, 0, 40, 40]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f"/>
+    <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>g(x)</m></item>
+    </legend>
+  </coordinates>
+</diagram>
+    </prefigure>
+</image>
+
+
+      </sidebyside>
+      
+      <sidebyside>
+        <table>
+          <title>Values for <m>f(x)</m></title>
+          <tabular>
+            <row header="yes">
+              <cell><m>x</m></cell><cell><m>f(x)</m></cell>
+            </row>
+            <row>
+              <cell>0</cell><cell>5</cell>
+            </row>
+            <row>
+              <cell>10</cell><cell>10</cell>
+            </row>
+            <row>
+              <cell>20</cell><cell>15</cell>
+            </row>
+            <row>
+              <cell>30</cell><cell>20</cell>
+            </row>
+            <row>
+              <cell>40</cell><cell>25</cell>
+            </row>
+          </tabular>
+        </table>
+
+        <table>
+          <title>Values for <m>g(x)</m></title>
+          <tabular>
+            <row header="yes">
+              <cell><m>x</m></cell><cell><m>g(x)</m></cell>
+            </row>
+            <row>
+              <cell>0</cell><cell>10</cell>
+            </row>
+            <row>
+              <cell>10</cell><cell>11.5</cell>
+            </row>
+            <row>
+              <cell>20</cell><cell>16</cell>
+            </row>
+            <row>
+              <cell>30</cell><cell>23.5</cell>
+            </row>
+            <row>
+              <cell>40</cell><cell>34</cell>
+            </row>
+          </tabular>
+        </table>
+      </sidebyside>
+      <p component="b" workspace="1in">
+        What do we notice from this data?
+      </p>
+      <p component="a">
+        What do we notice from this data? The amount that the linear function goes up every 10 units is always the same. This steepness is the slope.
+      </p>
+    </paragraphs>
+  </page>
+  <page>
+    <definition xml:id="def-slope">
+      <statement>
+        <p component="b" workspace="2in">
+          The <term>slope</term> <m>m</m> of a line containing the points <m>(x_1, y_1)</m> and <m>(x_2, y_2)</m> is 
+        </p>
+        <p component="a">
+          The <term>slope</term> <m>m</m> of a line containing the points <m>(x_1, y_1)</m> and <m>(x_2, y_2)</m> is given by the ratio of rise to run. This represents the rate of change of <m>y</m> with respect to <m>x</m>.
+        </p>
+      </statement>
+    </definition>
+    <example workspace="4in">
+      <statement>
+        <p>
+          Graph the function <m>f(x) = -\frac{3}{5}x + 4</m> and determine its slope.
+        </p>
+      </statement>
+    </example>
+  </page>
+  <page>
+    <p component="b" workspace="2in"> 
+      What about the slope of horizontal and vertical lines?
     </p>
-  </subsection>
+    <p component="a">
+      What about the slope of horizontal and vertical lines? Horizontal has slope zero, and vertical has an undefined slope.
+    </p>
+    <p component="b" workspace="3in">
+      How does changing the slope affect the line?
+    </p>
+    <p component="a">
+      How does changing the slope affect the line? Positive means up and to the right, negative means down to the right. Larger number means steeper line.
+    </p>
+    </page>
+    <page>
+    <p component="b" workspace="2in">
+      What about the <m>b</m> term in the equation? How can we visualize the effect that that has on the graph and equation?
+    </p>
+    <p component="a">
+      What about the <m>b</m> term in the equation? How can we visualize the effect that that has on the graph and equation? We can draw two different graphs and see what they look like.
+    </p>
+
+     
+    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="lin-fun-int-comparison">
+    <xi:include href="../../prefigure/lin-fun-int-comparison.xml" />
+  </prefigure>
+</image>
+    
+
+<p component="b" workspace="2in">
+  <nbsp />
+</p>
+<p component="a">
+  Adding a <m>b</m> to the equation causes a vertical shift. This is also the y-intercept of the function.
+</p>
+  </page>
+  <page>
+    <definition xml:id="def-slope-intercept-form">
+      <statement>
+        <p component="b" workspace="2in">
+          The <term>slope-intercept</term> form of a linear equation is 
+        </p>
+        <p component="a">
+          The <term>slope-intercept</term> form of a linear equation is <m>f(x) = mx + b</m>. <m>m</m> is the slope and <m>b</m> is the intercept.
+        </p>
+      </statement>
+    </definition>
+    <example workspace="2in">
+      <statement>
+        <p>
+          Find the slope and intercept of the linear function given by <m>y = \frac{1}{3}x - 4</m>.
+        </p>
+      </statement>
+    </example>
+    <example workspace="2in">
+      <statement>
+        <p>
+          Find the slope and intercept of the linear function given by <m>3x + 7y = 4</m>.
+        </p>
+      </statement>
+    </example>
+  </page>
+  <page>
+    <example workspace="3in">
+      <statement>
+        <p>
+          Graph <m>y = \frac{1}{3}x - 4</m> using the slope and intercept.
+        </p>
+      </statement>
+    </example>
+  </page>
+  <page>
+    <paragraphs>
+      <title>Applications of Slope and Linear Equations</title>
+      
+      <p component="b" workspace="2in">
+        The most important thing to keep in mind for all problems of this type is that the slope of a line gives the average rate of change.
+      </p>
+      <p component="a">
+        The most important thing to keep in mind for all problems of this type is that the slope of a line gives the average rate of change. Rise over run tells us how much y changes for each corresponding change in x. 
+      </p>
+    </paragraphs>
+  <example workspace = "2in">
+    <introduction>
+      <p>
+        Consider the following data and plot for the price of Chegg stock during a time period between January 2019 and January 2025
+      </p>
+      <sidebyside>
+      <table>
+        <title>Data Points for Chegg Stock Price</title>
+        <tabular>
+          <row header="yes">
+            <cell>Date</cell><cell>Months since 01/2019</cell><cell>Price ($)</cell>
+          </row>
+          <row>
+            <cell>1-Jan-19</cell><cell>	0	</cell><cell>28</cell>
+           </row>
+           <row>
+<cell>1-Jul-19	</cell><cell>6	</cell><cell>39.43</cell>
+</row>
+           <row>
+<cell>1-Jan-20	</cell><cell>12	</cell><cell>38.09</cell>
+</row>
+           <row>
+<cell>1-Jul-20	</cell><cell>18	</cell><cell>67.26</cell>
+</row>
+           <row>
+<cell>1-Jan-21	</cell><cell>24</cell><cell>	90.25</cell>
+</row>
+           <row>
+<cell>1-Jul-21	</cell><cell>30	</cell><cell>83</cell>
+</row>
+           <row>
+<cell>1-Jan-22</cell><cell>	36	</cell><cell>30.81</cell>
+</row>
+           <row>
+<cell>1-Jul-22	</cell><cell>42</cell><cell>	19</cell>
+</row>
+           <row>
+<cell>1-Jan-23</cell><cell>	48</cell><cell>	25.73</cell>
+</row>
+           <row>
+<cell>1-Jul-23</cell><cell>	54</cell><cell>	8.89</cell>
+</row>
+           <row>
+<cell>1-Jan-24</cell><cell>	60	</cell><cell>11.24</cell>
+</row>
+           <row>
+<cell>1-Jul-24	</cell><cell>66	</cell><cell>3.16</cell>
+</row>
+           <row>
+<cell>1-Jan-25	</cell><cell>72 </cell><cell>	1.67</cell>
+</row>
+        </tabular>
+      </table>
+ 
+ <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="lin-fun-chegg-data">
+    <xi:include href="../../prefigure/lin-fun-chegg-data.xml" />
+  </prefigure>
+</image>
+
+        
+      </sidebyside>
+    </introduction>
+    <task>
+      <statement>
+        <p>
+          Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2024.
+        </p>
+      </statement>
+    </task>
+    <task>
+      <statement>
+        <p>
+          Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2021.
+        </p>
+      </statement>
+    </task>
+  </example>
+  </page>
+  <page>
+    <example>
+      <introduction>
+        <p>
+          An electric company charges a bill of $30 plus $0.50 per kWh used for the first 200 kWh. After that, the rate changes.
+        </p>
+      </introduction>
+      <task workspace="3in">
+        <statement>
+          <p>
+            Determine a function for the amount that the electric company will charge for a bill of <m>x</m> kWh.
+          </p>
+        </statement>
+      </task>
+      <task workspace="1in">
+        <statement>
+          <p>
+            What is the domain of this function?
+          </p>
+        </statement>
+      </task>
+      <task workspace="2in">
+        <statement>
+          <p>
+            How much will they charge for a house that uses 120 kWh in a month?
+          </p>
+        </statement>
+      </task>
+    </example>
+  </page>
+</handout>
 
 
   <subsection>

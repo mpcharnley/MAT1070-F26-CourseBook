@@ -5,7 +5,7 @@
 <!-- settings. -->
 <docinfo xmlns:xi="http://www.w3.org/2001/XInclude">
 
-  <directories external="../assets"/>
+  <directories external="../assets" data="data"/>
 
   <!-- macros for defining latex math shortcuts. It is good practice -->
   <!-- to define these semantically, so that the macro relates to what-->

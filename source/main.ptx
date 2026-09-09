@@ -27,6 +27,7 @@
       <title><custom ref="docType"/>In-Class Activities</title>
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-graphing-equations.ptx"/>
+      <xi:include href="./activities/02-functions-domains.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet component = "cur" xml:id = "wksht-functions-domains" xmlns:xi="http://www.w3.org/2001/XInclude" bottom="0.5in">
+  <title>Functions, Domains, and Evaluation</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+  <p>
+    <ul>
+        <li>
+          <title>Dates</title>
+          <p>
+            Assigned Date: September 9, 2026
+          </p>
+          <p>
+            Due Date: September 14, 2026
+          </p>
+        </li>
+        <li>
+          <title>Purpose</title>    
+          <p>
+            This activity was partially completed in class. Here you will explore functions and get practice evaluating them and finding their domains.
+          </p>
+        </li>
+        <li>
+          <title>Resources</title>
+          <p>
+            Use your notes from the class, the online eText or contact your instructor when you have questions.
+          </p>
+        </li>
+        <li>
+          <title>Criteria for Success</title>      
+          <p>
+            Your assignment is due to your instructor by the date listed above. You must submit 1 pdf document as described in the syllabus, through Canvas. Your instructor will be assessing completeness and correctness for each question. This assignment will be worth 20 points.
+          </p>
+        </li>
+        </ul>
+        </p>
+  </introduction>
+<page>
+  <paragraphs>
+    <title>In-Class Exercises (not for submission)</title>
+    <exercise>
+      <introduction>
+        <p>
+          Consider the relation
+          <md>
+            \{(-5,5), (-4, 4), (3, -3), (1,1)\}
+          </md>.
+        </p>
+      </introduction>
+      <task>
+        <statement>
+          <p>
+            Is this a function? Justify your answer.
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            What is its domain?
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            What is its range?
+          </p>
+        </statement>
+      </task>
+    </exercise>
+  </paragraphs>
+<exercise>
+  <introduction>
+    <p>
+      Given that <m>f(x) = x^2 - 3x - 4</m>, find each of the following.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        <m>f(-2)</m>
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>f(a+5)</m>
+      </p>
+    </statement>
+  </task>
+</exercise>
+<exercise>
+  <introduction>
+    <p>
+      Find the domain of each function.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        <m>\displaystyle f(x) = \frac{4}{x-2}</m>.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>\displaystyle f(x) = \sqrt[3]{4-x}</m>.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>\displaystyle \frac{x-3}{x^2 - 7x}</m>.
+      </p>
+    </statement>
+  </task>
+</exercise>
+</page>
+
+<page>
+  <paragraphs>
+    <title>Homework Exercises (for submission)</title>
+    
+    <exercise>
+      <introduction>
+        <p>
+          Given that <md>
+            f(x) = \frac{-3+x}{2x-1}
+          </md>, find each of the following.         
+        </p>
+      </introduction>
+      <task>
+        <statement>
+          <p>
+            <m>f(-1)</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>f\left(\frac{1}{2}\right)</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>f(x+h)</m>.
+          </p>
+        </statement>
+      </task>
+    </exercise>
+    <example>
+      <introduction>
+        <p>
+          Find the domain of each function.
+        </p>
+      </introduction>
+      <task>
+        <statement>
+          <p>
+            <m>\displaystyle f(x) = \frac{x^2}{x-3}</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>\displaystyle f(x) = \frac{3x+5}{x^2 - 2x - 8}</m>.
+          </p>
+        </statement>
+      </task>
+    </example>
+  </paragraphs>
+</page>
+
+</worksheet>
