@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 2",
-  "body": " Week 2   Wednesday 9\/9     Review main concepts of functions,    Discuss linear functions and their graphs, and    Review a few applications of linear functions.       Functions Recap  Last time, we discussed a lot of properties about functions and what we can do with them.  Now, we'll do an activity to review all of these ideas for actual functions.      Linear Functions  The next first class of functions that we want to talk about in this class is linear functions. These are, in some sense, the simplest class of functions, but they have a lot of nice properties that can build into the future classes of functions we'll consider.    A linear function is a function where    There are a few special cases of linear functions:      The meaning of and  We know we can write linear equations as , but what do those parameters mean? We'll start with .  Consider the graphs of the two functions below and a corresponding table of values.      f(x)=(1\/2)*x + 5      f(x)          f(x)=(3\/200)*x^2 + 10      g(x)          Values for       0 5    10 10    20 15    30 20    40 25      Values for       0 10    10 11.5    20 16    30 23.5    40 34      What do we notice from this data?       The slope  of a line containing the points and is      Graph the function and determine its slope.      What about the slope of horizontal and vertical lines?  How does changing the slope affect the line?    What about the term in the equation? How can we visualize the effect that that has on the graph and equation?     f(x)=2*x  g(x)=2*x+3  h(x)=2*x-1        2x  2x+3  2x-1              The slope-intercept form of a linear equation is      Find the slope and intercept of the linear function given by .      Find the slope and intercept of the linear function given by .        Graph using the slope and intercept.       Applications of Slope and Linear Equations  The most important thing to keep in mind for all problems of this type is that the slope of a line gives the average rate of change.     Consider the following data and plot for the price of Chegg stock during a time period between January 2019 and January 2025    Data Points for Chegg Stock Price    Date Months since 01\/2019 Price ($)    1-Jan-19 0 28    1-Jul-19 6 39.43    1-Jan-20 12 38.09    1-Jul-20 18 67.26    1-Jan-21 24 90.25    1-Jul-21 30 83    1-Jan-22 36 30.81    1-Jul-22 42 19    1-Jan-23 48 25.73    1-Jul-23 54 8.89    1-Jan-24 60 11.24    1-Jul-24 66 3.16    1-Jan-25 72 1.67         x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    Months  Stock Price            Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2024.      Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2021.         An electric company charges a bill of $30 plus $0.50 per kWh used for the first 200 kWh. After that, the rate changes.     Determine a function for the amount that the electric company will charge for a bill of kWh.      What is the domain of this function?      How much will they charge for a house that uses 120 kWh in a month?        Wednesday      Friday     "
+  "body": " Week 2   Wednesday 9\/9     Review main concepts of functions,    Discuss linear functions and their graphs, and    Review a few applications of linear functions.       Functions Recap  Last time, we discussed a lot of properties about functions and what we can do with them.  Now, we'll do an activity to review all of these ideas for actual functions.      Linear Functions  The next first class of functions that we want to talk about in this class is linear functions. These are, in some sense, the simplest class of functions, but they have a lot of nice properties that can build into the future classes of functions we'll consider.    A linear function is a function where    There are a few special cases of linear functions:      The meaning of and  We know we can write linear equations as , but what do those parameters mean? We'll start with .  Consider the graphs of the two functions below and a corresponding table of values.      f(x)=(1\/2)*x + 5      f(x)          f(x)=(3\/200)*x^2 + 10      g(x)          Values for       0 5    10 10    20 15    30 20    40 25      Values for       0 10    10 11.5    20 16    30 23.5    40 34      What do we notice from this data?       The slope  of a line containing the points and is      Graph the function and determine its slope.      What about the slope of horizontal and vertical lines?  How does changing the slope affect the line?    What about the term in the equation? How can we visualize the effect that that has on the graph and equation?     f(x)=2*x  g(x)=2*x+3  h(x)=2*x-1        2x  2x+3  2x-1              The slope-intercept form of a linear equation is      Find the slope and intercept of the linear function given by .      Find the slope and intercept of the linear function given by .        Graph using the slope and intercept.       Applications of Slope and Linear Equations  The most important thing to keep in mind for all problems of this type is that the slope of a line gives the average rate of change.     Consider the following data and plot for the price of Chegg stock during a time period between January 2019 and January 2025    Data Points for Chegg Stock Price    Date Months since 01\/2019 Price ($)    1-Jan-19 0 28    1-Jul-19 6 39.43    1-Jan-20 12 38.09    1-Jul-20 18 67.26    1-Jan-21 24 90.25    1-Jul-21 30 83    1-Jan-22 36 30.81    1-Jul-22 42 19    1-Jan-23 48 25.73    1-Jul-23 54 8.89    1-Jan-24 60 11.24    1-Jul-24 66 3.16    1-Jan-25 72 1.67         x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    Months  Stock Price            Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2024.      Compute the average rate of change (in dollars per month) between January 1, 2019 and January 1, 2021.         An electric company charges a bill of $30 plus $0.50 per kWh used for the first 200 kWh. After that, the rate changes.     Determine a function for the amount that the electric company will charge for a bill of kWh.      What is the domain of this function?      How much will they charge for a house that uses 120 kWh in a month?        Friday 9\/11     Review operations with quadratic polynomials    Review factoring    Quiz on functions (1.2)       Review of Quadratics  In looking through the JIT assignments, it seemed that the ones that were causing the most universal trouble were things involving quadratics. So, we're going to review some of those ideas through examples here.    Expanding Polynomials  If we have two terms that are multiplied together, how do we expand them out?       Expand each of the following products.                                   Factoring  The opposite of this process is factoring. How do you go about factoring a quadratic like ?       Factor each of the following polynomials.                            Solving Quadratic Equations  If we need to solve an equation where one side is a quadratic, what do we have to do?       Solve each of the following quadratic equations.                    "
 },
 {
   "id": "notes-week-02-2-2",
@@ -350,6 +350,231 @@ var ptx_lunr_docs = [
   "number": "32",
   "title": "",
   "body": "  An electric company charges a bill of $30 plus $0.50 per kWh used for the first 200 kWh. After that, the rate changes.     Determine a function for the amount that the electric company will charge for a bill of kWh.      What is the domain of this function?      How much will they charge for a house that uses 120 kWh in a month?    "
+},
+{
+  "id": "notes-week-02-3-2",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review operations with quadratic polynomials    Review factoring    Quiz on functions (1.2)    "
+},
+{
+  "id": "notes-week-02-3-4-1",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-3-4-1",
+  "type": "Example",
+  "number": "33",
+  "title": "",
+  "body": "  Expand each of the following products.                               "
+},
+{
+  "id": "notes-week-02-3-6-1",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-3-6-1",
+  "type": "Example",
+  "number": "34",
+  "title": "",
+  "body": "  Factor each of the following polynomials.                        "
+},
+{
+  "id": "notes-week-02-3-8-1",
+  "level": "2",
+  "url": "notes-week-02.html#notes-week-02-3-8-1",
+  "type": "Example",
+  "number": "35",
+  "title": "",
+  "body": "  Solve each of the following quadratic equations.                 "
+},
+{
+  "id": "notes-week-03",
+  "level": "1",
+  "url": "notes-week-03.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 3",
+  "body": " Week 3   This is an outline of the topics we covered in Week 3 of class, from September 14 to September 18.    Monday 9\/14     Write equations of lines in many forms.    Understand the zeros of linear functions and how to find tne,    Write models using linear function and solve for the important value in the equation.       Linear Equations and Models  Recall the definition of the slope intercept form of a linear function.    Find the equation of a line with slope and -intercept .         Find the equation of a line with slope that goes through the point .    The fact that we needed to solve for or find the y-intercept in order to get the equation was a bit inconvenient. This leads to a new way of writing an equation for a line: point-slope form .      Find the equation of a line with slope that goes through the point .      Find the equation of the line that goes through the poins and .       Parallel and Perpendicular Lines  The slope of lines should be able to tell us if they are parllel or perpendicular. What can we learn from this?       We say that two lines are parallel if:  We say that two lines are perpendicular if they intersect at a angle. This can be determined from the slopes by:        Find the equation of the line perpendicular to with the same -intercept.      Let be the line .     Find the equation of the line parallel to that goes through the point .      Find the equation of the line perpendicular to that goes through the point .        Mathematical Models  Another large part of this class that will be relevant throughout the rest of your mathematical career is mathematical models.        x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    x  y            x=df['x']  y=df['y']  points=zip_lists(x, y)    x  y             A university has first-year enrollment (in thousands) given by the data and graph below.    Sample Enrollment Data    Year Years Since 2000 Enrollment (thousands)    2000 0 3.3    2005 5 3.6    2010 10 3.8    2015 15 4.1    2020 20 4.4         x=df['yrs']  y=df['enroll']  points=zip_lists(x, y)    Years  Enrollment (thousands)            Does it seem like a linear model fits this situation?      Write a model (equation) to fit this data.      Use the model to predict enrollment in 2040.        Linear Functions, Equations, and Models  A linear equation is anything of the form    Solve the equation .      Solve the equation .      Solve the equation .        Zeros of Functions  A zero of a function is      Applications of Linear Models  Now, the fun stuff for this section. Word problems.  There are several important steps in the process of analyzing and solving one of these problems:          An animal boarding facility can house both cats and dogs. At one point in time, there were 3 times as many dogs as cats in the facility, and 120 total pets were present. How many cats and how many dogs were being boarded at that time?        A group of freshmen and seniors attended a college event. Twice as many freshmen attended the event as seniors. Each freshman bought 3 raffle tickets, while each senior bought 8. In total, 350 raffle tickets were sold. How many freshmen attended the event?      Problems using speed and distance can also be approached using this method. The key formula needed here is    A blue car passed through the I96-I94 interchange at noon going 70 mph. A red car passes through the same interchange going the same way at 12:20pm at a speed of 80 mph. If both cars continue at their same speed, how long until the red car passes the blue car?      Simple interest can also be used here. The key formula needed is    Assume that an investment account is set up with simple interest. After two years, the account value was . How much was initially invested?      As one last example, geometric formulas like area and perimeter can also be used to generate the necessary equations for this kind of method.    The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.      "
+},
+{
+  "id": "notes-week-03-3-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Write equations of lines in many forms.    Understand the zeros of linear functions and how to find tne,    Write models using linear function and solve for the important value in the equation.    "
+},
+{
+  "id": "notes-week-03-3-3-1-3",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-3-1-3",
+  "type": "Example",
+  "number": "36",
+  "title": "",
+  "body": "  Find the equation of a line with slope and -intercept .   "
+},
+{
+  "id": "notes-week-03-3-4-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-4-1",
+  "type": "Example",
+  "number": "37",
+  "title": "",
+  "body": "  Find the equation of a line with slope that goes through the point .   "
+},
+{
+  "id": "notes-week-03-3-4-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "point-slope form "
+},
+{
+  "id": "notes-week-03-3-5-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-5-1",
+  "type": "Example",
+  "number": "38",
+  "title": "",
+  "body": "  Find the equation of a line with slope that goes through the point .   "
+},
+{
+  "id": "notes-week-03-3-5-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-5-2",
+  "type": "Example",
+  "number": "39",
+  "title": "",
+  "body": "  Find the equation of the line that goes through the poins and .   "
+},
+{
+  "id": "def-parallel-perpendicular",
+  "level": "2",
+  "url": "notes-week-03.html#def-parallel-perpendicular",
+  "type": "Definition",
+  "number": "40",
+  "title": "",
+  "body": "  We say that two lines are parallel if:  We say that two lines are perpendicular if they intersect at a angle. This can be determined from the slopes by:   "
+},
+{
+  "id": "notes-week-03-3-8-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-8-1",
+  "type": "Example",
+  "number": "41",
+  "title": "",
+  "body": "  Find the equation of the line perpendicular to with the same -intercept.   "
+},
+{
+  "id": "notes-week-03-3-8-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-8-2",
+  "type": "Example",
+  "number": "42",
+  "title": "",
+  "body": "  Let be the line .     Find the equation of the line parallel to that goes through the point .      Find the equation of the line perpendicular to that goes through the point .    "
+},
+{
+  "id": "notes-week-03-3-10-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-10-1",
+  "type": "Example",
+  "number": "43",
+  "title": "",
+  "body": "  A university has first-year enrollment (in thousands) given by the data and graph below.    Sample Enrollment Data    Year Years Since 2000 Enrollment (thousands)    2000 0 3.3    2005 5 3.6    2010 10 3.8    2015 15 4.1    2020 20 4.4         x=df['yrs']  y=df['enroll']  points=zip_lists(x, y)    Years  Enrollment (thousands)            Does it seem like a linear model fits this situation?      Write a model (equation) to fit this data.      Use the model to predict enrollment in 2040.    "
+},
+{
+  "id": "notes-week-03-3-11-1-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-11-1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "linear equation "
+},
+{
+  "id": "notes-week-03-3-11-1-3",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-11-1-3",
+  "type": "Example",
+  "number": "45",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-03-3-11-1-4",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-11-1-4",
+  "type": "Example",
+  "number": "46",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-03-3-11-1-5",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-11-1-5",
+  "type": "Example",
+  "number": "47",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-03-3-12-1-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-12-1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "zero "
+},
+{
+  "id": "notes-week-03-3-14-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-14-1",
+  "type": "Example",
+  "number": "48",
+  "title": "",
+  "body": "  An animal boarding facility can house both cats and dogs. At one point in time, there were 3 times as many dogs as cats in the facility, and 120 total pets were present. How many cats and how many dogs were being boarded at that time?   "
+},
+{
+  "id": "notes-week-03-3-15-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-15-1",
+  "type": "Example",
+  "number": "49",
+  "title": "",
+  "body": "  A group of freshmen and seniors attended a college event. Twice as many freshmen attended the event as seniors. Each freshman bought 3 raffle tickets, while each senior bought 8. In total, 350 raffle tickets were sold. How many freshmen attended the event?   "
+},
+{
+  "id": "notes-week-03-3-16-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-16-2",
+  "type": "Example",
+  "number": "50",
+  "title": "",
+  "body": "  A blue car passed through the I96-I94 interchange at noon going 70 mph. A red car passes through the same interchange going the same way at 12:20pm at a speed of 80 mph. If both cars continue at their same speed, how long until the red car passes the blue car?   "
+},
+{
+  "id": "notes-week-03-3-17-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-17-2",
+  "type": "Example",
+  "number": "51",
+  "title": "",
+  "body": "  Assume that an investment account is set up with simple interest. After two years, the account value was . How much was initially invested?   "
+},
+{
+  "id": "notes-week-03-3-18-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-3-18-2",
+  "type": "Example",
+  "number": "52",
+  "title": "",
+  "body": "  The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.   "
 },
 {
   "id": "wksht-graphing-equations",

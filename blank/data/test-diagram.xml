@@ -1,0 +1,21 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> a=-1 </definition>
+  <definition> f(x)=exp(x/3)*cos(x) </definition>
+  <coordinates bbox="[-4,-4,4,4]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+    <tangent-line function="f" point="a"/>
+    <point p="(a, f(a))">
+      <m>(a,f(a))</m>
+    </point>
+  </coordinates>
+</diagram>
+
+<!-- include as 
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-inter">
+    <xi:include href="../../prefigure/test-diagram.xml" />
+  </prefigure>
+</image>
+-->
