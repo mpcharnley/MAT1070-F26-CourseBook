@@ -419,19 +419,158 @@
   </page>
 </handout>
 
+<handout component="cur">
+  <title>Friday 9/11</title>
+  <objectives>
+    <ul>
+      <li>
+        <p>
+          Review operations with quadratic polynomials
+        </p>
+      </li>
+      <li>
+        <p>
+          Review factoring
+        </p>
+      </li>
+      <li>
+        <p>
+          Quiz on functions (1.2)
+        </p>
+      </li>
+    </ul>
+  </objectives>
+  <page>
+    <paragraphs>
+      <title>Review of Quadratics</title>
+<p>
+  In looking through the JIT assignments, it seemed that the ones that were causing the most universal trouble were things involving quadratics. So, we're going to review some of those ideas through examples here.
+</p>
+</paragraphs>
+<paragraphs>
+  <title>Expanding Polynomials</title>
 
-  <subsection>
-    <title>Wednesday</title>
+<p component="b" workspace="2in">
+  If we have two terms that are multiplied together, how do we expand them out?
+</p>
+<p component="a">
+  If we have two terms that are multiplied together, how do we expand them out? We apply the distribution law several times, or use shortcuts like FOIL.
+</p>
+    </paragraphs>
+  </page>
+  <page>
+    <example workspace="1in">
+      <introduction>
+        <p>
+          Expand each of the following products.
+        </p>
+      </introduction>
+      <task>
+        <statement>
+          <p>
+            <m>(x+2)(x-4)</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>(2x+1)^2</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>(3x+1)(3x-1)</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>(2x+5)(3x-2)</m>
+          </p>
+        </statement>
+      </task>
+    </example>
+  </page>
+  <page>
+    <paragraphs>
+      <title>Factoring</title>
+      <p component="b" workspace="2in">
+        The opposite of this process is factoring. How do you go about factoring a quadratic like <md>x^2 - 5x - 6</md>?
+      </p>
+      <p component="a">
+        The opposite of this process is factoring. How do you go about factoring a quadratic like <md>x^2 - 5x - 6</md>? In general, you're looking for two numbers that multiply to <m>-6</m> and add to <m>-5</m>. In this particular case...
+      </p>
+    </paragraphs>
+  </page>
+  <page>
+    <example>
+      <introduction>
+        <p>
+          Factor each of the following polynomials.
+        </p>
+      </introduction>
+      <task workspace="1in">
+        <statement>
+          <p>
+            <m>x^2 + 7x + 10</m>
+          </p>
+        </statement>
+      </task>
+      <task workspace="3in">
+        <statement>
+          <p>
+            <m>6x^2 + 11x - 10</m>
+          </p>
+        </statement>
+      </task>
+      <task workspace="2in">
+        <statement>
+          <p>
+            <m>x^3 - 4x^2 + 3x - 12</m>
+          </p>
+        </statement>
+      </task>
+    </example>
+  </page>
+  <page>
+    <paragraphs>
+      <title>Solving Quadratic Equations</title>
+      <p component="b" workspace="2in">
+        If we need to solve an equation where one side is a quadratic, what do we have to do?
+      </p>
+      <p component="a">
+        If we need to solve an equation where one side is a quadratic, what do we have to do? We need to get the right side to be zero, then factor the left. That way, we can isolate the terms that need to be zero to get to a solution.
+      </p>
+    </paragraphs>
+  </page>
+  <page>
+    <example workspace="2in">
+      <introduction>
+        <p>
+          Solve each of the following quadratic equations.
+        </p>
+      </introduction>
+      <task>
+        <statement>
+          <p>
+            <m>x^2 + 10x +15=0</m>
+          </p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>
+            <m>x^2 - 2x - 15 = 2x+6</m>
+          </p>
+        </statement>
+      </task>
+    </example>
+  </page>
+</handout>
 
-    <p>
-    </p>
-  </subsection>
 
-
-  <subsection>
-    <title>Friday</title>
-
-    <p>
-    </p>
-  </subsection>
 </section>

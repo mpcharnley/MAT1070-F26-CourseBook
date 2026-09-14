@@ -1,0 +1,17 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)"
+         margins="(30,30,5,5)">
+  <read name="df" filename="data/linear-modeling-ex-univ.data"/>
+  <definition>x=df['yrs']</definition>
+  <definition>y=df['enroll']</definition>
+  <definition>points=zip_lists(x, y)</definition>
+  
+  <coordinates bbox="[0,0,25,5]">
+    <grid-axes>
+      <xlabel alignment="sw" offset="(0,0)">Years</xlabel>
+      <ylabel alignment="se">Enrollment (thousands)</ylabel>
+    </grid-axes>
+
+    <scatter points="points" fill="blue"/>
+
+  </coordinates>
+</diagram>

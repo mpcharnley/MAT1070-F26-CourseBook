@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-03" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 3</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in Week 3 of class, from September 14 to September 18.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 9/14</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Write equations of lines in many forms.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Understand the zeros of linear functions and how to find tne,
+                </p>
+            </li>
+            <li>
+                <p>
+                    Write models using linear function and solve for the important value in the equation.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Linear Equations and Models</title>
+
+            <p component="b" workspace="2in">
+             Recall the definition of the slope intercept form of a linear function.
+            </p>
+            <p component="a">
+                
+            </p>
+
+            <example workspace="1in">
+                <statement>
+                    <p>
+                        Find the equation of a line with slope <m>-\frac{5}{7}</m> and <m>y</m>-intercept <m>4</m>.
+                    </p>
+                </statement>
+                <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+            </example>
+        </paragraphs>
+    </page>
+    <page>
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Find the equation of a line with slope <m>\frac{2}{3}</m> that goes through the point <m>(4, -1)</m>.
+                </p>
+            </statement>
+        </example>
+
+        <p component="b" workspace="2in">
+            The fact that we needed to solve for <m>b</m> or find the y-intercept in order to get the equation was a bit inconvenient. This leads to a new way of writing an equation for a line: <term>point-slope form</term>.
+        </p>
+        <p component="a">
+            The fact that we needed to solve for <m>b</m> or find the y-intercept in order to get the equation was a bit inconvenient. This leads to a new way of writing an equation for a line: <term>point-slope form</term>. This form of the equation is <md>
+                y-y_0 = m(x-x_0)
+            </md> for the line with slope <m>m</m> and going through the point <m>(x_0, y_0)</m>.
+            
+        </p>
+    </page>
+    <page>
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Find the equation of a line with slope <m>\frac{2}{3}</m> that goes through the point <m>(4, -1)</m>.
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </example>
+
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Find the equation of the line that goes through the poins <m>(-1, 4)</m> and <m>(5, -6)</m>.
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </example>
+        
+    </page>
+    <page>
+        <paragraphs>
+            <title>Parallel and Perpendicular Lines</title>
+
+            <p component="b" workspace="2in">
+                The slope of lines should be able to tell us if they are parllel or perpendicular. What can we learn from this?
+            </p>
+            <p component="a">
+                The slope of lines should be able to tell us if they are parllel or perpendicular. What can we learn from this? Parallel is same slope. Perpendicular product is negative one by thinking about rotating the ilne by 90 degrees.
+            </p>
+            
+        </paragraphs>
+    </page>
+    <page>
+        <definition xml:id="def-parallel-perpendicular">
+            <statement>
+                <p component="b" workspace="1in">
+                    We say that two lines are <term>parallel</term> if:
+                </p>
+                <p component="a">
+                    We say that two lines are <term>parallel</term> if: <ul>
+                        <li>
+                            <p>
+                                Both of them are vertical, or
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                They have the same slope
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+
+                <p component="b" workspace="1in">
+                    We say that two lines are <term>perpendicular</term> if they intersect at a <m>90\deg</m> angle. This can be determined from the slopes by:
+                </p>
+                <p component="a">
+                    We say that two lines are <term>perpendicular</term> if they intersect at a <m>90\deg</m> angle. This can be determined from the slopes by: <ul>
+                        <li>
+                            <p>
+                                A vertical and horizontal line are always perpendicular
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                If the products of the slopes is <m>-1</m>.
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </statement>
+        </definition>
+    </page>
+    <page>
+        <example workspace="1in">
+            <statement>
+                <p>
+                    Find the equation of the line perpendicular to <m>y=3x-4</m> with the same <m>y</m>-intercept.
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </example>
+        <example workspace="2in">
+            <introduction>
+                <p>
+                    Let <m>\mathcal{L}</m> be the line <m>3x+2y=7</m>.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Find the equation of the line parallel to <m>\mathcal{L}</m> that goes through the point <m>(3, -5)</m>. 
+                    </p>
+                </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Find the equation of the line perpendicular to <m>\mathcal{L}</m> that goes through the point <m>(3, -5)</m>. 
+                    </p>
+                </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+            </task>
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Mathematical Models</title>
+            <p component="b" workspace="3in">
+                Another large part of this class that will be relevant throughout the rest of your mathematical career is mathematical models.
+            </p>
+            <p component="a">
+                Another large part of this class that will be relevant throughout the rest of your mathematical career is mathematical models. This is all about writing equations that connect to real world problems. In this chapter, we're looking at linear models.
+            </p>
+        </paragraphs>
+
+        <sidebyside>
+            <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="linear-modeling-data-lin">
+    <xi:include href="../../prefigure/linear-modeling-data-lin.xml" />
+  </prefigure>
+</image>
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="linear-modeling-data-quad">
+    <xi:include href="../../prefigure/linear-modeling-data-quad.xml" />
+  </prefigure>
+</image>
+        </sidebyside>
+    </page>
+    <page>
+        <example>
+            <introduction>
+                <p>
+                    A university has first-year enrollment (in thousands) given by the data and graph below.
+                </p>
+                <sidebyside>
+                    <table>
+                        <title>Sample Enrollment Data</title>
+                        <tabular>
+                            <row header="yes">
+                                <cell>Year</cell><cell>Years Since 2000</cell><cell>Enrollment (thousands)</cell>
+                            </row>
+                            <row>
+                                <cell>2000</cell><cell>0</cell><cell>3.3</cell>
+                            </row>
+                            <row>
+                                <cell>2005</cell><cell>5</cell><cell>3.6</cell>
+                            </row>
+                            <row>
+                                <cell>2010</cell><cell>10</cell><cell>3.8</cell>
+                            </row>
+                            <row>
+                                <cell>2015</cell><cell>15</cell><cell>4.1</cell>
+                            </row>
+                            <row>
+                                <cell>2020</cell><cell>20</cell><cell>4.4</cell>
+                            </row>
+                        </tabular>
+                    </table>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="linear-modeling-ex-univ">
+    <xi:include href="../../prefigure/linear-modeling-ex-univ.xml" />
+  </prefigure>
+</image>
+                </sidebyside>
+            </introduction>
+            <task workspace="1in">
+                <statement>
+                    <p>
+                        Does it seem like a linear model fits this situation?
+                    </p>
+                </statement>
+            </task>
+            <task workspace="3in">
+                <statement>
+                    <p>
+                        Write a model (equation) to fit this data.
+                    </p>
+                </statement>
+            </task>
+            <task workspace="2in">
+                <statement>
+                    <p>
+                        Use the model to predict enrollment in 2040.
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+    <page>
+        <paragraphs>
+            <title>Linear Functions, Equations, and Models</title>
+            
+            <p component="b" workspace="2in">
+                A <term>linear equation</term> is anything of the form
+            </p>
+            <p component="a">
+                A <term>linear equation</term> is anything of the form <m>mx + b = 0</m>. How do we go about solving these? Isolate <m>x</m> by subtracting and dividing.
+            </p>
+
+            <example workspace="1in">
+                <statement>
+                    <p>
+                        Solve the equation <md>
+                            \frac{2}{3}x + 8= \frac{1}{2}
+                        </md>.
+                        
+                    </p>
+                </statement>
+            
+            </example>
+
+            <example workspace="2in">
+                <statement>
+                    <p>
+                        Solve the equation <md>
+                            4-3x= -3x+7
+                        </md>.
+                        
+                    </p>
+                </statement>
+            
+            </example>
+
+            <example workspace="2in">
+                <statement>
+                    <p>
+                        Solve the equation <md>
+                            2x-4 = -4(1 - \frac{x}{2})
+                        </md>.
+                        
+                    </p>
+                </statement>
+            
+            </example>
+            
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Zeros of Functions</title>
+            
+            <p component="b" workspace="2in">
+                A <term>zero</term> of a function is
+            </p>
+            <p component="a">
+                A <term>zero</term> of a function is any value <m>c</m> for which <m>f(c) = 0</m>. For linear functions, these are fairly straight-forward to solve, and any such function with <m>m \neq 0</m> has exactly one zero.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Applications of Linear Models</title>
+            
+        <p component="b" workspace="2in">
+            Now, the fun stuff for this section. Word problems.
+        </p>
+        <p component="a">
+            Now, the fun stuff for this section. Word problems. The basic difference between this and the problems that we've dealt with earlier is that we'll need to take the problem, write an equation based on is, then solve a problem.
+        </p>
+
+        <p>
+            There are several important steps in the process of analyzing and solving one of these problems:
+        </p>
+
+        <p component="b" workspace="3in">
+            <nbsp />
+        </p>
+        <p component="a">
+            Understand, Translate, Manipulate, Check, State conclusion.
+        </p>
+
+        </paragraphs>
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    An animal boarding facility can house both cats and dogs. At one point in time, there were 3 times as many dogs as cats in the facility, and 120 total pets were present. How many cats and how many dogs were being boarded at that time?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    A group of freshmen and seniors attended a college event. Twice as many freshmen attended the event as seniors. Each freshman bought 3 raffle tickets, while each senior bought 8. In total, 350 raffle tickets were sold. How many freshmen attended the event?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="1in">
+            Problems using speed and distance can also be approached using this method. The key formula needed here is
+        </p>
+        <p component="a">
+            Problems using speed and distance can also be approached using this method. The key formula needed here is <m>d = r\cdot t</m>.
+        </p>
+
+        <example workspace="4in">
+            <statement>
+                <p>
+                    A blue car passed through the I96-I94 interchange at noon going 70 mph. A red car passes through the same interchange going the same way at 12:20pm at a speed of 80 mph. If both cars continue at their same speed, how long until the red car passes the blue car?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="1in">
+            Simple interest can also be used here. The key formula needed is 
+        </p>
+        <p component="a">
+            Simple interest can also be used here. The key formula needed is <m>I = P\cdot r\cdot t</m>.
+        </p>
+
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Assume that an investment account is set up with <m>6\%</m> simple interest. After two years, the account value was <m>\$6 048</m>. How much was initially invested?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p>
+            As one last example, geometric formulas like area and perimeter can also be used to generate the necessary equations for this kind of method.
+        </p>
+
+        <example workspace="2in">
+            <statement>
+                <p>
+                    The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court. 
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+</handout>
+
+
+
+
+</section>
