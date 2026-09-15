@@ -394,7 +394,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 3",
-  "body": " Week 3   This is an outline of the topics we covered in Week 3 of class, from September 14 to September 18.    Monday 9\/14     Write equations of lines in many forms.    Understand the zeros of linear functions and how to find tne,    Write models using linear function and solve for the important value in the equation.       Linear Equations and Models  Recall the definition of the slope intercept form of a linear function.    Find the equation of a line with slope and -intercept .         Find the equation of a line with slope that goes through the point .    The fact that we needed to solve for or find the y-intercept in order to get the equation was a bit inconvenient. This leads to a new way of writing an equation for a line: point-slope form .      Find the equation of a line with slope that goes through the point .      Find the equation of the line that goes through the poins and .       Parallel and Perpendicular Lines  The slope of lines should be able to tell us if they are parllel or perpendicular. What can we learn from this?       We say that two lines are parallel if:  We say that two lines are perpendicular if they intersect at a angle. This can be determined from the slopes by:        Find the equation of the line perpendicular to with the same -intercept.      Let be the line .     Find the equation of the line parallel to that goes through the point .      Find the equation of the line perpendicular to that goes through the point .        Mathematical Models  Another large part of this class that will be relevant throughout the rest of your mathematical career is mathematical models.        x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    x  y            x=df['x']  y=df['y']  points=zip_lists(x, y)    x  y             A university has first-year enrollment (in thousands) given by the data and graph below.    Sample Enrollment Data    Year Years Since 2000 Enrollment (thousands)    2000 0 3.3    2005 5 3.6    2010 10 3.8    2015 15 4.1    2020 20 4.4         x=df['yrs']  y=df['enroll']  points=zip_lists(x, y)    Years  Enrollment (thousands)            Does it seem like a linear model fits this situation?      Write a model (equation) to fit this data.      Use the model to predict enrollment in 2040.        Linear Functions, Equations, and Models  A linear equation is anything of the form    Solve the equation .      Solve the equation .      Solve the equation .        Zeros of Functions  A zero of a function is      Applications of Linear Models  Now, the fun stuff for this section. Word problems.  There are several important steps in the process of analyzing and solving one of these problems:          An animal boarding facility can house both cats and dogs. At one point in time, there were 3 times as many dogs as cats in the facility, and 120 total pets were present. How many cats and how many dogs were being boarded at that time?        A group of freshmen and seniors attended a college event. Twice as many freshmen attended the event as seniors. Each freshman bought 3 raffle tickets, while each senior bought 8. In total, 350 raffle tickets were sold. How many freshmen attended the event?      Problems using speed and distance can also be approached using this method. The key formula needed here is    A blue car passed through the I96-I94 interchange at noon going 70 mph. A red car passes through the same interchange going the same way at 12:20pm at a speed of 80 mph. If both cars continue at their same speed, how long until the red car passes the blue car?      Simple interest can also be used here. The key formula needed is    Assume that an investment account is set up with simple interest. After two years, the account value was . How much was initially invested?      As one last example, geometric formulas like area and perimeter can also be used to generate the necessary equations for this kind of method.    The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.      "
+  "body": " Week 3   This is an outline of the topics we covered in Week 3 of class, from September 14 to September 18.    Monday 9\/14     Write equations of lines in many forms.    Understand the zeros of linear functions and how to find tne,    Write models using linear function and solve for the important value in the equation.       Linear Equations and Models  Recall the definition of the slope intercept form of a linear function.    Find the equation of a line with slope and -intercept .         Find the equation of a line with slope that goes through the point .    The fact that we needed to solve for or find the y-intercept in order to get the equation was a bit inconvenient. This leads to a new way of writing an equation for a line: point-slope form .      Find the equation of a line with slope that goes through the point .      Find the equation of the line that goes through the poins and .       Parallel and Perpendicular Lines  The slope of lines should be able to tell us if they are parllel or perpendicular. What can we learn from this?       We say that two lines are parallel if:  We say that two lines are perpendicular if they intersect at a angle. This can be determined from the slopes by:        Find the equation of the line perpendicular to with the same -intercept.      Let be the line .     Find the equation of the line parallel to that goes through the point .      Find the equation of the line perpendicular to that goes through the point .        Mathematical Models  Another large part of this class that will be relevant throughout the rest of your mathematical career is mathematical models.        x=df['Mth']  y=df['Price']  points=zip_lists(x, y)    x  y            x=df['x']  y=df['y']  points=zip_lists(x, y)    x  y             A university has first-year enrollment (in thousands) given by the data and graph below.    Sample Enrollment Data    Year Years Since 2000 Enrollment (thousands)    2000 0 3.3    2005 5 3.6    2010 10 3.8    2015 15 4.1    2020 20 4.4         x=df['yrs']  y=df['enroll']  points=zip_lists(x, y)    Years  Enrollment (thousands)            Does it seem like a linear model fits this situation?      Write a model (equation) to fit this data.      Use the model to predict enrollment in 2040.        Linear Functions, Equations, and Models  A linear equation is anything of the form    Solve the equation .      Solve the equation .      Solve the equation .        Zeros of Functions  A zero of a function is      Applications of Linear Models  Now, the fun stuff for this section. Word problems.  There are several important steps in the process of analyzing and solving one of these problems:          An animal boarding facility can house both cats and dogs. At one point in time, there were 3 times as many dogs as cats in the facility, and 120 total pets were present. How many cats and how many dogs were being boarded at that time?        A group of freshmen and seniors attended a college event. Twice as many freshmen attended the event as seniors. Each freshman bought 3 raffle tickets, while each senior bought 8. In total, 350 raffle tickets were sold. How many freshmen attended the event?      Problems using speed and distance can also be approached using this method. The key formula needed here is    A blue car passed through the I96-I94 interchange at noon going 70 mph. A red car passes through the same interchange going the same way at 12:20pm at a speed of 80 mph. If both cars continue at their same speed, how long until the red car passes the blue car?      Simple interest can also be used here. The key formula needed is    Assume that an investment account is set up with simple interest. After two years, the account value was . How much was initially invested?      As one last example, geometric formulas like area and perimeter can also be used to generate the necessary equations for this kind of method.    The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.       Wednesday 9\/16     Practice solving linear modeling problems.    Explore linear inequalities and their application to modeling problems.       Linear Models  Simple interest can also be used here. The key formula needed is    Assume that an investment account is set up with simple interest. After two years, the account value was . How much was initially invested?       As one last example, geometric formulas like area and perimeter can also be used to generate the necessary equations for this kind of method.    The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.       Linear Inequalities  Linear inequalities are a slightly different problem to try to solve than linear equations. What is the difference?  If we want to try to solve these inequalities, we need to know how to manipulate them. The rules aren't quite the same as they were for equations.     If the things on both sides of an inequality are linear expressions, then these are called linear inequalities .    Solve and graph each of the following inequalities.                     Compound Inequalities  Sometimes, you have to deal with two inequalities at the same time. There are two different cases for this:       Solve and graph each of the following compound inequalities.      and        or          Find the domain of the function        Applications of Linear Inequalities  Linear inequalities (or inequalities in general) are useful when you're trying to compare two options to figure out which is better.    Assume that you are trying to compare two different phone data plans.   Plan A will charge you $10 for having the plan and $8 per gigabyte of data that you use.    Plan B will charge you $40 for having the plan but only $2 per gigabyte of data that you use.   For what amounts of data usage is plan A better?       "
 },
 {
   "id": "notes-week-03-3-2",
@@ -577,6 +577,78 @@ var ptx_lunr_docs = [
   "body": "  The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.   "
 },
 {
+  "id": "notes-week-03-4-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Practice solving linear modeling problems.    Explore linear inequalities and their application to modeling problems.    "
+},
+{
+  "id": "notes-week-03-4-3-1-3",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-3-1-3",
+  "type": "Example",
+  "number": "53",
+  "title": "",
+  "body": "  Assume that an investment account is set up with simple interest. After two years, the account value was . How much was initially invested?   "
+},
+{
+  "id": "notes-week-03-4-4-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-4-2",
+  "type": "Example",
+  "number": "54",
+  "title": "",
+  "body": "  The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court.   "
+},
+{
+  "id": "notes-week-03-4-6-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-6-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "linear inequalities "
+},
+{
+  "id": "notes-week-03-4-6-2",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-6-2",
+  "type": "Example",
+  "number": "55",
+  "title": "",
+  "body": "  Solve and graph each of the following inequalities.                 "
+},
+{
+  "id": "notes-week-03-4-8-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-8-1",
+  "type": "Example",
+  "number": "56",
+  "title": "",
+  "body": "  Solve and graph each of the following compound inequalities.      and        or     "
+},
+{
+  "id": "notes-week-03-4-9-1",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-9-1",
+  "type": "Example",
+  "number": "57",
+  "title": "",
+  "body": "  Find the domain of the function    "
+},
+{
+  "id": "notes-week-03-4-10-1-3",
+  "level": "2",
+  "url": "notes-week-03.html#notes-week-03-4-10-1-3",
+  "type": "Example",
+  "number": "58",
+  "title": "",
+  "body": "  Assume that you are trying to compare two different phone data plans.   Plan A will charge you $10 for having the plan and $8 per gigabyte of data that you use.    Plan B will charge you $40 for having the plan but only $2 per gigabyte of data that you use.   For what amounts of data usage is plan A better?   "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
@@ -683,6 +755,69 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Find the domain of each function.             .    "
+},
+{
+  "id": "wksht-linear-modeling-setup",
+  "level": "1",
+  "url": "wksht-linear-modeling-setup.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Creating Linear Models",
+  "body": " Creating Linear Models     Dates  Assigned Date: September 16, 2026  Due Date: September 23, 2026   Objective  In this activity, you'll get practice with setting up modeling problems using linear functions. One of the most often shared frustrations when working story problems is: I don't know where to start. We will practice familiarizing ourselves with each problem and then translating the words in the problems into equations that we are able to solve.    Criteria for Success  Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.        Problems  SET UP each of the problems below. We are NOT solving these problems here; the end result and goal of these problems is a linear equation where each of the variables has a meaning, and by solving this linear equation, we would get the answer to the problem.    Consider the problem: Malik makes an investment at 7% simple interest. At the end of 1 year, the total value of the investment is $4280. How much was originally invested?     State and explain the formula for simple interest.      Practice using the formula. For example, if Malik invested $100 at 7%, it would earn how much in one year and what is the total value of the investment at the end of one year?      Relate the given problem to the formula and explain. What are our knowns and what is our unknown? Assign the variable for the unknown. Write a Let statement.      State the equation that would solve the given problem.       Consider the problem: The perimeter of a rectangular community garden is 144 feet. The length of the garden is 3 feet less than twice the width. Find the dimensions of the garden.     What are dimensions ? State and explain the formula relating the dimensions to the perimeter of a rectangle. Draw a picture to illustrate the problem.      Practice using the formula.      Relate the given problem to the formula and explain. What is our known and what are our unknowns? Assign variables for the unknown. Write a Let statement.      State the equation that would solve the given problem in one variable and explain how you would find the other.       Consider the problem: The cost per credit hour at a local community college has increased every other year since 2011 as shown in the table. Develop a linear model to predict the cost per credit hour in 2025.   Cost per Credit Hour    Year, n Cost-per-Credit-Hour    2011, 0 $300    2013, 2 $309    2015, 4 $318    2017, 6 $327    2019, 8 $336        What formula will we use to relate the data? Explain the parts of the formula.      Practice using the formula.      Relate the given data to the formula and explain. Write a Let statement.      State and explain the equation that would solve the given problem.       Next Step  Use the format of the previous 3 problems:   Formula    Practice    Relate what is given to the formula and write a Let statement    State and explain the equation that would solve the problem   to set-up and explain the remaining problems.    Tom paddles his kayak at a rate of 8 mph in still water. If Tom is traveling upstream in a river with a current of 3 mph, how far would Tom travel in 30 minutes?      A garden is constructed in the shape of a triangle. The base of the triangle is 7 ft and the garden will have an area of 28 . Find the height of the triangle.      In 2010, the number of students who received online tutoring at the math hotline was 110. In 2015, that number had risen to 345. Find a linear model to fit the data and use it to predict the number of students who received online tutoring from the math hotline in 2019.      "
+},
+{
+  "id": "wksht-linear-modeling-setup-3-1-3",
+  "level": "2",
+  "url": "wksht-linear-modeling-setup.html#wksht-linear-modeling-setup-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the problem: Malik makes an investment at 7% simple interest. At the end of 1 year, the total value of the investment is $4280. How much was originally invested?     State and explain the formula for simple interest.      Practice using the formula. For example, if Malik invested $100 at 7%, it would earn how much in one year and what is the total value of the investment at the end of one year?      Relate the given problem to the formula and explain. What are our knowns and what is our unknown? Assign the variable for the unknown. Write a Let statement.      State the equation that would solve the given problem.    "
+},
+{
+  "id": "wksht-linear-modeling-setup-3-1-4",
+  "level": "2",
+  "url": "wksht-linear-modeling-setup.html#wksht-linear-modeling-setup-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Consider the problem: The perimeter of a rectangular community garden is 144 feet. The length of the garden is 3 feet less than twice the width. Find the dimensions of the garden.     What are dimensions ? State and explain the formula relating the dimensions to the perimeter of a rectangle. Draw a picture to illustrate the problem.      Practice using the formula.      Relate the given problem to the formula and explain. What is our known and what are our unknowns? Assign variables for the unknown. Write a Let statement.      State the equation that would solve the given problem in one variable and explain how you would find the other.    "
+},
+{
+  "id": "wksht-linear-modeling-setup-3-1-5",
+  "level": "2",
+  "url": "wksht-linear-modeling-setup.html#wksht-linear-modeling-setup-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Consider the problem: The cost per credit hour at a local community college has increased every other year since 2011 as shown in the table. Develop a linear model to predict the cost per credit hour in 2025.   Cost per Credit Hour    Year, n Cost-per-Credit-Hour    2011, 0 $300    2013, 2 $309    2015, 4 $318    2017, 6 $327    2019, 8 $336        What formula will we use to relate the data? Explain the parts of the formula.      Practice using the formula.      Relate the given data to the formula and explain. Write a Let statement.      State and explain the equation that would solve the given problem.    "
+},
+{
+  "id": "wksht-linear-modeling-setup-3-2-3",
+  "level": "2",
+  "url": "wksht-linear-modeling-setup.html#wksht-linear-modeling-setup-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Tom paddles his kayak at a rate of 8 mph in still water. If Tom is traveling upstream in a river with a current of 3 mph, how far would Tom travel in 30 minutes?   "
+},
+{
+  "id": "wksht-linear-modeling-setup-3-2-4",
+  "level": "2",
+  "url": "wksht-linear-modeling-setup.html#wksht-linear-modeling-setup-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  A garden is constructed in the shape of a triangle. The base of the triangle is 7 ft and the garden will have an area of 28 . Find the height of the triangle.   "
+},
+{
+  "id": "wksht-linear-modeling-setup-3-2-5",
+  "level": "2",
+  "url": "wksht-linear-modeling-setup.html#wksht-linear-modeling-setup-3-2-5",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  In 2010, the number of students who received online tutoring at the math hotline was 110. In 2015, that number had risen to 345. Find a linear model to fit the data and use it to predict the number of students who received online tutoring from the math hotline in 2019.   "
 },
 {
   "id": "handouts",
