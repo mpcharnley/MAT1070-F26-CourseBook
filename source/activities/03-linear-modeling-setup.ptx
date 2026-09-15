@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-linear-modeling-setup" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Creating Linear Models</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: September 16, 2026</p>
+                    <p>Due Date: September 23, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        In this activity, you'll get practice with setting up modeling problems using linear functions. One of the most often shared frustrations when working story problems is: <q>I don't know where to start.</q> We will practice familiarizing ourselves with each problem and then translating the words in the problems into equations that we are able to solve. 
+                    </p>
+                </li>
+                <li> <title>Criteria for Success</title>
+                    <p>
+                        Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+    <p>
+        SET UP each of the problems below. We are NOT solving these problems here; the end result and goal of these problems is a linear equation where each of the variables has a meaning, and by solving this linear equation, we would get the answer to the problem.
+    </p>
+
+<exercise>
+    <introduction>
+        <p>
+            Consider the problem: Malik makes an investment at 7% simple interest. At the end of 1 year, the total value of the investment is $4280. How much was originally invested?
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                State and explain the formula for simple interest.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Practice using the formula. For example, if Malik invested $100 at 7%, it would earn how much in one year and what is the total value of the investment at the end of one year?
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Relate the given problem to the formula and explain. What are our knowns and what is our unknown? Assign the variable for the unknown. Write a <q>Let</q> statement.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                State the equation that would solve the given problem.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+            Consider the problem: The perimeter of a rectangular community garden is 144 feet. The length of the garden is 3 feet less than twice the width. Find the dimensions of the garden.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                What are <q>dimensions</q>? State and explain the formula relating the dimensions to the perimeter of a rectangle. Draw a picture to illustrate the problem.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Practice using the formula. 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Relate the given problem to the formula and explain. What is our known and what are our unknowns? Assign variables for the unknown. Write a <q>Let</q> statement.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                State the equation that would solve the given problem in one variable and explain how you would find the other.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+            Consider the problem: The cost per credit hour at a local community college has increased every other year since 2011 as shown in the table. Develop a linear model to predict the cost per credit hour in 2025.
+        </p>
+        <table>
+            <title>Cost per Credit Hour</title>
+            <tabular>
+                <row header="yes">
+                    <cell>Year, n</cell><cell>Cost-per-Credit-Hour</cell>
+                </row>
+                <row>
+                    <cell>2011, 0</cell><cell>$300</cell>
+                </row>
+                <row>
+                    <cell>2013, 2</cell><cell>$309</cell>
+                </row>
+                <row>
+                    <cell>2015, 4</cell><cell>$318</cell>
+                </row>
+                <row>
+                    <cell>2017, 6</cell><cell>$327</cell>
+                </row>
+                <row>
+                    <cell>2019, 8</cell><cell>$336</cell>
+                </row>
+            </tabular>
+        </table>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                What formula will we use to relate the data? Explain the parts of the formula.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Practice using the formula.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Relate the given data to the formula and explain. Write a <q>Let</q> statement.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                State and explain the equation that would solve the given problem.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+</paragraphs>
+
+    <paragraphs>
+        <title>Next Step</title>
+        
+        <p>
+            Use the format of the previous 3 problems:
+            <ol>
+            <li>
+                <p>
+                    Formula
+                </p>
+            </li>
+            <li>
+                <p>
+                    Practice
+                </p>
+            </li>
+            <li>
+                <p>
+                    Relate what is given to the formula and write a <q>Let</q> statement
+                </p>
+            </li>
+            <li>
+                <p>
+                    State and explain the equation that would solve the problem
+                </p>
+            </li>
+        </ol>
+        to <em>set-up and explain</em> the remaining problems.
+        </p>
+        
+        <exercise>
+            <statement>
+                <p>
+                    Tom paddles his kayak at a rate of 8 mph in still water. If Tom is traveling upstream in a river with a current of 3 mph, how far would Tom travel in 30 minutes?
+                </p>
+            </statement>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>
+                    A garden is constructed in the shape of a triangle. The base of the triangle is 7 ft and the garden will have an area of <quantity><mag>28</mag><unit base="foot" exp="2"/></quantity>. Find the height of the triangle.
+                </p>
+            </statement>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>
+                    In 2010, the number of students who received online tutoring at the math hotline was 110. In 2015, that number had risen to 345. Find a linear model to fit the data and use it to predict the number of students who received online tutoring from the math hotline in 2019.
+                </p>
+            </statement>
+        </exercise>
+
+    </paragraphs>
+</page>
+
+
+</worksheet>

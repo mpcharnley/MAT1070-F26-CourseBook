@@ -458,6 +458,248 @@
     </page>
 </handout>
 
+<handout component="cur">
+    <title>Wednesday 9/16</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Practice solving linear modeling problems.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Explore linear inequalities and their application to modeling problems. 
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Linear Models</title>
+
+        <p component="b" workspace="1in">
+            Simple interest can also be used here. The key formula needed is 
+        </p>
+        <p component="a">
+            Simple interest can also be used here. The key formula needed is <m>I = P\cdot r\cdot t</m>.
+        </p>
+
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Assume that an investment account is set up with <m>6\%</m> simple interest. After two years, the account value was <m>\$6 048</m>. How much was initially invested?
+                </p>
+            </statement>
+        
+        </example>
+         </paragraphs>
+    </page>
+
+    <page>
+        <p>
+            As one last example, geometric formulas like area and perimeter can also be used to generate the necessary equations for this kind of method.
+        </p>
+
+        <example workspace="2in">
+            <statement>
+                <p>
+                    The length of a pickleball court is 4 feet more than twice its width. The total perimeter of the court is 168 ft. Give the dimensions of the court. 
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+<page>
+    <paragraphs>
+        <title>Linear Inequalities</title>
+
+        <p component="b" workspace="2in">
+            Linear inequalities are a slightly different problem to try to solve than linear equations. What is the difference?
+        </p>
+        <p component="a">
+            Linear inequalities are a slightly different problem to try to solve than linear equations. What is the difference? Our connecting verb is now one of <m>\lt</m> <m>\gt</m>, <m>\leq</m> or <m>\geq</m>. Solving this means finding all of the values of the variable for which the inequality is true.
+        </p>
+
+        <p component="b" workspace="2in">
+            If we want to try to solve these inequalities, we need to know how to manipulate them. The rules aren't quite the same as they were for equations.
+        </p>
+        <p component="a">
+            If we want to try to solve these inequalities, we need to know how to manipulate them. The rules aren't quite the same as they were for equations. State all three. Emphasize the dividing by negative part with examples. 
+        </p>
+        
+    </paragraphs>
+</page>
+
+<page>
+    <p>
+        If the things on both sides of an inequality are linear expressions, then these are called <term>linear inequalities</term>.
+    </p>
+    <example workspace="2in">
+        <introduction>
+            <p>
+                Solve and graph each of the following inequalities.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>5x-3 \lt 4 - 2x</m>
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>10-4x \geq 2x+1</m>
+                </p>
+            </statement>
+            <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </task>
+        
+    </example>
+    
+</page>
+
+<page>
+    <paragraphs>
+        <title>Compound Inequalities</title>
+        <p component="b" workspace="3in">
+            Sometimes, you have to deal with two inequalities at the same time. There are two different cases for this:
+        </p>
+        <p component="a">
+            Sometimes, you have to deal with two inequalities at the same time. There are two different cases for this: Conjunction, and, both must be true. Disjunction, or, at least one must be true. Generally, conjunctions give a single closed interval, disjunctions give two open-ended intervals. 
+        </p>
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="2in">
+        <introduction>
+            <p>
+                Solve and graph each of the following compound inequalities.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>3x - 4 \geq 6</m> and <m>3x-4 \lt 17</m>
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>4-2x \lt 1</m> or <m>4 - 2x \geq 7</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+    </example>
+    
+</page>
+<page>
+    <example workspace="3in">
+        <statement>
+            <p>
+                Find the domain of the function <md>
+                    f(x) = 2\sqrt{x+6} + \frac{5x + 1}{\sqrt{3-x}} + x^2
+                </md>
+                
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+    </example>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Applications of Linear Inequalities</title>
+        <p>
+            Linear inequalities (or inequalities in general) are useful when you're trying to compare two options to figure out which is better.
+        </p>
+
+        <example>
+            <statement>
+                <p>
+                    Assume that you are trying to compare two different phone data plans.
+                    <ul>
+                        <li>
+                            <p>
+                                Plan A will charge you $10 for having the plan and $8 per gigabyte of data that you use.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Plan B will charge you $40 for having the plan but only $2 per gigabyte of data that you use.
+                            </p>
+                        </li>
+                    </ul>
+                    For what amounts of data usage is plan A better?
+                </p>
+            </statement>
+        </example>
+
+    </paragraphs>
+</page>
+</handout>
+
+<handout component="future">
+    <title>Friday 9/18</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review modeling problems and practice solving them.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Modeling Problems</title>
+
+        <p>
+            A lot of the last few days have been focused on modeling problems. What's the general process for solving these problems?
+        </p>
+
+        <p component="b" workspace="3in">
+            <nbsp />
+        </p>
+        <p component="a">
+            Understand, Translate, Manipulate, Check, State.
+        </p>
+
+
+
+        </paragraphs>
+    </page>
+</handout>
+
 
 
 
