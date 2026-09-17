@@ -30,6 +30,7 @@
       <xi:include href="./activities/01-graphing-equations.ptx"/>
       <xi:include href="./activities/02-functions-domains.ptx"/>
       <xi:include href="./activities/03-linear-modeling-setup.ptx"/>
+      <xi:include href="./activities/04-solving-linear-models.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
