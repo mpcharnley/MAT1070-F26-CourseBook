@@ -658,6 +658,123 @@ var ptx_lunr_docs = [
   "body": "   Review modeling problems and practice solving them.    "
 },
 {
+  "id": "notes-week-04",
+  "level": "1",
+  "url": "notes-week-04.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 4",
+  "body": " Week 4   This is an outline of the topics we covered in Week 4, from September 21 to 25.    Monday 9\/21     Define increasing, decreasing, and constant functions.    Interpret piecewise functions, evaluate them at various points, and sketch graphs.    Interpret physical scenarios using functions.       Increasing and Decreasing Functions  As we now start chapter 2, we want to expand what we can do with functions. For this first part, we want to tie graphical properties of a function to mathematical or algebraic properties.  The first of these properties is increasing . What would it mean for a function to be increasing in terms of the graph?       Let be a function defined on some interval . We say that        Consider the graph of the function drawn below. Determine intervals on which is increasing, decreasing, or constant.     f1(x)=3 - 2*(x+4)^2  f2(x)=1  f3(x)=-1*x  f4(x)=-2  f5(x)=(x-4)^2 - 2               In future classes, there will be a way to determine this in an analytical way from the function formula. However, for now, we're just looking at graphs.     Relative Maximum and Minimum  Consider the graph of the function given below.     f1(x)=-1*x - 4  f2(x)=2-x^2  f3(x)=(x-3)^2 - 3  f4(x)=5 - 4*(x-6)^2            Are there are points that look like they are maxima or minima for this function?          Let be a function defined on some open interval around the point . We say that    The goal is to identify these things from a graph. We'll learn some tricks on getting exact values for some specific functions later this semester.      Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=2*x^3 - 3*x^2 - 12*x + 10               Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=x^2 + 2*x - 4              Applications of Functions  Whenever we have an application problem, like the ones we've solved before, we can often phrase the question in terms of a function.    Assume that you are trying to build a rectangular garden bed alongside a house. You have 40 feet of fencing to use to put along the three sides of the garden bed (you don't need to fence the side that is against the house). Write a function for the area of the garden bed in terms of the length of the bed (the side parallel to the house).        Piecewise Functions  It is sometimes the case that the formula of a function changes depending on the input. The most direct example of this is tax brackets.  We have a specific way of writing out a piecewise function to display the appropriate information.       Consider the function defined below .     Evaluate , , , , and .      Sketch a graph of .                  Consider the function .     Evaluate , , and .      Write the function as a piecewise function.      Sketch a graph of                   Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .                  Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .                "
+},
+{
+  "id": "notes-week-04-3-2",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define increasing, decreasing, and constant functions.    Interpret piecewise functions, evaluate them at various points, and sketch graphs.    Interpret physical scenarios using functions.    "
+},
+{
+  "id": "notes-week-04-3-3-1-3",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-3-1-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "increasing "
+},
+{
+  "id": "def-inc-dec-fcns",
+  "level": "2",
+  "url": "notes-week-04.html#def-inc-dec-fcns",
+  "type": "Definition",
+  "number": "59",
+  "title": "",
+  "body": "  Let be a function defined on some interval . We say that   "
+},
+{
+  "id": "notes-week-04-3-5-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-5-1",
+  "type": "Example",
+  "number": "60",
+  "title": "",
+  "body": "  Consider the graph of the function drawn below. Determine intervals on which is increasing, decreasing, or constant.     f1(x)=3 - 2*(x+4)^2  f2(x)=1  f3(x)=-1*x  f4(x)=-2  f5(x)=(x-4)^2 - 2              "
+},
+{
+  "id": "def-relmax-relmin",
+  "level": "2",
+  "url": "notes-week-04.html#def-relmax-relmin",
+  "type": "Definition",
+  "number": "61",
+  "title": "",
+  "body": "  Let be a function defined on some open interval around the point . We say that   "
+},
+{
+  "id": "notes-week-04-3-8-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-8-1",
+  "type": "Example",
+  "number": "62",
+  "title": "",
+  "body": "  Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=2*x^3 - 3*x^2 - 12*x + 10          "
+},
+{
+  "id": "notes-week-04-3-9-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-9-1",
+  "type": "Example",
+  "number": "63",
+  "title": "",
+  "body": "  Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=x^2 + 2*x - 4          "
+},
+{
+  "id": "notes-week-04-3-10-1-3",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-10-1-3",
+  "type": "Example",
+  "number": "64",
+  "title": "",
+  "body": "  Assume that you are trying to build a rectangular garden bed alongside a house. You have 40 feet of fencing to use to put along the three sides of the garden bed (you don't need to fence the side that is against the house). Write a function for the area of the garden bed in terms of the length of the bed (the side parallel to the house).   "
+},
+{
+  "id": "notes-week-04-3-12-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-12-1",
+  "type": "Example",
+  "number": "65",
+  "title": "",
+  "body": "  Consider the function defined below .     Evaluate , , , , and .      Sketch a graph of .             "
+},
+{
+  "id": "notes-week-04-3-13-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-13-1",
+  "type": "Example",
+  "number": "66",
+  "title": "",
+  "body": "  Consider the function .     Evaluate , , and .      Write the function as a piecewise function.      Sketch a graph of              "
+},
+{
+  "id": "notes-week-04-3-14-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-14-1",
+  "type": "Example",
+  "number": "67",
+  "title": "",
+  "body": "  Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .             "
+},
+{
+  "id": "notes-week-04-3-15-1",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-3-15-1",
+  "type": "Example",
+  "number": "68",
+  "title": "",
+  "body": "  Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .             "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",

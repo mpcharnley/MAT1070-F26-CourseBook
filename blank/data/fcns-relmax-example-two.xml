@@ -1,0 +1,7 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x^2 + 2*x - 4 </definition>
+  <coordinates bbox="[-5, -7, 5, 7]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+  </coordinates>
+</diagram>

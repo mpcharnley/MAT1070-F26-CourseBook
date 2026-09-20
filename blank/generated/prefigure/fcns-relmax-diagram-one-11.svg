@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="fcns-relmax-diagram-one-figure" width="310" height="310" viewBox="0 0 310 310">
+  <defs>
+    <clipPath id="fcns-relmax-diagram-one-__clipPath-0">
+      <rect x="5.0" y="5.0" width="300.0" height="300.0"/>
+    </clipPath>
+    <clipPath id="fcns-relmax-diagram-one-__clipPath-1">
+      <rect x="5.0" y="5.0" width="300.0" height="300.0"/>
+    </clipPath>
+  </defs>
+  <g id="fcns-relmax-diagram-one-grid-axes">
+    <g id="fcns-relmax-diagram-one-grid" stroke="#ccc" stroke-width="1">
+      <line x1="14.4" y1="305.0" x2="14.4" y2="5.0"/>
+      <line x1="61.2" y1="305.0" x2="61.2" y2="5.0"/>
+      <line x1="108.1" y1="305.0" x2="108.1" y2="5.0"/>
+      <line x1="155.0" y1="305.0" x2="155.0" y2="5.0"/>
+      <line x1="201.9" y1="305.0" x2="201.9" y2="5.0"/>
+      <line x1="248.8" y1="305.0" x2="248.8" y2="5.0"/>
+      <line x1="295.6" y1="305.0" x2="295.6" y2="5.0"/>
+      <line x1="5.0" y1="262.1" x2="305.0" y2="262.1"/>
+      <line x1="5.0" y1="208.6" x2="305.0" y2="208.6"/>
+      <line x1="5.0" y1="155.0" x2="305.0" y2="155.0"/>
+      <line x1="5.0" y1="101.4" x2="305.0" y2="101.4"/>
+      <line x1="5.0" y1="47.9" x2="305.0" y2="47.9"/>
+    </g>
+    <g id="fcns-relmax-diagram-one-axes" stroke="black" stroke-width="2">
+      <line id="fcns-relmax-diagram-one-__line-12" x1="5.0" y1="155.0" x2="305.0" y2="155.0" stroke="black" stroke-width="2"/>
+      <g>
+        <line id="fcns-relmax-diagram-one-__line-13" x1="61.2" y1="158.0" x2="61.2" y2="152.0"/>
+        <line id="fcns-relmax-diagram-one-__line-14" x1="248.8" y1="158.0" x2="248.8" y2="152.0"/>
+      </g>
+      <line id="fcns-relmax-diagram-one-__line-15" x1="155.0" y1="305.0" x2="155.0" y2="5.0" stroke="black" stroke-width="2"/>
+      <g>
+        <line id="fcns-relmax-diagram-one-__line-16" x1="152.0" y1="262.1" x2="158.0" y2="262.1"/>
+        <line id="fcns-relmax-diagram-one-__line-17" x1="152.0" y1="47.9" x2="158.0" y2="47.9"/>
+      </g>
+    </g>
+    <g id="fcns-relmax-diagram-one-__label-0" transform="translate(301.0,151.0) translate(-10.4,-8.2)">
+      <g id="fcns-relmax-diagram-one-__g-0">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.200px" width="10.352px" height="8.200px" role="img" focusable="false" viewBox="0 -442 572 453" x="0.0" y="0.0">
+          <defs>
+            <path id="fcns-relmax-diagram-one-MJX-2-TEX-I-1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
+                <use data-c="1D465" xlink:href="#fcns-relmax-diagram-one-MJX-2-TEX-I-1D465"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="fcns-relmax-diagram-one-__label-1" transform="translate(159.0,9.0) translate(0.0,-0.0)">
+      <g id="fcns-relmax-diagram-one-__g-1">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -3.712px" width="8.872px" height="11.712px" role="img" focusable="false" viewBox="0 -442 490 647" x="0.0" y="0.0">
+          <defs>
+            <path id="fcns-relmax-diagram-one-MJX-3-TEX-I-1D466" d="M21 287Q21 301 36 335T84 406T158 442Q199 442 224 419T250 355Q248 336 247 334Q247 331 231 288T198 191T182 105Q182 62 196 45T238 27Q261 27 281 38T312 61T339 94Q339 95 344 114T358 173T377 247Q415 397 419 404Q432 431 462 431Q475 431 483 424T494 412T496 403Q496 390 447 193T391 -23Q363 -106 294 -155T156 -205Q111 -205 77 -183T43 -117Q43 -95 50 -80T69 -58T89 -48T106 -45Q150 -45 150 -87Q150 -107 138 -122T115 -142T102 -147L99 -148Q101 -153 118 -160T152 -167H160Q177 -167 186 -165Q219 -156 247 -127T290 -65T313 -9T321 21L315 17Q309 13 296 6T270 -6Q250 -11 231 -11Q185 -11 150 11T104 82Q103 89 103 113Q103 170 138 262T173 379Q173 380 173 381Q173 390 173 393T169 400T158 404H154Q131 404 112 385T82 344T65 302T57 280Q55 278 41 278H27Q21 284 21 287Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
+                <use data-c="1D466" xlink:href="#fcns-relmax-diagram-one-MJX-3-TEX-I-1D466"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="fcns-relmax-diagram-one-__label-2" transform="translate(61.2,166.0) translate(-7.5,-0.0)">
+      <g id="fcns-relmax-diagram-one-__g-2">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.400px" width="15.080px" height="12.456px" role="img" focusable="false" viewBox="0 -666 833 688" x="0.0" y="0.0">
+          <defs>
+            <path id="fcns-relmax-diagram-one-MJX-4-TEX-N-2D" d="M11 179V252H277V179H11Z"/>
+            <path id="fcns-relmax-diagram-one-MJX-4-TEX-N-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="unknown" data-semantic-font="normal" data-semantic-id="0" data-semantic-speech="">
+                <use data-c="2D" xlink:href="#fcns-relmax-diagram-one-MJX-4-TEX-N-2D"/>
+                <use data-c="35" xlink:href="#fcns-relmax-diagram-one-MJX-4-TEX-N-35" transform="translate(333,0)"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="fcns-relmax-diagram-one-__label-3" transform="translate(248.8,166.0) translate(-4.5,-0.0)">
+      <g id="fcns-relmax-diagram-one-__g-3">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.400px" width="9.048px" height="12.456px" role="img" focusable="false" viewBox="0 -666 500 688" x="0.0" y="0.0">
+          <defs>
+            <path id="fcns-relmax-diagram-one-MJX-5-TEX-N-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-id="0" data-semantic-speech="">
+                <use data-c="35" xlink:href="#fcns-relmax-diagram-one-MJX-5-TEX-N-35"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="fcns-relmax-diagram-one-__label-4" transform="translate(144.0,262.1) translate(-15.1,-6.2)">
+      <g id="fcns-relmax-diagram-one-__g-4">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.400px" width="15.080px" height="12.456px" role="img" focusable="false" viewBox="0 -666 833 688" x="0.0" y="0.0">
+          <defs>
+            <path id="fcns-relmax-diagram-one-MJX-6-TEX-N-2D" d="M11 179V252H277V179H11Z"/>
+            <path id="fcns-relmax-diagram-one-MJX-6-TEX-N-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="unknown" data-semantic-font="normal" data-semantic-id="0" data-semantic-speech="">
+                <use data-c="2D" xlink:href="#fcns-relmax-diagram-one-MJX-6-TEX-N-2D"/>
+                <use data-c="35" xlink:href="#fcns-relmax-diagram-one-MJX-6-TEX-N-35" transform="translate(333,0)"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+    <g id="fcns-relmax-diagram-one-__label-5" transform="translate(144.0,47.9) translate(-9.0,-6.2)">
+      <g id="fcns-relmax-diagram-one-__g-5">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.400px" width="9.048px" height="12.456px" role="img" focusable="false" viewBox="0 -666 500 688" x="0.0" y="0.0">
+          <defs>
+            <path id="fcns-relmax-diagram-one-MJX-7-TEX-N-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"/>
+          </defs>
+          <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+            <g data-mml-node="math">
+              <g data-mml-node="mtext" data-semantic-type="text" data-semantic-role="integer" data-semantic-font="normal" data-semantic-id="0" data-semantic-speech="">
+                <use data-c="35" xlink:href="#fcns-relmax-diagram-one-MJX-7-TEX-N-35"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <path id="fcns-relmax-diagram-one-__path-0" stroke="blue" stroke-width="2" fill="none" d="M 5.0 69.3 L 6.1 70.6 L 7.2 71.9 L 8.4 73.1 L 9.5 74.4 L 10.6 75.7 L 11.8 77.0 L 12.9 78.3 L 14.0 79.6 L 15.1 80.9 L 16.2 82.1 L 17.4 83.4 L 18.5 84.7 L 19.6 86.0 L 20.8 87.3 L 21.9 88.6 L 23.0 89.9 L 24.1 91.1 L 25.2 92.4 L 26.4 93.7 L 27.5 95.0 L 28.6 96.3 L 29.8 97.6 L 30.9 98.9 L 32.0 100.1 L 33.1 101.4 L 34.3 102.7 L 35.4 104.0 L 36.5 105.3 L 37.6 106.6 L 38.8 107.9 L 39.9 109.1 L 41.0 110.4 L 42.1 111.7 L 43.2 113.0 L 44.4 114.3 L 45.5 115.6 L 46.6 116.9 L 47.7 118.1 L 48.9 119.4 L 50.0 120.7 L 51.1 122.0 L 52.2 123.3 L 53.4 124.6 L 54.5 125.9 L 55.6 127.1 L 56.8 128.4 L 57.9 129.7 L 59.0 131.0 L 60.1 132.3 L 61.2 133.6 L 62.4 134.9 L 63.5 136.1 L 64.6 137.4 L 65.8 138.7 L 66.9 140.0 L 68.0 141.3 L 69.1 142.6 L 70.3 143.9 L 71.4 145.1 L 72.5 146.4 L 73.6 147.7 L 74.8 149.0 L 75.9 150.3 L 77.0 151.6 L 78.1 152.9 L 79.2 154.1 L 80.4 155.4 L 81.5 156.7 L 82.6 158.0 L 83.8 159.3 L 84.9 160.6 L 86.0 161.9 L 87.1 163.1 L 88.2 164.4 L 89.4 165.7 L 90.5 167.0 L 91.6 168.3 L 92.8 169.6 L 93.9 170.9 L 95.0 172.1 L 96.1 173.4 L 97.2 174.7 L 98.4 176.0 L 99.5 177.3 L 100.6 178.6 L 101.8 179.9 L 102.9 181.1 L 104.0 182.4 L 105.1 183.7 L 106.2 185.0 L 107.4 186.3 L 108.5 187.6 L 109.6 188.9 L 110.8 190.1 L 111.9 191.4 L 113.0 192.7 L 114.1 194.0 L 115.2 195.3 L 116.4 196.6 L 117.5 197.9" clip-path="url(#fcns-relmax-diagram-one-__clipPath-1)"/>
+  <path id="fcns-relmax-diagram-one-__path-1" stroke="blue" stroke-width="2" fill="none" d="M 117.5 197.9 L 118.2 194.5 L 119.0 191.1 L 119.8 187.9 L 120.5 184.7 L 121.2 181.6 L 122.0 178.5 L 122.8 175.5 L 123.5 172.6 L 124.2 169.8 L 125.0 167.0 L 125.8 164.3 L 126.5 161.7 L 127.2 159.1 L 128.0 156.6 L 128.8 154.1 L 129.5 151.8 L 130.2 149.5 L 131.0 147.3 L 131.8 145.1 L 132.5 143.0 L 133.2 141.0 L 134.0 139.0 L 134.8 137.1 L 135.5 135.3 L 136.2 133.6 L 137.0 131.9 L 137.8 130.3 L 138.5 128.7 L 139.2 127.3 L 140.0 125.9 L 140.8 124.5 L 141.5 123.3 L 142.2 122.1 L 143.0 120.9 L 143.8 119.9 L 144.5 118.9 L 145.2 117.9 L 146.0 117.1 L 146.8 116.3 L 147.5 115.6 L 148.2 114.9 L 149.0 114.3 L 149.8 113.8 L 150.5 113.4 L 151.2 113.0 L 152.0 112.7 L 152.8 112.5 L 153.5 112.3 L 154.2 112.2 L 155.0 112.1 L 155.8 112.2 L 156.5 112.3 L 157.2 112.5 L 158.0 112.7 L 158.8 113.0 L 159.5 113.4 L 160.2 113.8 L 161.0 114.3 L 161.8 114.9 L 162.5 115.6 L 163.2 116.3 L 164.0 117.1 L 164.8 117.9 L 165.5 118.9 L 166.2 119.9 L 167.0 120.9 L 167.8 122.1 L 168.5 123.3 L 169.2 124.5 L 170.0 125.9 L 170.8 127.3 L 171.5 128.7 L 172.2 130.3 L 173.0 131.9 L 173.8 133.6 L 174.5 135.3 L 175.2 137.1 L 176.0 139.0 L 176.8 141.0 L 177.5 143.0 L 178.2 145.1 L 179.0 147.3 L 179.8 149.5 L 180.5 151.8 L 181.2 154.1 L 182.0 156.6 L 182.8 159.1 L 183.5 161.7 L 184.2 164.3 L 185.0 167.0 L 185.8 169.8 L 186.5 172.6 L 187.2 175.5 L 188.0 178.5 L 188.8 181.6 L 189.5 184.7 L 190.2 187.9 L 191.0 191.1 L 191.8 194.5 L 192.5 197.9" clip-path="url(#fcns-relmax-diagram-one-__clipPath-1)"/>
+  <path id="fcns-relmax-diagram-one-__path-2" stroke="blue" stroke-width="2" fill="none" d="M 192.5 197.9 L 193.1 199.1 L 193.6 200.4 L 194.2 201.5 L 194.8 202.7 L 195.3 203.8 L 195.9 204.9 L 196.4 205.9 L 197.0 206.9 L 197.6 207.9 L 198.1 208.8 L 198.7 209.7 L 199.2 210.5 L 199.8 211.3 L 200.4 212.1 L 200.9 212.8 L 201.5 213.5 L 202.1 214.1 L 202.6 214.8 L 203.2 215.3 L 203.8 215.9 L 204.3 216.4 L 204.9 216.8 L 205.4 217.2 L 206.0 217.6 L 206.6 217.9 L 207.1 218.2 L 207.7 218.5 L 208.2 218.7 L 208.8 218.9 L 209.4 219.1 L 209.9 219.2 L 210.5 219.3 L 211.1 219.3 L 211.6 219.3 L 212.2 219.2 L 212.8 219.1 L 213.3 219.0 L 213.9 218.9 L 214.4 218.7 L 215.0 218.4 L 215.6 218.2 L 216.1 217.8 L 216.7 217.5 L 217.2 217.1 L 217.8 216.7 L 218.4 216.2 L 218.9 215.7 L 219.5 215.1 L 220.1 214.6 L 220.6 213.9 L 221.2 213.3 L 221.8 212.6 L 222.3 211.8 L 222.9 211.0 L 223.4 210.2 L 224.0 209.4 L 224.6 208.5 L 225.1 207.6 L 225.7 206.6 L 226.2 205.6 L 226.8 204.5 L 227.4 203.4 L 227.9 202.3 L 228.5 201.1 L 229.1 199.9 L 229.6 198.7 L 230.2 197.4 L 230.8 196.1 L 231.3 194.8 L 231.9 193.4 L 232.4 191.9 L 233.0 190.5 L 233.6 188.9 L 234.1 187.4 L 234.7 185.8 L 235.2 184.2 L 235.8 182.5 L 236.4 180.8 L 236.9 179.1 L 237.5 177.3 L 238.1 175.5 L 238.6 173.6 L 239.2 171.7 L 239.8 169.8 L 240.3 167.8 L 240.9 165.8 L 241.4 163.7 L 242.0 161.7 L 242.6 159.5 L 243.1 157.4 L 243.7 155.2 L 244.2 152.9 L 244.8 150.6 L 245.4 148.3 L 245.9 145.9 L 246.5 143.5 L 247.1 141.1 L 247.6 138.6 L 248.2 136.1 L 248.8 133.6" clip-path="url(#fcns-relmax-diagram-one-__clipPath-1)"/>
+  <path id="fcns-relmax-diagram-one-__path-3" stroke="blue" stroke-width="2" fill="none" d="M 248.8 133.6 L 249.3 128.5 L 249.9 123.6 L 250.4 118.8 L 251.0 114.2 L 251.6 109.8 L 252.1 105.5 L 252.7 101.4 L 253.2 97.4 L 253.8 93.5 L 254.4 89.9 L 254.9 86.3 L 255.5 83.0 L 256.1 79.8 L 256.6 76.7 L 257.2 73.8 L 257.8 71.0 L 258.3 68.4 L 258.9 66.0 L 259.4 63.7 L 260.0 61.6 L 260.6 59.6 L 261.1 57.8 L 261.7 56.1 L 262.2 54.6 L 262.8 53.2 L 263.4 52.0 L 263.9 51.0 L 264.5 50.1 L 265.1 49.3 L 265.6 48.7 L 266.2 48.3 L 266.8 48.0 L 267.3 47.9 L 267.9 47.9 L 268.4 48.1 L 269.0 48.4 L 269.6 48.9 L 270.1 49.5 L 270.7 50.3 L 271.2 51.3 L 271.8 52.4 L 272.4 53.7 L 272.9 55.1 L 273.5 56.6 L 274.1 58.4 L 274.6 60.2 L 275.2 62.3 L 275.8 64.5 L 276.3 66.8 L 276.9 69.3 L 277.4 71.9 L 278.0 74.7 L 278.6 77.7 L 279.1 80.8 L 279.7 84.1 L 280.2 87.5 L 280.8 91.1 L 281.4 94.8 L 281.9 98.7 L 282.5 102.7 L 283.1 106.9 L 283.6 111.3 L 284.2 115.8 L 284.8 120.4 L 285.3 125.2 L 285.9 130.2 L 286.4 135.3 L 287.0 140.6 L 287.6 146.0 L 288.1 151.6 L 288.7 157.3 L 289.2 163.2 L 289.8 169.2 L 290.4 175.4 L 290.9 181.8 L 291.5 188.3 L 292.1 195.0 L 292.6 201.8 L 293.2 208.7 L 293.8 215.9 L 294.3 223.1 L 294.9 230.6 L 295.4 238.2 L 296.0 245.9 L 296.6 253.8 L 297.1 261.8 L 297.7 270.0 L 298.2 278.4 L 298.8 286.9 L 299.4 295.6 L 299.9 304.4 L 300.5 313.4 L 301.1 322.5 L 301.6 331.8 L 302.2 341.2 L 302.8 350.8 L 303.3 360.6 L 303.9 370.5 L 304.4 380.5 L 305.0 390.7" clip-path="url(#fcns-relmax-diagram-one-__clipPath-1)"/>
+</svg>
