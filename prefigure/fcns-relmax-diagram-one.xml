@@ -1,0 +1,13 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f1(x)=-1*x - 4 </definition>
+  <definition> f2(x)=2-x^2 </definition>
+  <definition> f3(x)=(x-3)^2 - 3 </definition>
+  <definition> f4(x)=5 - 4*(x-6)^2 </definition>
+  <coordinates bbox="[-8, -7, 8, 7]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f1" stroke="blue" domain="[-8, -2]"/>
+    <graph function="f2" stroke="blue" domain="[-2, 2]"/>
+    <graph function="f3" stroke="blue" domain="[2, 5]"/>
+    <graph function="f4" stroke="blue" domain="[5, 8]"/>
+  </coordinates>
+</diagram>

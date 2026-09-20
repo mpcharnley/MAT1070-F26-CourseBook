@@ -1,0 +1,7 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,600)" margins="5">
+  <definition> f(x)=2*x^3 - 3*x^2 - 12*x + 10 </definition>
+  <coordinates bbox="[-5, -20, 5, 20]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+  </coordinates>
+</diagram>

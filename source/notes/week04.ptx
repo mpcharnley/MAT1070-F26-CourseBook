@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-04" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 4</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in Week 4, from September 21 to 25.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 9/21</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Define increasing, decreasing, and constant functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Interpret piecewise functions, evaluate them at various points, and sketch graphs.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Interpret physical scenarios using functions.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Increasing and Decreasing Functions</title>
+
+        <p>
+            As we now start chapter 2, we want to expand what we can do with functions. For this first part, we want to tie graphical properties of a function to mathematical or algebraic properties.
+        </p>
+
+        <p component="b" workspace="3in">
+            The first of these properties is <term>increasing</term>. What would it mean for a function to be increasing in terms of the graph?
+        </p>
+        <p component="a">
+            The first of these properties is <term>increasing</term>. What would it mean for a function to be increasing in terms of the graph? It means that it goes further up as you move to the right. What does this mean in terms of points.
+        </p>
+        </paragraphs>
+    </page>
+
+
+    <page>
+        <definition xml:id="def-inc-dec-fcns">
+            <statement>
+                <p component="b" workspace="4in">
+                    Let <m>f</m> be a function defined on some interval <m>(a,b)</m>. We say that 
+                </p>
+                <p component="a">
+                    Let <m>f</m> be a function defined on some interval <m>(a,b)</m>. We say that 
+                    <ul>
+                        <li>
+                            <p>
+                                inc
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                dec
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                constant
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </statement>
+        </definition>
+    </page>
+
+    <page>
+        <example workspace="3in">
+            <statement>
+                <p>
+                    Consider the graph of the function <m>f(x)</m> drawn below. Determine intervals on which <m>f(x)</m> is increasing, decreasing, or constant.
+                </p>
+                <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-inc-dec-diagram-one">
+    <xi:include href="../../prefigure/fcns-inc-dec-diagram-one.xml" />
+  </prefigure>
+</image>
+            </statement>
+        </example>
+
+        <p>
+            In future classes, there will be a way to determine this in an analytical way from the function formula. However, for now, we're just looking at graphs.
+        </p>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Relative Maximum and Minimum</title>
+
+            <p>
+                Consider the graph of the function <m>f(x)</m> given below.
+            </p>
+            <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-relmax-diagram-one">
+    <xi:include href="../../prefigure/fcns-relmax-diagram-one.xml" />
+  </prefigure>
+</image>
+<p>
+    Are there are points that look like they are maxima or minima for this function?
+</p>
+
+<p component="b" workspace="4in">
+    <nbsp />
+</p>
+<p component="a">
+    Two ways to think about max and min. Everywhere, or nearby. 
+</p>
+            
+        </paragraphs>
+    </page>
+
+<page>
+    <definition xml:id="def-relmax-relmin">
+        <statement>
+            <p component="b" workspace="2in">
+                Let <m>f(x)</m> be a function defined on some open interval around the point <m>c</m>. We say that  
+            </p>
+            <p component="a">
+                Let <m>f(x)</m> be a function defined on some open interval around the point <m>c</m>. We say that <m>f(c)</m> is a relative maximum...
+            </p>
+        </statement>
+    </definition>
+    <p>
+        The goal is to identify these things from a graph. We'll learn some tricks on getting exact values for some specific functions later this semester.
+    </p>
+</page>
+
+<page>
+    <example workspace="3in">
+        <statement>
+            <p>
+                Consider the graph of the function <m>f(x)</m> drawn below. Determine the intervals on which <m>f(x)</m> is increasing, decreasing, and constant. Identify any relative maximum or minimum values of <m>f</m> from the graph. 
+            </p>
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-relmax-example-one">
+    <xi:include href="../../prefigure/fcns-relmax-example-one.xml" />
+  </prefigure>
+</image>
+            
+        </statement>
+    </example>
+</page>
+
+<page>
+    <example workspace="3in">
+        <statement>
+            <p>
+                Consider the graph of the function <m>f(x)</m> drawn below. Determine the intervals on which <m>f(x)</m> is increasing, decreasing, and constant. Identify any relative maximum or minimum values of <m>f</m> from the graph. 
+            </p>
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-relmax-example-two">
+    <xi:include href="../../prefigure/fcns-relmax-example-two.xml" />
+  </prefigure>
+</image>
+            
+        </statement>
+    </example>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Applications of Functions</title>
+        
+        <p>
+            Whenever we have an application problem, like the ones we've solved before, we can often phrase the question in terms of a function.
+        </p>
+
+        <example workspace="3in">
+            <statement>
+                <p>
+                    Assume that you are trying to build a rectangular garden bed alongside a house. You have 40 feet of fencing to use to put along the three sides of the garden bed (you don't need to fence the side that is against the house). Write a function for the area of the garden bed in terms of the length of the bed (the side parallel to the house).
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                Test
+            </p>
+        </solution>
+        </example>
+        
+    </paragraphs>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Piecewise Functions</title>
+        <p component="b" workspace="2in">
+            It is sometimes the case that the formula of a function changes depending on the input. The most direct example of this is tax brackets.
+        </p>
+        <p component="a">
+            It is sometimes the case that the formula of a function changes depending on the input. The most direct example of this is tax brackets. Rate changes, pay it on the money over a certain threshold. Also, bulk purchases at a store.
+        </p>
+
+        <p component="b" workspace="2in">
+            We have a specific way of writing out a piecewise function to display the appropriate information.
+        </p>
+        <p component="a">
+            We have a specific way of writing out a piecewise function to display the appropriate information. cases brace, domain part, formula part.
+        </p>
+    </paragraphs>
+</page>
+<page>
+    <example>
+        <introduction>
+            <p>
+                Consider the function <m>f(x)</m> defined below
+                <md>
+                    f(x) = \begin{cases}
+                        2x+4 \amp x &lt; -2 \\
+                        3 \amp -2 \leq x \leq 1\\
+                        4-x \amp x &gt; 1
+                    \end{cases}
+                </md>.
+            </p>
+        </introduction>
+            <task workspace="2in">
+                <statement>
+                    <p>
+                        Evaluate <m>f(-4)</m>, <m>f(0)</m>, <m>f(-2)</m>, <m>f(3)</m>, and <m>f(5)</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Sketch a graph of <m>f(x)</m>.
+                    </p>
+<image component="b" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-one-blank">
+    <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+  </prefigure>
+</image>
+                </statement>
+                <solution component="a">
+                        <image component="a" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-one">
+    <xi:include href="../../prefigure/fcns-piecewise-example-one.xml" />
+  </prefigure>
+</image>
+                </solution>
+            </task>
+    </example>
+    
+</page>
+
+<page>
+<example workspace="2in">
+    <introduction>
+        <p>
+            Consider the function <m>f(x) = |x|</m>.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Evaluate <m>f(-3)</m>, <m>f(0)</m>, and <m>f(2)</m>.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Write the function <m>f(x)</m> as a piecewise function.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0in">
+        <statement>
+            <p>
+                Sketch a graph of <m>f(x)</m>
+            </p>
+<image component="b" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-two-blank">
+    <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+  </prefigure>
+</image>
+                </statement>
+                <solution component="a">
+                        <image component="a" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-two">
+    <xi:include href="../../prefigure/fcns-piecewise-example-two.xml" />
+  </prefigure>
+</image>
+                </solution>
+            </task>
+    </example>
+</page>
+
+<page>
+    <example>
+        <introduction>
+            <p>
+                Consider the function <m>f(x)</m> defined as <md>
+                    f(x) = \begin{cases}
+                        |x|+2 \amp x &lt; -1 \\
+                        1 - x \amp -1 \leq x &lt; 2 \\
+                        2x-5 \amp x \geq 2
+                    \end{cases}
+                </md>.
+            </p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Evalute <m>f(-2)</m>, <m>f(-1)</m>, <m>f(2)</m>, and <m>f(5)</m>.
+                </p>
+            </statement>
+    
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Sketch a graph of the function <m>f(x)</m>.
+                </p>
+<image component="b" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-three-blank">
+    <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+  </prefigure>
+</image>
+                </statement>
+                <solution component="a">
+                        <image component="a" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-three">
+    <xi:include href="../../prefigure/fcns-piecewise-example-three.xml" />
+  </prefigure>
+</image>
+                </solution>
+            </task>
+    </example>
+    
+</page>
+
+<page>
+    <example>
+        <introduction>
+            <p>
+                Consider the function <m>f(x)</m> defined as <md>
+                    f(x) = \begin{cases}
+                        \frac{x^2 - 9}{x+3} \amp x &lt; -3 \\
+                        3 \amp x=-3 \\
+                        -x-1  \amp -3 &lt; x \leq 1 \\
+                        3x-5 \amp x &gt; 1
+                    \end{cases}
+                </md>.
+            </p>
+        </introduction>
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Evalute <m>f(-5)</m>, <m>f(-3)</m>, <m>f(0)</m>, and <m>f(1)</m>.
+                </p>
+            </statement>
+    
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Sketch a graph of the function <m>f(x)</m>.
+                </p>
+<image component="b" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-four-blank">
+    <xi:include href="../../prefigure/blank-axes-6-10.xml" />
+  </prefigure>
+</image>
+                </statement>
+                <solution component="a">
+                        <image component="a" width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-piecewise-example-four">
+    <xi:include href="../../prefigure/fcns-piecewise-example-four.xml" />
+  </prefigure>
+</image>
+                </solution>
+            </task>
+    </example>
+    
+</page>
+</handout>
+
+
+</section>

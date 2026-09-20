@@ -1,0 +1,16 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=2*x </definition>
+  <definition> g(x)=2*x+3 </definition>
+  <definition> h(x)=2*x-1 </definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+    <graph at="g" function="g" stroke="red" dash="9 9"/>
+    <graph at = "h" function="h" stroke="#a1842a" dash="2 4" thickness="3"/>
+    <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>2x</m></item>
+      <item ref="g"><m>2x+3</m></item>
+      <item ref="h"><m>2x-1</m></item>
+    </legend>
+  </coordinates>
+</diagram>
