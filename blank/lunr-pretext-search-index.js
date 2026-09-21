@@ -946,6 +946,51 @@ var ptx_lunr_docs = [
   "body": "  In 2010, the number of students who received online tutoring at the math hotline was 110. In 2015, that number had risen to 345. Find a linear model to fit the data and use it to predict the number of students who received online tutoring from the math hotline in 2019.   "
 },
 {
+  "id": "wksht-solving-linear-models",
+  "level": "1",
+  "url": "wksht-solving-linear-models.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Solving Linear Models",
+  "body": " Solving Linear Models     Dates  Assigned Date: September 18, 2026  Due Date: September 23, 2026   Objective  This activity was done in class on September 18 to practice with solving linear modeling problems.        In-Class Activity  Complete the problem below.    In triangle ABC, angle B is five times as large as angle A. The measure of angle C is 2 degrees less than that of angle A. Find the measures of the angles.      Homework  Complete one of the problems below, as assigned during class. Upload it to the corresponding Canvas assignment no later than the designated due date. You are welcome to solve all of the problems, but only need to submit the one that you were assigned.    A freight train leaves the station traveling due north at a speed of 40 mph. One hour later a passenger train leaves the same station traveling due north on a parallel track at a speed of 50 mph. How long will it take the passenger train to overtake the freight train?      The width of a soccer field recommended for players under 12 is 35 yards less than the length. The perimeter of the field is 290 yards. Find the dimensions of the field.      Jeanette can be paid in one of two ways for painting a house:   Plan A: $100 plus $15 per hour;    Plan B: $25 per hour.   Suppose that a job takes hours to complete. For what values of is plan A better for Jeanette?      "
+},
+{
+  "id": "wksht-solving-linear-models-3-1-3",
+  "level": "2",
+  "url": "wksht-solving-linear-models.html#wksht-solving-linear-models-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  In triangle ABC, angle B is five times as large as angle A. The measure of angle C is 2 degrees less than that of angle A. Find the measures of the angles.   "
+},
+{
+  "id": "wksht-solving-linear-models-3-2-3",
+  "level": "2",
+  "url": "wksht-solving-linear-models.html#wksht-solving-linear-models-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  A freight train leaves the station traveling due north at a speed of 40 mph. One hour later a passenger train leaves the same station traveling due north on a parallel track at a speed of 50 mph. How long will it take the passenger train to overtake the freight train?   "
+},
+{
+  "id": "wksht-solving-linear-models-3-2-4",
+  "level": "2",
+  "url": "wksht-solving-linear-models.html#wksht-solving-linear-models-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  The width of a soccer field recommended for players under 12 is 35 yards less than the length. The perimeter of the field is 290 yards. Find the dimensions of the field.   "
+},
+{
+  "id": "wksht-solving-linear-models-3-2-5",
+  "level": "2",
+  "url": "wksht-solving-linear-models.html#wksht-solving-linear-models-3-2-5",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Jeanette can be paid in one of two ways for painting a house:   Plan A: $100 plus $15 per hour;    Plan B: $25 per hour.   Suppose that a job takes hours to complete. For what values of is plan A better for Jeanette?   "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
