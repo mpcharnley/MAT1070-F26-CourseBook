@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<worksheet component = "future" xml:id = "wksht-solving-linear-models" xmlns:xi="http://www.w3.org/2001/XInclude">
+<worksheet component = "cur" xml:id = "wksht-solving-linear-models" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Solving Linear Models</title>
 
     <introduction>
