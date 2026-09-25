@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-05" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 5</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in week 5, from September 28 to October 2.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 9/28</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Perform algebraic operations on functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Relate the graph and domain of combined functions to the component functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Compute and simplify the difference quotient of a function.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Algebra of Functions</title>
+
+    <p>
+        Suppose you had two functions:
+        <ul>
+            <li>
+                <p>
+                    <m>P(x)</m> - The price of the new base-level iPhone in year x, and 
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>M(x)</m> - The amount of storage space in the new base-level iPhone in year x.
+                </p>
+            </li>
+        </ul>
+        If I want to make a new function, <m>C(x)</m>, which is the cost per gigabyte of storage in the new iPhone, how would I do that?
+    </p> 
+
+    <p component="b" workspace="2in">
+        <nbsp />
+    </p>
+    <p component="a">
+        Well, I need to divide <m>P(x)</m> by <m>M(x)</m>. I can do this at each point, or I can define a new function. It turns out these are the same thing. Algebra of functions means adding, subtracting, multiplying, dividing to get new functions.
+    </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <p>
+            So how do we do this? In the only way we really can; by operating on the outputs.
+        </p>
+        <example workspace="1in">
+            <introduction>
+                <p>
+                    Let <m>f(x) = 3x-2</m> and <m>g(x) = x^2 + x + 1</m>. Compute each of the following:
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>f(2) + g(2)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>f(5) - g(5)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>f(1)g(1)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\frac{f(-2)}{g(-2)}</m>
+                    </p>
+                </statement>
+        
+            </task>
+        
+        </example>
+        <p>
+            In order for any of this to work, we need the value that we plug in to be in the domain of both component functions. 
+        </p>
+        
+    </page>
+
+    <page>
+        <definition xml:id="def-algebra-functions">
+            <statement>
+                <p component="b" workspace="2in">
+                    Let <m>f(x)</m> and <m>g(x)</m> be two functions and <m>x</m> be any value in the domain of both <m>f(x)</m> and <m>g(x)</m>. Then,
+                </p>
+                <p component="a">
+                    Let <m>f(x)</m> and <m>g(x)</m> be two functions and <m>x</m> be any value in the domain of both <m>f(x)</m> and <m>g(x)</m>. Then, f+g, f-g, fg f/g.
+                </p>
+            </statement>
+        </definition>
+        <example workspace="0.1in">
+            <introduction>
+                <p>
+                    Let <m>f(x) = 2 - \sqrt{x+5}</m> and <m>g(x) = x^2 + x - 2</m>. Compute and find expressions for
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f+g)(x)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(fg)(x)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f+g)(4)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f+g)(-9)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(fg)(-1)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(fg)(0)</m>
+                    </p>
+                </statement>
+        
+            </task>
+        
+        </example>
+        
+    </page>
+    <page>
+        <paragraphs>
+            <title>Graphical Representation</title>
+            <p component="b" workspace="2in">
+                What does the graph of <m>f+g</m> look like? How would you plot points on the graph?
+            </p>
+            <p component="a">
+                What does the graph of <m>f+g</m> look like? How would you plot points on the graph? Add the heights.
+            </p>
+
+            <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="funs-addition-plot">
+    <xi:include href="../../prefigure/fcns-addition-plot.xml" />
+  </prefigure>
+</image>
+        </paragraphs>
+    </page>
+    
+    <page>
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Let <m>f(x) = 2 - \sqrt{x+5}</m> and <m>g(x) = x^2 + x - 2</m>. The graphs of <m>f(x)</m> and <m>g(x)</m> are below. What do the graphs of <m>f+g</m> and <m>f-g</m> look like?
+                </p>
+                <sidebyside>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="funs-addition-plot-ex1">
+    <xi:include href="../../prefigure/fcns-addition-plot-ex1.xml" />
+  </prefigure>
+</image>
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="funs-addition-plot-ex1-blank">
+    <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+  </prefigure>
+</image>
+                </sidebyside>
+                <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="funs-addition-plot-ex1-ans">
+    <xi:include href="../../prefigure/fcns-addition-plot-ex1-ans.xml" />
+  </prefigure>
+</image>
+            </statement>
+        
+        </example>
+        
+    </page>
+    <page>
+        <paragraphs>
+            <title>Domains of Combined Functions</title>
+            <p component="b" workspace="2in">
+                As mentioned before, both functions individually need to be defined for the combined function to be defined. There's one additional constraint:
+            </p>
+            <p component="a">
+                As mentioned before, both functions individually need to be defined for the combined function to be defined. There's one additional constraint: if we divide, the bottom can't be zero.
+            </p>
+
+            <example workspace="0.1in">
+            <introduction>
+                <p>
+                    Let <m>f(x) = 2 - \sqrt{x+5}</m> and <m>g(x) = x^2 + x - 2</m>. Write an expression for each function below and find its domain.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>f(x)</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>g(x)</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f+g)(x)</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle \frac{f}{g}(x)</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle \frac{g}{f}(x)</m>
+                    </p>
+                </statement>
+            </task>
+            </example>
+        </paragraphs>
+    </page>
+    <page>
+        <example workspace="1in">
+            <introduction>
+                <p>
+                    Let <m>f(x) = \sqrt{x+3}</m> and <m>g(x) = x^2 + 2x - 8</m>.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Find the domain of <m>f</m>, <m>g</m>, <m>f+g</m>, <m>\frac{f}{g}</m>, and <m>\frac{g}{f}</m>.
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compute <m>(f+g)(1)</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compute <m>(f-g)(3)</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compute <m>(fg)(-4)</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compute <m>\left(\frac{g}{f}\right)(2)</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compute <m>\left(\frac{g}{f}\right)(6)</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compute <m>\left(\frac{f}{g}\right)(2)</m>.
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="1in">
+            <introduction>
+                <p>
+                    Let <m>f(x) = \sqrt{x+4}</m>, <m>g(x) = 1 + \frac{1}{x}</m>, and <m>h(x) = x^3 - x</m>. Find a formula for and state the domain of each of the following.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                    <m>f+g</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>f\cdot f</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>gh</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>f-h</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>f(x+3)</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>g(x-2)</m>
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>The Difference Quotient</title>
+
+            <p component="b" workspace="2in">
+                When talking about linear functions, we discussed how the slope can be thought of as the rate of change of the function. What can we do if we want to talk about rates of change of non-linear functions?
+            </p>
+            <p component="a">
+                When talking about linear functions, we discussed how the slope can be thought of as the rate of change of the function. What can we do if we want to talk about rates of change of non-linear functions? Pick two points, and find the slope of the line between them. Consider two points that are distance <m>h</m> apart...
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Construct and simplify the difference quotient for the function
+                    <md>
+                        f(x) = 5x-2
+                    </md>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Construct and simplify the difference quotient for the function
+                    <md>
+                        f(x) = \frac{3}{x}
+                    </md>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Construct and simplify the difference quotient for the function
+                    <md>
+                        f(x) = x^2 - 4x + 3 
+                    </md>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Construct and simplify the difference quotient for the function
+                    <md>
+                        f(x) = 2x^2 - 1
+                    </md>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+<page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Construct and simplify the difference quotient for the function
+                    <md>
+                        f(x) = \frac{1}{x+2} - 5x^2
+                    </md>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+</handout>
+
+
+</section>

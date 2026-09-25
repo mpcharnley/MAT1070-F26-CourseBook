@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-inc-dec-functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Increasing, Decreasing, and Piecewise Functions</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: September 23, 2026</p>
+                    <p>Due Date: September 30, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        The skill that you will practice in this exercise is graphing functions, looking for intervals on which the function is increasing, decreasing or constant, and estimating the relative maxima and minima.
+                    </p>
+                </li>
+                <li> <title>Criteria for Success</title>
+                    <p>
+                        Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+
+<exercise>
+    <statement>
+        <p>
+            Determine the intervals for which the function shown is a) increasing, b) decreasing and c) constant. Fully explain the basis for each answer.
+        </p>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-inc-dec-functions-ex1">
+    <xi:include href="../../prefigure/wksht-inc-dec-functions-ex1.xml" />
+  </prefigure>
+</image>
+    </statement>
+</exercise>
+    </paragraphs>
+</page>
+
+<page>
+<exercise workspace="3in">
+    <statement>
+        <p>
+            Graph the function: <m>f(x) = 3 - |x|</m>.  Estimate the intervals on which the function is increasing or decreasing, and estimate any relative maxima or minima. Fully explain the basis for each answer. 
+        </p>
+    </statement>
+</exercise>
+
+<exercise workspace="3in">
+    <statement>
+        <p>
+            Graph the function: <md>
+                f(x) = \begin{cases}
+                    |x| - 4 \amp \text{ for } x &lt; -2 \\
+                    -x^2 + 3 \amp \text{ for } -2 \leq x \leq 1 \\
+                    -1 \amp \text{ for } x &gt; 1
+                \end{cases}
+            </md>.
+Identify and explain intervals where the function is increasing, decreasing and constant. 
+        </p>
+    </statement>
+</exercise>
+
+
+</page>
+
+
+</worksheet>

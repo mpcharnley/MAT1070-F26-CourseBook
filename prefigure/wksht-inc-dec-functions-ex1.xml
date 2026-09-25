@@ -1,0 +1,17 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f1(x)= 8-(x+6)^2 </definition>
+  <definition> f2(x)=-3*x - 8 </definition>
+  <definition> f3(x)=x-4 </definition>
+  <definition> f4(x)=-2 </definition>
+  <definition> f5(x)= (cos(pi*(x-5)/2)) - 3</definition>
+  <definition> f6(x)= 3*(cos(pi*(x-5)/2)) - 1</definition>
+  <coordinates bbox="[-11, -10, 11, 10]">
+    <grid-axes xlabel="x" ylabel="y" spacings="(-11,1,11), (-10, 1, 10)" hticks="(-10, 2, 10)" vticks="(-8, 2, 8)" hlabels="(-10, 4, 10)" vlabels="(-8, 4, 8)"/>
+    <graph function="f1" stroke="blue" domain="[-10, -4]"/>
+    <graph function="f2" stroke="blue" domain="[-4, -1]"/>
+    <graph function="f3" stroke="blue" domain="[-1, 2]"/>
+    <graph function="f4" stroke="blue" domain="[2, 5]"/>
+    <graph function="f5" stroke="blue" domain="[5, 7]"/>
+    <graph function="f6" stroke="blue" domain="[7, 10]"/>
+  </coordinates>
+</diagram>

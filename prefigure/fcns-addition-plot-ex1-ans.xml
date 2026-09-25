@@ -1,0 +1,20 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=2-sqrt(x+5) </definition>
+  <definition> g(x)=x^2 + x-2 </definition>
+  <definition> s(x) = f(x) + g(x) </definition>
+  <definition> d(x) = f(x) - g(x) </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="s" stroke="blue"/>
+    <graph function="d" stroke="red"/>
+  </coordinates>
+</diagram>
+
+<!-- include as 
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-inter">
+    <xi:include href="../../prefigure/test-diagram.xml" />
+  </prefigure>
+</image>
+-->

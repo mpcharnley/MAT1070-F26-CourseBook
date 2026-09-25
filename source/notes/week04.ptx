@@ -402,5 +402,107 @@
 </page>
 </handout>
 
+<handout component="cur">
+    <title>Wednesday 9/23</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review increasing, decreasing, and piecewise functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Test 1 Review
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Review of Function Properties</title>
+
+            <p component="b" workspace="2in">
+                Last time, we discussed several important properties of functions and how we can determine them from graphs.
+            </p>
+            <p component="a">
+                Last time, we discussed several important properties of functions and how we can determine them from graphs. Increasing, Decreasing, constant.
+            </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+            <p component="b" workspace="2in">
+                We also talked about piecewise functions, how they are written, and how to go about plotting them.
+            </p>
+            <p component="a">
+                We also talked about piecewise functions, how they are written, and how to go about plotting them. Domain part, function part. To graph, you draw each individual graph over the domain specified by the piecewise function.
+            </p>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Worksheet on Increasing, Decreasing, Piecewise Functions</title>
+            <p>
+                Work on the worksheet.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Test 1 Review</title>
+
+            <p>
+                Test 1 is Friday, September 25, in class. The exam covers all of Chapter 1 and 2.1-2.2. This is up through Homework 2.1A and 2.1B in MyMathLab. List of topics from those sections:
+                <ul>
+                    <li>
+                        <p>
+                            Graphing equations and lines.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Functions, including domain and range.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Linear functions and linear equations. Different forms of lines and graphing them.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Parallel and Perpendicular lines.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Linear modeling problems.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Linear Inequalities and applications.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Increasing, decreasing, and constant functions.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Piecewise Functions.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+            
+        </paragraphs>
+    </page>
+</handout>
+
 
 </section>
