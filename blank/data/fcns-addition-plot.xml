@@ -1,0 +1,53 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> a=5 </definition>
+  <definition> len = 0.25 </definition>
+  <definition> f(x)=sin(x)+2 </definition>
+  <definition> g(x) = 1/4*x+3 </definition>
+  <definition> s(x) = f(x) + g(x) </definition>
+  <coordinates bbox="[-1,-1,8,10]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+    <point p="(a, f(a))" stroke="blue" fill="blue" size="3"/>
+    <graph  at = "g" function="g" stroke="orange"/>
+    <point p="(a, g(a))" stroke="orange" fill="orange" size="3"/>
+    <graph at="sum" function="s" stroke="green"/>
+    <point p="(a, s(a))" stroke="green" fill="green" size="3"/>
+    <line endpoints="((a-2*len,0),(a,0))" stroke="black" />
+    <line endpoints="((a-2*len,g(a)),(a,g(a)))" stroke="black" />
+    <line endpoints="((a-1*len,0),(a-1*len,g(a)))" stroke="black" rotate="-90" alignment="west" offset="(0, 5)">
+      <m>g(a)</m>
+    </line>
+    <line endpoints="((a+2*len,0),(a+0*len,0))" stroke="black" />
+    <line endpoints="((a+2*len,f(a)),(a+0*len,f(a)))" stroke="black" />
+    <line endpoints="((a+1*len,0),(a+1*len,f(a)))" stroke="black" rotate="-90" alignment="east" offset="(0, -5)">
+      <m>f(a)</m>
+    </line>
+    <line endpoints="((a+2*len,f(a)),(a+0*len,f(a)))" stroke="black" />
+    <line endpoints="((a+2*len,f(a)+g(a)),(a+0*len,f(a)+g(a)))" stroke="black" />
+    <line endpoints="((a+1*len,f(a)),(a+1*len,f(a) +g(a)))" stroke="black" rotate="-90" alignment="east" offset="(0, -5)">
+      <m>g(a)</m>
+    </line>
+    <line endpoints="((a-4*len-1.5,0),(a-2*len,0))" stroke="black" />
+    <line endpoints="((a-4*len-1.5,f(a)+g(a)),(a-0*len,f(a)+g(a)))" stroke="black" />
+    <line endpoints="((a-3*len-1.5,0),(a-3*len-1.5,f(a)+g(a)))" stroke="black" rotate="-90" alignment="west" offset="(50, 5)">
+      <m>(f+g)(a)</m>
+    </line>
+    
+
+
+    <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>f(x)</m></item>
+      <item ref="g"><m>g(x)</m></item>
+      <item ref="sum"><m>(f+g)(x)</m></item>
+    </legend>
+  </coordinates>
+</diagram>
+
+<!-- include as 
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-inter">
+    <xi:include href="../../prefigure/test-diagram.xml" />
+  </prefigure>
+</image>
+-->

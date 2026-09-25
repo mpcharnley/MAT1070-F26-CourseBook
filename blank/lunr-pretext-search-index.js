@@ -664,7 +664,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 4",
-  "body": " Week 4   This is an outline of the topics we covered in Week 4, from September 21 to 25.    Monday 9\/21     Define increasing, decreasing, and constant functions.    Interpret piecewise functions, evaluate them at various points, and sketch graphs.    Interpret physical scenarios using functions.       Increasing and Decreasing Functions  As we now start chapter 2, we want to expand what we can do with functions. For this first part, we want to tie graphical properties of a function to mathematical or algebraic properties.  The first of these properties is increasing . What would it mean for a function to be increasing in terms of the graph?       Let be a function defined on some interval . We say that        Consider the graph of the function drawn below. Determine intervals on which is increasing, decreasing, or constant.     f1(x)=3 - 2*(x+4)^2  f2(x)=1  f3(x)=-1*x  f4(x)=-2  f5(x)=(x-4)^2 - 2               In future classes, there will be a way to determine this in an analytical way from the function formula. However, for now, we're just looking at graphs.     Relative Maximum and Minimum  Consider the graph of the function given below.     f1(x)=-1*x - 4  f2(x)=2-x^2  f3(x)=(x-3)^2 - 3  f4(x)=5 - 4*(x-6)^2            Are there are points that look like they are maxima or minima for this function?          Let be a function defined on some open interval around the point . We say that    The goal is to identify these things from a graph. We'll learn some tricks on getting exact values for some specific functions later this semester.      Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=2*x^3 - 3*x^2 - 12*x + 10               Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=x^2 + 2*x - 4              Applications of Functions  Whenever we have an application problem, like the ones we've solved before, we can often phrase the question in terms of a function.    Assume that you are trying to build a rectangular garden bed alongside a house. You have 40 feet of fencing to use to put along the three sides of the garden bed (you don't need to fence the side that is against the house). Write a function for the area of the garden bed in terms of the length of the bed (the side parallel to the house).        Piecewise Functions  It is sometimes the case that the formula of a function changes depending on the input. The most direct example of this is tax brackets.  We have a specific way of writing out a piecewise function to display the appropriate information.       Consider the function defined below .     Evaluate , , , , and .      Sketch a graph of .                  Consider the function .     Evaluate , , and .      Write the function as a piecewise function.      Sketch a graph of                   Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .                  Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .                "
+  "body": " Week 4   This is an outline of the topics we covered in Week 4, from September 21 to 25.    Monday 9\/21     Define increasing, decreasing, and constant functions.    Interpret piecewise functions, evaluate them at various points, and sketch graphs.    Interpret physical scenarios using functions.       Increasing and Decreasing Functions  As we now start chapter 2, we want to expand what we can do with functions. For this first part, we want to tie graphical properties of a function to mathematical or algebraic properties.  The first of these properties is increasing . What would it mean for a function to be increasing in terms of the graph?       Let be a function defined on some interval . We say that        Consider the graph of the function drawn below. Determine intervals on which is increasing, decreasing, or constant.     f1(x)=3 - 2*(x+4)^2  f2(x)=1  f3(x)=-1*x  f4(x)=-2  f5(x)=(x-4)^2 - 2               In future classes, there will be a way to determine this in an analytical way from the function formula. However, for now, we're just looking at graphs.     Relative Maximum and Minimum  Consider the graph of the function given below.     f1(x)=-1*x - 4  f2(x)=2-x^2  f3(x)=(x-3)^2 - 3  f4(x)=5 - 4*(x-6)^2            Are there are points that look like they are maxima or minima for this function?          Let be a function defined on some open interval around the point . We say that    The goal is to identify these things from a graph. We'll learn some tricks on getting exact values for some specific functions later this semester.      Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=2*x^3 - 3*x^2 - 12*x + 10               Consider the graph of the function drawn below. Determine the intervals on which is increasing, decreasing, and constant. Identify any relative maximum or minimum values of from the graph.     f(x)=x^2 + 2*x - 4              Applications of Functions  Whenever we have an application problem, like the ones we've solved before, we can often phrase the question in terms of a function.    Assume that you are trying to build a rectangular garden bed alongside a house. You have 40 feet of fencing to use to put along the three sides of the garden bed (you don't need to fence the side that is against the house). Write a function for the area of the garden bed in terms of the length of the bed (the side parallel to the house).        Piecewise Functions  It is sometimes the case that the formula of a function changes depending on the input. The most direct example of this is tax brackets.  We have a specific way of writing out a piecewise function to display the appropriate information.       Consider the function defined below .     Evaluate , , , , and .      Sketch a graph of .                  Consider the function .     Evaluate , , and .      Write the function as a piecewise function.      Sketch a graph of                   Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .                  Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .                 Wednesday 9\/23     Review increasing, decreasing, and piecewise functions.    Test 1 Review       Review of Function Properties  Last time, we discussed several important properties of functions and how we can determine them from graphs.     We also talked about piecewise functions, how they are written, and how to go about plotting them.     Worksheet on Increasing, Decreasing, Piecewise Functions  Work on the worksheet.      Test 1 Review  Test 1 is Friday, September 25, in class. The exam covers all of Chapter 1 and 2.1-2.2. This is up through Homework 2.1A and 2.1B in MyMathLab. List of topics from those sections:   Graphing equations and lines.    Functions, including domain and range.    Linear functions and linear equations. Different forms of lines and graphing them.    Parallel and Perpendicular lines.    Linear modeling problems.    Linear Inequalities and applications.    Increasing, decreasing, and constant functions.    Piecewise Functions.        "
 },
 {
   "id": "notes-week-04-3-2",
@@ -773,6 +773,141 @@ var ptx_lunr_docs = [
   "number": "68",
   "title": "",
   "body": "  Consider the function defined as .     Evalute , , , and .      Sketch a graph of the function .             "
+},
+{
+  "id": "notes-week-04-4-2",
+  "level": "2",
+  "url": "notes-week-04.html#notes-week-04-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review increasing, decreasing, and piecewise functions.    Test 1 Review    "
+},
+{
+  "id": "notes-week-05",
+  "level": "1",
+  "url": "notes-week-05.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 5",
+  "body": " Week 5   This is an outline of the topics we covered in week 5, from September 28 to October 2.    Monday 9\/28     Perform algebraic operations on functions.    Relate the graph and domain of combined functions to the component functions.    Compute and simplify the difference quotient of a function.       Algebra of Functions  Suppose you had two functions:    - The price of the new base-level iPhone in year x, and     - The amount of storage space in the new base-level iPhone in year x.   If I want to make a new function, , which is the cost per gigabyte of storage in the new iPhone, how would I do that?        So how do we do this? In the only way we really can; by operating on the outputs.    Let and . Compute each of the following:                                In order for any of this to work, we need the value that we plug in to be in the domain of both component functions.      Let and be two functions and be any value in the domain of both and . Then,      Let and . Compute and find expressions for                                                 Graphical Representation  What does the graph of look like? How would you plot points on the graph?     a=5  len = 0.25  f(x)=sin(x)+2  g(x) = 1\/4*x+3  s(x) = f(x) + g(x)             g(a)      f(a)      g(a)      (f+g)(a)    f(x)  g(x)  (f+g)(x)            Let and . The graphs of and are below. What do the graphs of and look like?      f(x)=2-sqrt(x+5)  g(x)=x^2+x-2                       f(x)=2-sqrt(x+5)  g(x)=x^2 + x-2  s(x) = f(x) + g(x)  d(x) = f(x) - g(x)               Domains of Combined Functions  As mentioned before, both functions individually need to be defined for the combined function to be defined. There's one additional constraint:    Let and . Write an expression for each function below and find its domain.                                            Let and .     Find the domain of , , , , and .      Compute .      Compute .      Compute .      Compute .      Compute .      Compute .         Let , , and . Find a formula for and state the domain of each of the following.                                                 The Difference Quotient  When talking about linear functions, we discussed how the slope can be thought of as the rate of change of the function. What can we do if we want to talk about rates of change of non-linear functions?       Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .      "
+},
+{
+  "id": "notes-week-05-3-2",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Perform algebraic operations on functions.    Relate the graph and domain of combined functions to the component functions.    Compute and simplify the difference quotient of a function.    "
+},
+{
+  "id": "notes-week-05-3-4-2",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-4-2",
+  "type": "Example",
+  "number": "69",
+  "title": "",
+  "body": "  Let and . Compute each of the following:                               "
+},
+{
+  "id": "def-algebra-functions",
+  "level": "2",
+  "url": "notes-week-05.html#def-algebra-functions",
+  "type": "Definition",
+  "number": "70",
+  "title": "",
+  "body": "  Let and be two functions and be any value in the domain of both and . Then,   "
+},
+{
+  "id": "notes-week-05-3-5-2",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-5-2",
+  "type": "Example",
+  "number": "71",
+  "title": "",
+  "body": "  Let and . Compute and find expressions for                                             "
+},
+{
+  "id": "notes-week-05-3-7-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-7-1",
+  "type": "Example",
+  "number": "72",
+  "title": "",
+  "body": "  Let and . The graphs of and are below. What do the graphs of and look like?      f(x)=2-sqrt(x+5)  g(x)=x^2+x-2                       f(x)=2-sqrt(x+5)  g(x)=x^2 + x-2  s(x) = f(x) + g(x)  d(x) = f(x) - g(x)           "
+},
+{
+  "id": "notes-week-05-3-8-1-3",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-8-1-3",
+  "type": "Example",
+  "number": "73",
+  "title": "",
+  "body": "  Let and . Write an expression for each function below and find its domain.                                      "
+},
+{
+  "id": "notes-week-05-3-9-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-9-1",
+  "type": "Example",
+  "number": "74",
+  "title": "",
+  "body": "  Let and .     Find the domain of , , , , and .      Compute .      Compute .      Compute .      Compute .      Compute .      Compute .    "
+},
+{
+  "id": "notes-week-05-3-10-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-10-1",
+  "type": "Example",
+  "number": "75",
+  "title": "",
+  "body": "  Let , , and . Find a formula for and state the domain of each of the following.                                             "
+},
+{
+  "id": "notes-week-05-3-12-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-12-1",
+  "type": "Example",
+  "number": "76",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function .   "
+},
+{
+  "id": "notes-week-05-3-13-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-13-1",
+  "type": "Example",
+  "number": "77",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function .   "
+},
+{
+  "id": "notes-week-05-3-14-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-14-1",
+  "type": "Example",
+  "number": "78",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function .   "
+},
+{
+  "id": "notes-week-05-3-15-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-15-1",
+  "type": "Example",
+  "number": "79",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function .   "
+},
+{
+  "id": "notes-week-05-3-16-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-3-16-1",
+  "type": "Example",
+  "number": "80",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function .   "
 },
 {
   "id": "wksht-graphing-equations",
@@ -989,6 +1124,42 @@ var ptx_lunr_docs = [
   "number": "4",
   "title": "",
   "body": "  Jeanette can be paid in one of two ways for painting a house:   Plan A: $100 plus $15 per hour;    Plan B: $25 per hour.   Suppose that a job takes hours to complete. For what values of is plan A better for Jeanette?   "
+},
+{
+  "id": "wksht-inc-dec-functions",
+  "level": "1",
+  "url": "wksht-inc-dec-functions.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Increasing, Decreasing, and Piecewise Functions",
+  "body": " Increasing, Decreasing, and Piecewise Functions     Dates  Assigned Date: September 23, 2026  Due Date: September 30, 2026   Objective  The skill that you will practice in this exercise is graphing functions, looking for intervals on which the function is increasing, decreasing or constant, and estimating the relative maxima and minima.    Criteria for Success  Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.        Problems    Determine the intervals for which the function shown is a) increasing, b) decreasing and c) constant. Fully explain the basis for each answer.     f1(x)= 8-(x+6)^2  f2(x)=-3*x - 8  f3(x)=x-4  f4(x)=-2  f5(x)= (cos(pi*(x-5)\/2)) - 3  f6(x)= 3*(cos(pi*(x-5)\/2)) - 1                     Graph the function: . Estimate the intervals on which the function is increasing or decreasing, and estimate any relative maxima or minima. Fully explain the basis for each answer.      Graph the function: . Identify and explain intervals where the function is increasing, decreasing and constant.     "
+},
+{
+  "id": "wksht-inc-dec-functions-3-1-2",
+  "level": "2",
+  "url": "wksht-inc-dec-functions.html#wksht-inc-dec-functions-3-1-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Determine the intervals for which the function shown is a) increasing, b) decreasing and c) constant. Fully explain the basis for each answer.     f1(x)= 8-(x+6)^2  f2(x)=-3*x - 8  f3(x)=x-4  f4(x)=-2  f5(x)= (cos(pi*(x-5)\/2)) - 3  f6(x)= 3*(cos(pi*(x-5)\/2)) - 1               "
+},
+{
+  "id": "wksht-inc-dec-functions-4-1",
+  "level": "2",
+  "url": "wksht-inc-dec-functions.html#wksht-inc-dec-functions-4-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Graph the function: . Estimate the intervals on which the function is increasing or decreasing, and estimate any relative maxima or minima. Fully explain the basis for each answer.   "
+},
+{
+  "id": "wksht-inc-dec-functions-4-2",
+  "level": "2",
+  "url": "wksht-inc-dec-functions.html#wksht-inc-dec-functions-4-2",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Graph the function: . Identify and explain intervals where the function is increasing, decreasing and constant.   "
 },
 {
   "id": "handouts",
