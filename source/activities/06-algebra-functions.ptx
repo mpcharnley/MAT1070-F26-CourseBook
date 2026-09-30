@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-alg-functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Algebra of Functions</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: September 30, 2026</p>
+                    <p>Due Date: October 2, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        The skill that you will practice in this exercise is working with the algebraic properties of functions. This was done as an in-class activity on September 30.
+                    </p>
+                </li>
+                <li> <title>Criteria for Success</title>
+                    <p>
+                        Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<paragraphs>
+    <title>Problems</title>
+<exercise>
+    <introduction>
+        <p>
+            Given that <m>f(x) = x^2 - 2x + 1</m> and <m>g(x) = \sqrt{x+6}</m>, find each of the following if it exists.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                <m>\displaystyle (f+g)(-1)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>4 + sqrt{5}</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>\displaystyle (f-g)(-2)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>7</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>\displaystyle (fg)(10)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>324</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>\displaystyle \left(\frac{g}{f}\right)(3)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>\frac{3}{4}</m>
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+            For <m>f(x) = -2x+4</m> and <m>g(x) = \frac{1}{x}</m>, find the following.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                The domain of <m>f</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(-\infty, \infty)</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                The domain of <m>g</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(-\infty, 0) \cup (0, \infty)</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                The domain of <m>f+g</m> and <m>f-g</m>.
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(-\infty, 0) \cup (0, \infty)</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                The domain of <m>fg</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(-\infty, 0) \cup (0, \infty)</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                The domain of <m>\frac{g}{f}</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(-\infty, 0) \cup (0, 2) \cup (2,\infty)</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>(f+g)(x)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>\displaystyle \frac{-2x^2 + 4x + 1}{x}</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>\displaystyle \left(\frac{f}{g}\right)(x)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>-2x^2 + 4x</m>
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+<exercise>
+    <statement>
+        <p>
+            Construct and simplify the difference quotient for the function <m>f(x) = 3x^2 + x - 1</m>
+        </p>
+    </statement>
+    <solution component="a">
+        <p>
+            <m>6x+3h+1</m>
+        </p>
+    </solution>
+</exercise>
+
+
+</paragraphs>
+
+
+<paragraphs>
+    <title>Hand-In Problems</title>
+
+    <exercise>
+        <statement>
+            <p>
+                For <m>f(x) = x^3 + 2x - 7</m> and <m>g(x) = -3x + 1</m>, find <m>(g-f)(-2)</m>.
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(g-f)(-2) = g(-2) - f(-2) = -3(-2)+1 - ((-2)^3 + 2(-2) - 7) = 6 + 1 - (-8-4-7) = 7+19=26</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise>
+        <statement>
+            <p>
+                For <m>f(x) = \sqrt{2-x}</m> and <m>g(x) = x^2 - 1</m>, find the domain of <m>f/g</m>.
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>(-\infty, -1) \cup (-1, 1)\cup (1, 2]</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise>
+        <statement>
+            <p>
+                Construct and simplify the difference quotient for the function <m>f(x)= 4 - x^2</m>.
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>-2x-h</m>
+            </p>
+        </solution>
+    </exercise>
+    
+</paragraphs>
+
+
+
+</worksheet>

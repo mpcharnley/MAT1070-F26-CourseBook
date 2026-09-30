@@ -34,6 +34,7 @@
       <xi:include href="./activities/03-linear-modeling-setup.ptx"/>
       <xi:include href="./activities/04-solving-linear-models.ptx"/>
       <xi:include href="./activities/05-inc-dec-functions.ptx"/>
+      <xi:include href="./activities/06-algebra-functions.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>

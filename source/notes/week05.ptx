@@ -490,4 +490,331 @@
 </handout>
 
 
+<handout component="cur">
+    <title>Wednesday 9/30</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review the algebra of functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Develop function composition as a new way to combine functions.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Algebra of Functions</title>
+
+<p component="b" workspace="2in">
+    Last time, we talked about the algebra of functions. What did this entail?
+</p>
+<p component="a">
+    Last time, we talked about the algebra of functions. What did this entail? Operations on functions to get new functions. Domains. Difference Quotients
+</p>
+<p>
+    Now we have an activity to review some of that information.
+</p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Function Composition</title>
+            
+            <p component="b" workspace="2in">
+                There is one additional way that we can think about combining functions together that is super useful in both physical applications and mathematical contexts: function composition.
+            </p>
+            <p component="a">
+                There is one additional way that we can think about combining functions together that is super useful in both physical applications and mathematical contexts: function composition. The output from one functon can be the input to the next function in line. Price to sell an item at, interest rate on an loan, price of professional sporting event tickets.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <p component="b" workspace="2in">
+            Another common way to think about compositions is by considering functions as machines that turn input to output.
+        </p>
+        <p component="a">
+            Another common way to think about compositions is by considering functions as machines that turn input to output. Get to g of f of x.
+        </p>
+
+        <definition xml:id="def-function-composition">
+            <statement>
+                <p component="b" workspace="2in">
+                    Let <m>f(x)</m> and <m>g(x)</m> be two functions. The <term>composite function</term> <m>g \circ f</m>, the <term>composition</term> of <m>g</m> and <m>f</m>, is 
+                </p>
+                <p component="a">
+                    Let <m>f(x)</m> and <m>g(x)</m> be two functions. The <term>composite function</term> <m>g \circ f</m>, the <term>composition</term> of <m>g</m> and <m>f</m>, is <m>g(f(x))</m>, where <m>x</m> is in the domain of <m>f</m> and <m>f(x)</m> is in the domain of <m>g</m>.
+                </p>
+            </statement>
+        </definition>
+    </page>
+
+    <page>
+        <example workspace="1in">
+            <introduction>
+                <p>
+                    Assume that <m>f(x) = x^2 +2x - 5</m> and <m>g(x) = 3x+1</m>. Find each of the following.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f\circ g)(x)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(g\circ f)(x)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f\circ g)(3)</m> and <m>(g\circ f)(3)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(g\circ g)(x)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f\circ f)(1)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example>
+            <introduction>
+                <p>
+                    Assume that <m>f(x)</m> and <m>g(x)</m> are functions where some of their values are given in the table below.
+                    
+                </p>
+                <table>
+                        <title></title>
+                        <tabular>
+                            <row header="yes">
+                                <cell><m>x</m></cell><cell><m>f(x)</m></cell><cell><m>g(x)</m></cell>   
+                            </row>
+                            <row>
+                                <cell>0</cell><cell>4</cell><cell>2</cell>
+                            </row>
+                            <row>
+                                <cell>1</cell><cell>-1</cell><cell>5</cell>
+                            </row>
+                            <row>
+                                <cell>2</cell><cell>1</cell><cell>-3</cell>
+                            </row>
+                            <row>
+                                <cell>3</cell><cell>6</cell><cell>0</cell>
+                            </row>
+                            <row>
+                                <cell>4</cell><cell>3</cell><cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>5</cell><cell>2</cell><cell>4</cell>
+                            </row>
+                        </tabular>
+                    </table>
+                <p>
+                    Compute each of the following.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f\circ g)(4)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(g\circ f)(2)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(f\circ f)(0)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(g\circ g)(3)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(g\circ f\circ f\circ g)(1)</m>
+                    </p>
+                </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="2in">
+            Compositions of functions can also bring about some interesting scenarios when domains are considered.
+        </p>
+        <p component="a">
+            Compositions of functions can also bring about some interesting scenarios when domains are considered. The output from the inside function must land inside the domain.
+        </p>
+
+        <example workspace="3in">
+            <statement>
+                <p>
+                    Let <m>f(x) = 2x + 5</m> and <m>g(x) = \sqrt{x+1}</m>. Compute the domain of <m>f</m>, <m>g</m>, <m>f\circ g</m> and <m>g\circ f</m>.
+                </p>
+            </statement>
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Let <m>f(x) = x^2 + x - 6</m> and <m>g(x) = \frac{3}{x-4}</m>. Compute the domain of <m>f</m>, <m>g</m>, <m>f\circ g</m> and <m>g\circ f</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="5in">
+            <statement>
+                <p>
+                    Let <m>f(x) = \frac{1}{x-5}</m> and <m>g(x) = \frac{2}{x}</m>. Compute the domain of <m>f</m>, <m>g</m>, <m>f\circ g</m> and <m>g\circ f</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Decomposing a Function</title>
+            
+            <p component="b" workspace="2in">
+                The other main part of dealing with compositions is figuring out how to take them apart.
+            </p>
+            <p component="a">
+                The other main part of dealing with compositions is figuring out how to take them apart. Oftentimes, we'll want to take a complicated function and break it apart into simpler component parts.
+            </p>
+        </paragraphs>
+
+    <example workspace="2in">
+        <statement>
+            <p>
+                Let <m>f(x) = (x^2 + 3x + 1)^5</m>. Find functions <m>g(x)</m> and <m>h(x)</m> so that <m>f = g\circ h</m>.
+            </p>
+        </statement>
+    
+    </example>
+    
+    </page>
+
+    <page>
+        <example workspace="2in">
+        <statement>
+            <p>
+                Let <m>f(x) = \frac{2}{(x-3)^4}</m>. Find functions <m>g(x)</m> and <m>h(x)</m> so that <m>f = g\circ h</m>.
+            </p>
+        </statement>
+    
+    </example>
+    </page>
+
+    <page>
+        <example workspace="4in">
+        <statement>
+            <p>
+                Let <m>f(x) = ((\sqrt{x})^3 - 3\sqrt{x} + 4)^7</m>. Figure out a way to decompose <m>f(x)</m> into simpler functions.
+            </p>
+        </statement>
+    
+    </example>
+    </page>
+</handout>
+
 </section>
