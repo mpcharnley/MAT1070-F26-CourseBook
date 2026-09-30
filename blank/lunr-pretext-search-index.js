@@ -790,7 +790,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 5",
-  "body": " Week 5   This is an outline of the topics we covered in week 5, from September 28 to October 2.    Monday 9\/28     Perform algebraic operations on functions.    Relate the graph and domain of combined functions to the component functions.    Compute and simplify the difference quotient of a function.       Algebra of Functions  Suppose you had two functions:    - The price of the new base-level iPhone in year x, and     - The amount of storage space in the new base-level iPhone in year x.   If I want to make a new function, , which is the cost per gigabyte of storage in the new iPhone, how would I do that?        So how do we do this? In the only way we really can; by operating on the outputs.    Let and . Compute each of the following:                                In order for any of this to work, we need the value that we plug in to be in the domain of both component functions.      Let and be two functions and be any value in the domain of both and . Then,      Let and . Compute and find expressions for                                                 Graphical Representation  What does the graph of look like? How would you plot points on the graph?     a=5  len = 0.25  f(x)=sin(x)+2  g(x) = 1\/4*x+3  s(x) = f(x) + g(x)             g(a)      f(a)      g(a)      (f+g)(a)    f(x)  g(x)  (f+g)(x)            Let and . The graphs of and are below. What do the graphs of and look like?      f(x)=2-sqrt(x+5)  g(x)=x^2+x-2                       f(x)=2-sqrt(x+5)  g(x)=x^2 + x-2  s(x) = f(x) + g(x)  d(x) = f(x) - g(x)               Domains of Combined Functions  As mentioned before, both functions individually need to be defined for the combined function to be defined. There's one additional constraint:    Let and . Write an expression for each function below and find its domain.                                            Let and .     Find the domain of , , , , and .      Compute .      Compute .      Compute .      Compute .      Compute .      Compute .         Let , , and . Find a formula for and state the domain of each of the following.                                                 The Difference Quotient  When talking about linear functions, we discussed how the slope can be thought of as the rate of change of the function. What can we do if we want to talk about rates of change of non-linear functions?       Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .      "
+  "body": " Week 5   This is an outline of the topics we covered in week 5, from September 28 to October 2.    Monday 9\/28     Perform algebraic operations on functions.    Relate the graph and domain of combined functions to the component functions.    Compute and simplify the difference quotient of a function.       Algebra of Functions  Suppose you had two functions:    - The price of the new base-level iPhone in year x, and     - The amount of storage space in the new base-level iPhone in year x.   If I want to make a new function, , which is the cost per gigabyte of storage in the new iPhone, how would I do that?        So how do we do this? In the only way we really can; by operating on the outputs.    Let and . Compute each of the following:                                In order for any of this to work, we need the value that we plug in to be in the domain of both component functions.      Let and be two functions and be any value in the domain of both and . Then,      Let and . Compute and find expressions for                                                 Graphical Representation  What does the graph of look like? How would you plot points on the graph?     a=5  len = 0.25  f(x)=sin(x)+2  g(x) = 1\/4*x+3  s(x) = f(x) + g(x)             g(a)      f(a)      g(a)      (f+g)(a)    f(x)  g(x)  (f+g)(x)            Let and . The graphs of and are below. What do the graphs of and look like?      f(x)=2-sqrt(x+5)  g(x)=x^2+x-2                       f(x)=2-sqrt(x+5)  g(x)=x^2 + x-2  s(x) = f(x) + g(x)  d(x) = f(x) - g(x)               Domains of Combined Functions  As mentioned before, both functions individually need to be defined for the combined function to be defined. There's one additional constraint:    Let and . Write an expression for each function below and find its domain.                                            Let and .     Find the domain of , , , , and .      Compute .      Compute .      Compute .      Compute .      Compute .      Compute .         Let , , and . Find a formula for and state the domain of each of the following.                                                 The Difference Quotient  When talking about linear functions, we discussed how the slope can be thought of as the rate of change of the function. What can we do if we want to talk about rates of change of non-linear functions?       Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .        Construct and simplify the difference quotient for the function .       Wednesday 9\/30     Review the algebra of functions.    Develop function composition as a new way to combine functions.       Algebra of Functions  Last time, we talked about the algebra of functions. What did this entail?  Now we have an activity to review some of that information.      Function Composition  There is one additional way that we can think about combining functions together that is super useful in both physical applications and mathematical contexts: function composition.     Another common way to think about compositions is by considering functions as machines that turn input to output.    Let and be two functions. The composite function  , the composition of and , is        Assume that and . Find each of the following.                    and                        Assume that and are functions where some of their values are given in the table below.         0 4 2    1 -1 5    2 1 -3    3 6 0    4 3 1    5 2 4     Compute each of the following.                                         Compositions of functions can also bring about some interesting scenarios when domains are considered.    Let and . Compute the domain of , , and .        Let and . Compute the domain of , , and .        Let and . Compute the domain of , , and .       Decomposing a Function  The other main part of dealing with compositions is figuring out how to take them apart.     Let . Find functions and so that .        Let . Find functions and so that .        Let . Figure out a way to decompose into simpler functions.      "
 },
 {
   "id": "notes-week-05-3-2",
@@ -908,6 +908,96 @@ var ptx_lunr_docs = [
   "number": "80",
   "title": "",
   "body": "  Construct and simplify the difference quotient for the function .   "
+},
+{
+  "id": "notes-week-05-4-2",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review the algebra of functions.    Develop function composition as a new way to combine functions.    "
+},
+{
+  "id": "def-function-composition",
+  "level": "2",
+  "url": "notes-week-05.html#def-function-composition",
+  "type": "Definition",
+  "number": "81",
+  "title": "",
+  "body": "  Let and be two functions. The composite function  , the composition of and , is   "
+},
+{
+  "id": "notes-week-05-4-6-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-6-1",
+  "type": "Example",
+  "number": "82",
+  "title": "",
+  "body": "  Assume that and . Find each of the following.                    and                   "
+},
+{
+  "id": "notes-week-05-4-7-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-7-1",
+  "type": "Example",
+  "number": "83",
+  "title": "",
+  "body": "  Assume that and are functions where some of their values are given in the table below.         0 4 2    1 -1 5    2 1 -3    3 6 0    4 3 1    5 2 4     Compute each of the following.                                      "
+},
+{
+  "id": "notes-week-05-4-8-2",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-8-2",
+  "type": "Example",
+  "number": "85",
+  "title": "",
+  "body": "  Let and . Compute the domain of , , and .   "
+},
+{
+  "id": "notes-week-05-4-9-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-9-1",
+  "type": "Example",
+  "number": "86",
+  "title": "",
+  "body": "  Let and . Compute the domain of , , and .   "
+},
+{
+  "id": "notes-week-05-4-10-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-10-1",
+  "type": "Example",
+  "number": "87",
+  "title": "",
+  "body": "  Let and . Compute the domain of , , and .   "
+},
+{
+  "id": "notes-week-05-4-11-2",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-11-2",
+  "type": "Example",
+  "number": "88",
+  "title": "",
+  "body": "  Let . Find functions and so that .   "
+},
+{
+  "id": "notes-week-05-4-12-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-12-1",
+  "type": "Example",
+  "number": "89",
+  "title": "",
+  "body": "  Let . Find functions and so that .   "
+},
+{
+  "id": "notes-week-05-4-13-1",
+  "level": "2",
+  "url": "notes-week-05.html#notes-week-05-4-13-1",
+  "type": "Example",
+  "number": "90",
+  "title": "",
+  "body": "  Let . Figure out a way to decompose into simpler functions.   "
 },
 {
   "id": "wksht-graphing-equations",
@@ -1160,6 +1250,69 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  Graph the function: . Identify and explain intervals where the function is increasing, decreasing and constant.   "
+},
+{
+  "id": "wksht-alg-functions",
+  "level": "1",
+  "url": "wksht-alg-functions.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Algebra of Functions",
+  "body": " Algebra of Functions     Dates  Assigned Date: September 30, 2026  Due Date: October 2, 2026   Objective  The skill that you will practice in this exercise is working with the algebraic properties of functions. This was done as an in-class activity on September 30.    Criteria for Success  Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.       Problems    Given that and , find each of the following if it exists.                                  For and , find the following.     The domain of       The domain of       The domain of and .      The domain of       The domain of                      Construct and simplify the difference quotient for the function       Hand-In Problems    For and , find .      For and , find the domain of .      Construct and simplify the difference quotient for the function .     "
+},
+{
+  "id": "wksht-alg-functions-3-2",
+  "level": "2",
+  "url": "wksht-alg-functions.html#wksht-alg-functions-3-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Given that and , find each of the following if it exists.                               "
+},
+{
+  "id": "wksht-alg-functions-3-3",
+  "level": "2",
+  "url": "wksht-alg-functions.html#wksht-alg-functions-3-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  For and , find the following.     The domain of       The domain of       The domain of and .      The domain of       The domain of                   "
+},
+{
+  "id": "wksht-alg-functions-3-4",
+  "level": "2",
+  "url": "wksht-alg-functions.html#wksht-alg-functions-3-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function    "
+},
+{
+  "id": "wksht-alg-functions-4-2",
+  "level": "2",
+  "url": "wksht-alg-functions.html#wksht-alg-functions-4-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  For and , find .   "
+},
+{
+  "id": "wksht-alg-functions-4-3",
+  "level": "2",
+  "url": "wksht-alg-functions.html#wksht-alg-functions-4-3",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  For and , find the domain of .   "
+},
+{
+  "id": "wksht-alg-functions-4-4",
+  "level": "2",
+  "url": "wksht-alg-functions.html#wksht-alg-functions-4-4",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Construct and simplify the difference quotient for the function .   "
 },
 {
   "id": "handouts",
