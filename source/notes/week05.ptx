@@ -759,6 +759,55 @@
         
     </page>
 
+</handout>
+
+<handout component="cur">
+    <title>Friday 10/2</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review compositions of functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Understand how to decompose a function into it's separate parts.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on Section 2.3.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Composition of Functions</title>
+
+        <p component="b" workspace="2in">
+            Last class, we defined the composition of two functions. How did that work?
+        </p>
+        <p component="a">
+            Last class, we defined the composition of two functions. How did that work? Output of one is the input of the other. The machines feed into each other. Domains need to line up properly for it to be defined.
+        </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Let <m>f(x) = x^2 + x - 6</m> and <m>g(x) = \frac{3}{x-4}</m>. Compute the domain of <m>f</m>, <m>g</m>, <m>f\circ g</m> and <m>g\circ f</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
     <page>
         <example workspace="5in">
             <statement>
