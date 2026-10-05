@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-06" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 6</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in Week 6 of the course, from October 5 to October 9.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 10/5</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Understand symmetry of graphs and functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Understand the basic forms of certain function graphs.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use graph transformations to sketch graphs of more complicated functions.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Symmetry</title>
+
+            <p component="b" workspace="2in">
+                What is symmetry outside of the mathematical context?
+            </p>
+            <p component="a">
+                What is symmetry outside of the mathematical context? Things being the same on both sides, left side being a mirror image of the right. Various planes of symmetry, common in nature.
+            </p>
+
+            <p component="b" workspace="2in">
+                In the mathematical context, we want to apply this to graphs, and in particular, to graphs of functions.
+            </p>
+            <p component="a">
+                In the mathematical context, we want to apply this to graphs, and in particular, to graphs of functions. While there are many different planes of symmetry in nature, there are only three we want to consider in this class: x-axis, y-axis, and origin.
+            </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="1in">
+            <introduction>
+                <p>
+                    For each of the following graphs, analyze the types of symmetry that they have: x-axis, y-axis, origin, or none.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-symmetry-ex1">
+    <xi:include href="../../prefigure/fcns-symmetry-ex1.xml" />
+  </prefigure>
+</image>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-symmetry-ex2">
+    <xi:include href="../../prefigure/fcns-symmetry-ex2.xml" />
+  </prefigure>
+</image>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-symmetry-ex3">
+    <xi:include href="../../prefigure/fcns-symmetry-ex3.xml" />
+  </prefigure>
+</image>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-symmetry-ex4">
+    <xi:include href="../../prefigure/fcns-symmetry-ex4.xml" />
+  </prefigure>
+</image>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-symmetry-ex5">
+    <xi:include href="../../prefigure/fcns-symmetry-ex5.xml" />
+  </prefigure>
+</image>
+                </statement>
+        
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="4in">
+            What did we notice from those previous examples? Is there an algebraic way to determine this based on an equation (if you were given one)?
+        </p>
+        <p component="a">
+            What did we notice from those previous examples? Is there an algebraic way to determine this based on an equation (if you were given one)? If <m>(x,y)</m> is on a graph, what other point needs to be on the graph for symmetry to work?
+        </p>
+    </page>
+
+    <page>
+        <example workspace="3in">
+            <introduction>
+                <p>
+                    Determine which types of symmetry each of the following equations have?
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>y^2 - x = 5</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>x^4 + y^2 = 10</m>
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="2in">
+            What does this mean for functions of the form <m>y = f(x)</m>? How can we apply these previous observations?
+        </p>
+        <p component="a">
+            What does this mean for functions of the form <m>y = f(x)</m>? How can we apply these previous observations? Get to definition of even and odd function.
+        </p>
+
+        <example workspace="3in">
+            <statement>
+                <p>
+                    Is the function <m>f(x) = x^4 + 3x - 1</m> even or odd? Explain.
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                Neither.
+            </p>
+        </solution>
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Transformations of Graphs</title>
+            
+            <p>
+                In this section, we study transformations of graphs, which is how we can take the graphs of a basic function and transform it into something more complicated. The basic functions we will consider are below.
+            </p>
+            <sidebyside>
+                <image>
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-identity">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+<legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=x</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+                <image>
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-square">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x^2 </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+      <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=x^2</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+    </sidebyside>
+    <sidebyside>
+                <image>
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-squarert">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=sqrt(x) </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+      <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=\sqrt{x}</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+                <image>
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-cubed">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x^3 </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+      <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=x^3</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+            </sidebyside>
+                        <sidebyside>
+                <image>
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-cubert">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x,y)=y^3 - x</definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <implicit-curve at="f" function="f" k="0" stroke="blue"/>
+      <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=\sqrt[3]{x}</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+                <image>
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-recip">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=1/x </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+      <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=\frac{1}{x}</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+                            </sidebyside>
+                <image width="50%">
+                    <prefigure xmlns="https://prefigure.org"
+             label="basic-functions-absval">
+             <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=abs(x) </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+      <legend anchor="(bbox[0], bbox[3])" alignment="se">
+      <item ref="f"><m>y=|x|</m></item>
+</legend>
+  </coordinates>
+
+</diagram>
+  </prefigure>
+                </image>
+
+        </paragraphs>
+    </page>
+
+<page>
+    <paragraphs>
+        <title>Vertical and Horizontal Translations</title>
+        
+        <p component="b" workspace="2in">
+            The first kind of transformations we want to consider are translations. If <m>g(x) = f(x) + 2</m>, how do the graphs of <m>f(x)</m> and <m>g(x)</m> compare?
+        </p>
+        <p component="a">
+            The first kind of transformations we want to consider are translations. If <m>g(x) = f(x) + 2</m>, how do the graphs of <m>f(x)</m> and <m>g(x)</m> compare? If we're drawing these, it's <m>y = f(x)</m> or <m>y = g(x)</m>. So, the <m>y</m>-value for <m>g(x)</m> is increased by 2.  
+        </p>
+
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-vert">
+    <xi:include href="../../prefigure/fcns-transformation-vert.xml" />
+  </prefigure>
+</image>
+    </paragraphs>
+</page>
+
+<page>
+    <p component="b" workspace="2in">
+        This result can be summarized as follows:
+    </p>
+    <p component="a">
+        This result can be summarized as follows: 
+    </p>
+
+    <p component="b" workspace="2in">
+        How would we adjust the <m>x</m>-value instead of the <m>y</m>-value?
+    </p>
+    <p component="a">
+        How would we adjust the <m>x</m>-value instead of the <m>y</m>-value? We need to change the input, so something like <m>f(x-2)</m> instead.
+    </p>
+ 
+ <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-horiz">
+    <xi:include href="../../prefigure/fcns-transformation-horiz.xml" />
+  </prefigure>
+</image>
+
+</page>
+
+<page>
+    <p component="b" workspace="2in">
+        This too can be summarized nicely:
+    </p>
+    <p component="a">
+        This too can be summarized nicely: 
+    </p>
+
+    <example workspace="2in">
+        <introduction>
+            <p>
+                Sketch the graph of each of the following functions and describe the transformations used to get there.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle f(x) = (x-3)^3</m>
+                </p>
+                <sidebyside component="b">
+                     <image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex1-b1">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex1-b2">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+                </sidebyside>
+            </statement>
+    
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle g(x) = \sqrt{x} - 4</m>
+                </p>
+                <sidebyside component="b">
+                     <image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex2-b1">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex2-b2">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+                </sidebyside>
+            </statement>
+    
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle h(x) = |x+2| + 1</m>
+                </p>
+                <sidebyside component="b">
+                     <image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex3-b1">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex3-b2">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+
+                </sidebyside>
+                <image width="60%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-hv-ex3-b3">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+            </statement>
+            
+    
+        </task>
+    
+    </example>
+    
+</page>
+
+<page>
+    <paragraphs>
+        <title>Reflections</title>
+        <p component="b" workspace="2in">
+            What else can we do with graphs? Well, we can reflect them across the two axes.
+        </p>
+        <p component="a">
+            What else can we do with graphs? Well, we can reflect them across the two axes. What does this look like algebraically?
+        </p>
+    </paragraphs>
+
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-refl">
+            <xi:include href="../../prefigure/fcns-transformation-refl.xml" />
+            </prefigure>
+</image>
+</page>
+
+<page>
+    <p component="b" workspace="2in">
+        Summarizing what we saw in the last graph:
+    </p>
+    <p component="a">
+        Summarizing what we saw in the last graph: 
+    </p>
+
+    <example>
+        <statement>
+            <p>
+                Below is the graph of a function <m>f(x)</m>. Sketch the graph of <m>g(x) = f(-x)</m> and <m>h(x) = -f(x)</m>.
+            </p>
+            <sidebyside component="b" widths="30% 30% 30%">
+                     <image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-refl-ex1">
+            <xi:include href="../../prefigure/fcns-transformation-refl-ex1.xml" />
+            </prefigure>
+</image>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-refl-ex1-b1">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-refl-ex1-b2">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+                </sidebyside>
+        </statement>
+    </example>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Stretching and Shrinking</title>
+        
+        <p component="b" workspace="2in">
+            The other main things we can do with graphs is stretch or compress them in the vertical and horizontal directions.
+        </p>
+        <p component="a">
+            The other main things we can do with graphs is stretch or compress them in the vertical and horizontal directions. This is going to be the result of multiplying numbers to either the <m>x</m> (input) or <m>y</m> (output) of the function. 
+        </p>
+    </paragraphs>
+<sidebyside>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-vertStretch">
+            <xi:include href="../../prefigure/fcns-transformation-vertStretch.xml" />
+            </prefigure>
+</image>
+<image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-horizStretch">
+            <xi:include href="../../prefigure/fcns-transformation-horizStretch.xml" />
+            </prefigure>
+</image>
+</sidebyside>
+</page>
+
+<page>
+    <p component="b" workspace="2in">
+        There's a little bit more to this picture here:
+    </p>
+    <p component="a">
+        There's a little bit more to this picture here: What if the coefficient is negative?
+    </p>
+
+    <image width="60%">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-stretchReflect">
+            <xi:include href="../../prefigure/fcns-transformation-stretchReflect.xml" />
+            </prefigure>
+</image>
+
+<p component="b" workspace="2in">
+    <nbsp />
+</p>
+<p component="a">
+    If the coefficient is negative, we also have a reflection. So reflect and stretch or compress.
+</p>
+    
+</page>
+<page>
+    <p component="b" workspace="3in">
+        In summary,
+    </p>
+    <p component="a">
+        In summary, horizontal and vertical stretching and shrinking.
+    </p>
+</page>
+
+<page>
+    <example workspace="0.1in">
+        <introduction>
+            <p>
+            Given the graph of <m>f(x)</m> sketched below, draw the graph of each of the related functions.
+            </p>
+            <image width="30%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-stretch-ex1">
+    <xi:include href="../../prefigure/fcns-transformation-stretch-ex1.xml" />
+  </prefigure>
+</image>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>2f(x)</m>
+                </p>
+                <image width="60%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-stretch-ex1-b1">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+            </statement>
+    
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>f(2x)</m>
+                </p>
+                <image width="60%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-stretch-ex1-b2">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+            </statement>
+    
+        </task>
+         <task>
+            <statement>
+                <p>
+                    <m>f(-\frac{1}{2}x)</m>
+                </p>
+                <image width="60%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-stretch-ex1-b3">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+            </statement>
+    
+        </task>
+    
+    </example>
+    
+</page>
+
+<page>
+    <example>
+        <statement>
+            <p>
+                For the function <m>f(x)</m> sketched below, draw the graph of <m>-3f(2(x-1)) +1</m>
+            </p>
+            <image width="40%">
+  <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex1">
+    <xi:include href="../../prefigure/fcns-transformation-combined-ex1.xml" />
+  </prefigure>
+</image>
+<sidebyside widths="40% 40%">
+    <image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex1-b1">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+<image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex1-b2">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+</sidebyside>
+<sidebyside widths="40% 40%">
+    <image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex1-b3">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+<image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex1-b4">
+            <xi:include href="../../prefigure/blank-axes-6-6.xml" />
+            </prefigure>
+</image>
+</sidebyside>
+        </statement>
+    </example>
+</page>
+
+
+</handout>
+
+
+</section>

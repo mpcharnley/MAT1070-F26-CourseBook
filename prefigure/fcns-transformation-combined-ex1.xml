@@ -1,0 +1,11 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=2</definition>
+  <definition> g(x) = -x+1 </definition>
+  <definition> h(x) = (x-3)^2-2 </definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue" domain="[-5,-1]"/>
+    <graph at="g" function="g" stroke="blue" domain="[-1,2]"/>
+    <graph at="h" function="h" stroke="blue" domain="[2,5]"/>
+  </coordinates>
+</diagram>
