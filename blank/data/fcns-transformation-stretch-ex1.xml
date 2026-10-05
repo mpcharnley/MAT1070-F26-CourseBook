@@ -1,0 +1,13 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=sqrt(4 - (x+3)^2)</definition>
+  <definition> g(x) = x+1 </definition>
+  <definition> h(x) = 1 </definition>
+  <definition> r(x) = 2*(x-4)^2 -1 </definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue" domain="[-5,-1]"/>
+    <graph at="g" function="g" stroke="blue" domain="[-1,0]"/>
+    <graph at="h" function="h" stroke="blue" domain="[0,3]"/>
+    <graph at="r" function="r" stroke="blue" domain="[3,5]"/>
+  </coordinates>
+</diagram>

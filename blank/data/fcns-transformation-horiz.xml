@@ -1,0 +1,16 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x^2</definition>
+  <definition> g(x)=f(x+2) </definition>
+  <definition> h(x)=f(x-3) </definition>
+  <coordinates bbox="[-5, -5, 5, 5]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="f" function="f" stroke="blue"/>
+    <graph at="g" function="g" stroke="red" dash="9 9"/>
+    <graph at = "h" function="h" stroke="#a1842a" dash="2 4" thickness="3"/>
+    <legend anchor="(bbox[0], bbox[1])" alignment="ne">
+      <item ref="f"><m>y = x^2</m></item>
+      <item ref="g"><m>y=(x+2)^2</m></item>
+      <item ref="h"><m>y = (x-3)^2</m></item>
+    </legend>
+  </coordinates>
+</diagram>

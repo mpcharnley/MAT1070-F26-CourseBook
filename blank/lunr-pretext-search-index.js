@@ -1018,6 +1018,87 @@ var ptx_lunr_docs = [
   "body": "  Let . Figure out a way to decompose into simpler functions.   "
 },
 {
+  "id": "notes-week-06",
+  "level": "1",
+  "url": "notes-week-06.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 6",
+  "body": " Week 6   This is an outline of the topics we covered in Week 6 of the course, from October 5 to October 9.    Monday 10\/5     Understand symmetry of graphs and functions.    Understand the basic forms of certain function graphs.    Use graph transformations to sketch graphs of more complicated functions.       Symmetry  What is symmetry outside of the mathematical context?  In the mathematical context, we want to apply this to graphs, and in particular, to graphs of functions.       For each of the following graphs, analyze the types of symmetry that they have: x-axis, y-axis, origin, or none.        f(x,y)=x - y^2                f(x,y)=y - x^2                f(x,y)=x^2 - y^2                f(x)=x^2 - 3*x                f(x)=sin(x)              What did we notice from those previous examples? Is there an algebraic way to determine this based on an equation (if you were given one)?      Determine which types of symmetry each of the following equations have?                    What does this mean for functions of the form ? How can we apply these previous observations?    Is the function even or odd? Explain.       Transformations of Graphs  In this section, we study transformations of graphs, which is how we can take the graphs of a basic function and transform it into something more complicated. The basic functions we will consider are below.      f(x)=x      y=x          f(x)=x^2      y=x^2            f(x)=sqrt(x)      y=\\sqrt{x}          f(x)=x^3      y=x^3            f(x,y)=y^3 - x      y=\\sqrt[3]{x}          f(x)=1\/x      y=\\frac{1}{x}           f(x)=abs(x)      y=|x|           Vertical and Horizontal Translations  The first kind of transformations we want to consider are translations. If , how do the graphs of and compare?     f(x)=x^2  g(x)=f(x) + 2  h(x)=f(x) - 3        y = x^2  y=x^2 + 2  y = x^2 - 3          This result can be summarized as follows:  How would we adjust the -value instead of the -value?     f(x)=x^2  g(x)=f(x+2)  h(x)=f(x-3)        y = x^2  y=(x+2)^2  y = (x-3)^2         This too can be summarized nicely:    Sketch the graph of each of the following functions and describe the transformations used to get there.                                                                                                 Reflections  What else can we do with graphs? Well, we can reflect them across the two axes.      f(x)=x^2 - 4*x  g(x)=f(-1*x)  h(x)=-1*f(x)        y =f(x)  y=f(-x)  y = -f(x)         Summarizing what we saw in the last graph:    Below is the graph of a function . Sketch the graph of and .      f(x) = 4+x  g(x) = (x-2)^2                                  Stretching and Shrinking  The other main things we can do with graphs is stretch or compress them in the vertical and horizontal directions.       f(x)=x^3 - 4*x  g(x)=2*f(x)  h(x)=1\/3*f(x)        y =f(x)  y=2f(x)  y = \\frac{1}{3}f(x)          f(x)=x^3 - 4*x  g(x)=f(2*x)  h(x)=f(1\/3*x)        y =f(x)  y=f(2x)  y = f(\\frac{x}{3})          There's a little bit more to this picture here:     f(x)=x^3 - x + 1  g(x)=f(-2*x)  h(x)=-2*f(x)        y = f(x)  y=f(-2x)  y = -2f(x)            In summary,      Given the graph of sketched below, draw the graph of each of the related functions.     f(x)=sqrt(4 - (x+3)^2)  g(x) = x+1  h(x) = 1  r(x) = 2*(x-4)^2 -1                                                                  For the function sketched below, draw the graph of      f(x)=2  g(x) = -x+1  h(x) = (x-3)^2-2                                                       "
+},
+{
+  "id": "notes-week-06-3-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Understand symmetry of graphs and functions.    Understand the basic forms of certain function graphs.    Use graph transformations to sketch graphs of more complicated functions.    "
+},
+{
+  "id": "notes-week-06-3-4-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-4-1",
+  "type": "Example",
+  "number": "92",
+  "title": "",
+  "body": "  For each of the following graphs, analyze the types of symmetry that they have: x-axis, y-axis, origin, or none.        f(x,y)=x - y^2                f(x,y)=y - x^2                f(x,y)=x^2 - y^2                f(x)=x^2 - 3*x                f(x)=sin(x)           "
+},
+{
+  "id": "notes-week-06-3-6-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-6-1",
+  "type": "Example",
+  "number": "93",
+  "title": "",
+  "body": "  Determine which types of symmetry each of the following equations have?                 "
+},
+{
+  "id": "notes-week-06-3-7-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-7-2",
+  "type": "Example",
+  "number": "94",
+  "title": "",
+  "body": "  Is the function even or odd? Explain.   "
+},
+{
+  "id": "notes-week-06-3-11-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-11-2",
+  "type": "Example",
+  "number": "95",
+  "title": "",
+  "body": "  Sketch the graph of each of the following functions and describe the transformations used to get there.                                                                                             "
+},
+{
+  "id": "notes-week-06-3-13-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-13-2",
+  "type": "Example",
+  "number": "96",
+  "title": "",
+  "body": "  Below is the graph of a function . Sketch the graph of and .      f(x) = 4+x  g(x) = (x-2)^2                              "
+},
+{
+  "id": "notes-week-06-3-17-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-17-1",
+  "type": "Example",
+  "number": "97",
+  "title": "",
+  "body": "  Given the graph of sketched below, draw the graph of each of the related functions.     f(x)=sqrt(4 - (x+3)^2)  g(x) = x+1  h(x) = 1  r(x) = 2*(x-4)^2 -1                                                             "
+},
+{
+  "id": "notes-week-06-3-18-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-3-18-1",
+  "type": "Example",
+  "number": "98",
+  "title": "",
+  "body": "  For the function sketched below, draw the graph of      f(x)=2  g(x) = -x+1  h(x) = (x-3)^2-2                                                    "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
