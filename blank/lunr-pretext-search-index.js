@@ -1024,7 +1024,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 6",
-  "body": " Week 6   This is an outline of the topics we covered in Week 6 of the course, from October 5 to October 9.    Monday 10\/5     Understand symmetry of graphs and functions.    Understand the basic forms of certain function graphs.    Use graph transformations to sketch graphs of more complicated functions.       Symmetry  What is symmetry outside of the mathematical context?  In the mathematical context, we want to apply this to graphs, and in particular, to graphs of functions.       For each of the following graphs, analyze the types of symmetry that they have: x-axis, y-axis, origin, or none.        f(x,y)=x - y^2                f(x,y)=y - x^2                f(x,y)=x^2 - y^2                f(x)=x^2 - 3*x                f(x)=sin(x)              What did we notice from those previous examples? Is there an algebraic way to determine this based on an equation (if you were given one)?      Determine which types of symmetry each of the following equations have?                    What does this mean for functions of the form ? How can we apply these previous observations?    Is the function even or odd? Explain.       Transformations of Graphs  In this section, we study transformations of graphs, which is how we can take the graphs of a basic function and transform it into something more complicated. The basic functions we will consider are below.      f(x)=x      y=x          f(x)=x^2      y=x^2            f(x)=sqrt(x)      y=\\sqrt{x}          f(x)=x^3      y=x^3            f(x,y)=y^3 - x      y=\\sqrt[3]{x}          f(x)=1\/x      y=\\frac{1}{x}           f(x)=abs(x)      y=|x|           Vertical and Horizontal Translations  The first kind of transformations we want to consider are translations. If , how do the graphs of and compare?     f(x)=x^2  g(x)=f(x) + 2  h(x)=f(x) - 3        y = x^2  y=x^2 + 2  y = x^2 - 3          This result can be summarized as follows:  How would we adjust the -value instead of the -value?     f(x)=x^2  g(x)=f(x+2)  h(x)=f(x-3)        y = x^2  y=(x+2)^2  y = (x-3)^2         This too can be summarized nicely:    Sketch the graph of each of the following functions and describe the transformations used to get there.                                                                                                 Reflections  What else can we do with graphs? Well, we can reflect them across the two axes.      f(x)=x^2 - 4*x  g(x)=f(-1*x)  h(x)=-1*f(x)        y =f(x)  y=f(-x)  y = -f(x)         Summarizing what we saw in the last graph:    Below is the graph of a function . Sketch the graph of and .      f(x) = 4+x  g(x) = (x-2)^2                                  Stretching and Shrinking  The other main things we can do with graphs is stretch or compress them in the vertical and horizontal directions.       f(x)=x^3 - 4*x  g(x)=2*f(x)  h(x)=1\/3*f(x)        y =f(x)  y=2f(x)  y = \\frac{1}{3}f(x)          f(x)=x^3 - 4*x  g(x)=f(2*x)  h(x)=f(1\/3*x)        y =f(x)  y=f(2x)  y = f(\\frac{x}{3})          There's a little bit more to this picture here:     f(x)=x^3 - x + 1  g(x)=f(-2*x)  h(x)=-2*f(x)        y = f(x)  y=f(-2x)  y = -2f(x)            In summary,      Given the graph of sketched below, draw the graph of each of the related functions.     f(x)=sqrt(4 - (x+3)^2)  g(x) = x+1  h(x) = 1  r(x) = 2*(x-4)^2 -1                                                                  For the function sketched below, draw the graph of      f(x)=2  g(x) = -x+1  h(x) = (x-3)^2-2                                                       "
+  "body": " Week 6   This is an outline of the topics we covered in Week 6 of the course, from October 5 to October 9.    Monday 10\/5     Understand symmetry of graphs and functions.    Understand the basic forms of certain function graphs.    Use graph transformations to sketch graphs of more complicated functions.       Symmetry  What is symmetry outside of the mathematical context?  In the mathematical context, we want to apply this to graphs, and in particular, to graphs of functions.       For each of the following graphs, analyze the types of symmetry that they have: x-axis, y-axis, origin, or none.        f(x,y)=x - y^2                f(x,y)=y - x^2                f(x,y)=x^2 - y^2                f(x)=x^2 - 3*x                f(x)=sin(x)              What did we notice from those previous examples? Is there an algebraic way to determine this based on an equation (if you were given one)?      Determine which types of symmetry each of the following equations have?                    What does this mean for functions of the form ? How can we apply these previous observations?    Is the function even or odd? Explain.       Transformations of Graphs  In this section, we study transformations of graphs, which is how we can take the graphs of a basic function and transform it into something more complicated. The basic functions we will consider are below.      f(x)=x      y=x          f(x)=x^2      y=x^2            f(x)=sqrt(x)      y=\\sqrt{x}          f(x)=x^3      y=x^3            f(x,y)=y^3 - x      y=\\sqrt[3]{x}          f(x)=1\/x      y=\\frac{1}{x}           f(x)=abs(x)      y=|x|           Vertical and Horizontal Translations  The first kind of transformations we want to consider are translations. If , how do the graphs of and compare?     f(x)=x^2  g(x)=f(x) + 2  h(x)=f(x) - 3        y = x^2  y=x^2 + 2  y = x^2 - 3          This result can be summarized as follows:  How would we adjust the -value instead of the -value?     f(x)=x^2  g(x)=f(x+2)  h(x)=f(x-3)        y = x^2  y=(x+2)^2  y = (x-3)^2         This too can be summarized nicely:    Sketch the graph of each of the following functions and describe the transformations used to get there.                                                                                                 Reflections  What else can we do with graphs? Well, we can reflect them across the two axes.      f(x)=x^2 - 4*x  g(x)=f(-1*x)  h(x)=-1*f(x)        y =f(x)  y=f(-x)  y = -f(x)         Summarizing what we saw in the last graph:    Below is the graph of a function . Sketch the graph of and .      f(x) = 4+x  g(x) = (x-2)^2                                  Stretching and Shrinking  The other main things we can do with graphs is stretch or compress them in the vertical and horizontal directions.       f(x)=x^3 - 4*x  g(x)=2*f(x)  h(x)=1\/3*f(x)        y =f(x)  y=2f(x)  y = \\frac{1}{3}f(x)          f(x)=x^3 - 4*x  g(x)=f(2*x)  h(x)=f(1\/3*x)        y =f(x)  y=f(2x)  y = f(\\frac{x}{3})          There's a little bit more to this picture here:     f(x)=x^3 - x + 1  g(x)=f(-2*x)  h(x)=-2*f(x)        y = f(x)  y=f(-2x)  y = -2f(x)            In summary,      Given the graph of sketched below, draw the graph of each of the related functions.     f(x)=sqrt(4 - (x+3)^2)  g(x) = x+1  h(x) = 1  r(x) = 2*(x-4)^2 -1                                                                  For the function sketched below, draw the graph of      f(x)=2  g(x) = -x+1  h(x) = (x-3)^2-2                                                        Wednesday 10\/7     Review graph transformations    Understand and compute with complex numbers       Review of Graph Transformations  Last time, we discussed how modifying the definition of a function can change the corresponding graph. What were those different transformations?       Assume you wanted to plot the graph of using transformations. What is the proper order of operations to get there?      f(x)=x^2      y =x^2          f(x)=(2*x)^2      y =(2x)^2            f(x)=(x+2)^2  g(x)=(x+4)^2       y =(x+2)^2  y=(x+4)^2          f(x)=(2*x + 4)^2      y =(2x+4)^2          Next, we have an activity on composition and graph transformations.     Complex Numbers  Now we are starting Chapter 3. This chapter is all about quadratic functions and equations. Since these equations have a squared term in them, they can behave weirdly when it comes to finding solutions.  If we want to be able to deal with all quadratics effectively, we need to be able to take the square root of a negative number, which means we need the complex numbers.    The imaginary unit  is defined         Express each of the following in terms of .                             The Complex Numbers are all numbers of the form       Operations on Complex Numbers  Now that we have these complex numbers, we want to be able to do basic operations on them.    Compute each of the following:                              Compute each of the following:                            Complex Conjugates  For a complex number , we define the complex conjugate   Why are complex conjugates great and useful? Let's see in the next example.    Compute each of the following:                      Division of Complex Numbers  You may have noticed that we haven't talked about division of complex numbers yet. That's because division is kind of a pain.    Compute .         Compute each of the following:                     Friday 10\/9     Define terms surrounding quadratic equations and solution methods.    Quiz on compositions and graph transformations.       Quadratic Functions and Equations  The main objects we are trying to deal with in this section are quadratic equations and quadratic functions.  So how do we solve these? What makes them more difficult than linear equations?     We have two main techniques or principles that guide us trying to solve these kinds of equations.      Solve .      Solve .      In general, there are three options for what we get as the solution to a quadratic equation.    "
 },
 {
   "id": "notes-week-06-3-2",
@@ -1097,6 +1097,132 @@ var ptx_lunr_docs = [
   "number": "98",
   "title": "",
   "body": "  For the function sketched below, draw the graph of      f(x)=2  g(x) = -x+1  h(x) = (x-3)^2-2                                                    "
+},
+{
+  "id": "notes-week-06-4-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review graph transformations    Understand and compute with complex numbers    "
+},
+{
+  "id": "notes-week-06-4-4-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-4-1",
+  "type": "Example",
+  "number": "99",
+  "title": "",
+  "body": "  Assume you wanted to plot the graph of using transformations. What is the proper order of operations to get there?      f(x)=x^2      y =x^2          f(x)=(2*x)^2      y =(2x)^2            f(x)=(x+2)^2  g(x)=(x+4)^2       y =(x+2)^2  y=(x+4)^2          f(x)=(2*x + 4)^2      y =(2x+4)^2         "
+},
+{
+  "id": "def-imaginary-unit",
+  "level": "2",
+  "url": "notes-week-06.html#def-imaginary-unit",
+  "type": "Definition",
+  "number": "100",
+  "title": "",
+  "body": "  The imaginary unit  is defined   "
+},
+{
+  "id": "notes-week-06-4-6-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-6-1",
+  "type": "Example",
+  "number": "101",
+  "title": "",
+  "body": "  Express each of the following in terms of .                        "
+},
+{
+  "id": "def-complex-numbers",
+  "level": "2",
+  "url": "notes-week-06.html#def-complex-numbers",
+  "type": "Definition",
+  "number": "102",
+  "title": "",
+  "body": "  The Complex Numbers are all numbers of the form   "
+},
+{
+  "id": "notes-week-06-4-8-1-3",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-8-1-3",
+  "type": "Example",
+  "number": "103",
+  "title": "",
+  "body": "  Compute each of the following:                        "
+},
+{
+  "id": "notes-week-06-4-9-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-9-1",
+  "type": "Example",
+  "number": "104",
+  "title": "",
+  "body": "  Compute each of the following:                        "
+},
+{
+  "id": "notes-week-06-4-10-1-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-10-1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "complex conjugate "
+},
+{
+  "id": "notes-week-06-4-10-1-4",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-10-1-4",
+  "type": "Example",
+  "number": "105",
+  "title": "",
+  "body": "  Compute each of the following:                 "
+},
+{
+  "id": "notes-week-06-4-11-1-3",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-11-1-3",
+  "type": "Example",
+  "number": "106",
+  "title": "",
+  "body": "  Compute .   "
+},
+{
+  "id": "notes-week-06-4-12-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-4-12-1",
+  "type": "Example",
+  "number": "107",
+  "title": "",
+  "body": "  Compute each of the following:                 "
+},
+{
+  "id": "notes-week-06-5-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define terms surrounding quadratic equations and solution methods.    Quiz on compositions and graph transformations.    "
+},
+{
+  "id": "notes-week-06-5-5-1",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-5-5-1",
+  "type": "Example",
+  "number": "108",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-06-5-5-2",
+  "level": "2",
+  "url": "notes-week-06.html#notes-week-06-5-5-2",
+  "type": "Example",
+  "number": "109",
+  "title": "",
+  "body": "  Solve .   "
 },
 {
   "id": "wksht-graphing-equations",
@@ -1412,6 +1538,60 @@ var ptx_lunr_docs = [
   "number": "6",
   "title": "",
   "body": "  Construct and simplify the difference quotient for the function .   "
+},
+{
+  "id": "wksht-composition-transformation",
+  "level": "1",
+  "url": "wksht-composition-transformation.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Composition and Transformation of Functions",
+  "body": " Composition and Transformation of Functions     Dates  Assigned Date: October 7, 2026  Due Date: October 9, 2026   Objective  In this activity, completed in class on October 7, we explored composition of functions and graph transformations.        In-Class Work  These problems were completed during the in-class activity.    Given that , , and , find each of the following.                                         Write an equation for a function that has the shape of but is reflected over the -axis and it shifted to the right by units.      The graph of a function is shown below. No formula for is given. Make a graph of .     p1 = (-5, 1)  p2 = (-3, 4)  p3 = (1, 3)  p4 = (3, 3)  plotPoints = (p1, p2, p3, p4)                 Hand-in Exercises  The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.    Given that , , and , find each of the following.                           Write an equation for a function that has the shape of but is twice as tall and is shifted to the left by 3 units.      "
+},
+{
+  "id": "wksht-composition-transformation-3-1-3",
+  "level": "2",
+  "url": "wksht-composition-transformation.html#wksht-composition-transformation-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Given that , , and , find each of the following.                                      "
+},
+{
+  "id": "wksht-composition-transformation-3-1-4",
+  "level": "2",
+  "url": "wksht-composition-transformation.html#wksht-composition-transformation-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Write an equation for a function that has the shape of but is reflected over the -axis and it shifted to the right by units.   "
+},
+{
+  "id": "wksht-composition-transformation-3-1-5",
+  "level": "2",
+  "url": "wksht-composition-transformation.html#wksht-composition-transformation-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  The graph of a function is shown below. No formula for is given. Make a graph of .     p1 = (-5, 1)  p2 = (-3, 4)  p3 = (1, 3)  p4 = (3, 3)  plotPoints = (p1, p2, p3, p4)              "
+},
+{
+  "id": "wksht-composition-transformation-3-2-3",
+  "level": "2",
+  "url": "wksht-composition-transformation.html#wksht-composition-transformation-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Given that , , and , find each of the following.                        "
+},
+{
+  "id": "wksht-composition-transformation-3-2-4",
+  "level": "2",
+  "url": "wksht-composition-transformation.html#wksht-composition-transformation-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Write an equation for a function that has the shape of but is twice as tall and is shifted to the left by 3 units.   "
 },
 {
   "id": "handouts",
