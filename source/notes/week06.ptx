@@ -665,5 +665,426 @@
 
 </handout>
 
+<handout component="cur">
+    <title>Wednesday 10/7</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review graph transformations
+                </p>
+            </li>
+            <li>
+                <p>
+                    Understand and compute with complex numbers
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Review of Graph Transformations</title>
+
+<p component="b" workspace="4in">
+    Last time, we discussed how modifying the definition of a function can change the corresponding graph. What were those different transformations?
+</p>
+<p component="a">
+    Last time, we discussed how modifying the definition of a function can change the corresponding graph. What were those different transformations? Translations, vertical and horizontal scaling, reflections.
+</p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Assume you wanted to plot the graph of <m>f(x) = (2x+4)^2 = (2(x+2))^2</m> using transformations. What is the proper order of operations to get there?
+                </p>
+                <sidebyside>
+                    <image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex2-pt1">
+            <xi:include href="../../prefigure/fcns-transformation-combined-ex2-pt1.xml" />
+            </prefigure>
+</image>
+<image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex2-pt2">
+            <xi:include href="../../prefigure/fcns-transformation-combined-ex2-pt2.xml" />
+            </prefigure>
+</image>
+                </sidebyside>
+                <sidebyside>
+                    <image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex2-pt3">
+            <xi:include href="../../prefigure/fcns-transformation-combined-ex2-pt3.xml" />
+            </prefigure>
+</image>
+<image width="40%" component="b">
+            <prefigure xmlns="https://prefigure.org"
+             label="fcns-transformation-combined-ex2-pt4">
+            <xi:include href="../../prefigure/fcns-transformation-combined-ex2-pt4.xml" />
+            </prefigure>
+</image>
+                </sidebyside>
+            </statement>
+            <solution component="a">
+                <p>
+                    For vertical, expand out and it's always scale then shift. For x, it depends what form you have it in. I would recommend expanding it out as well, then always do shift then scale. Or, leave it factored. Then for both components, it's scale then shift. 
+                </p>
+            </solution>
+        </example>
+        <p>
+            Next, we have an activity on composition and graph transformations.
+        </p>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Complex Numbers</title>
+            
+            <p component="b" workspace="2in">
+                Now we are starting Chapter 3. This chapter is all about quadratic functions and equations. Since these equations have a squared term in them, they can behave weirdly when it comes to finding solutions.
+            </p>
+            <p component="a">
+                Now we are starting Chapter 3. This chapter is all about quadratic functions and equations. Since these equations have a squared term in them, they can behave weirdly when it comes to finding solutions. Sometimes they have more than one solution, like the fact that <m>x=2</m> and <m>x=4</m> both satisfy <m>x^2 -6x + 8 = 0</m>. On the other hand, we have quadratics like <m>x^2 + 4</m>.
+            </p>
+
+            <p >
+                If we want to be able to deal with all quadratics effectively, we need to be able to take the square root of a negative number, which means we need the complex numbers.
+            </p>
+            <definition xml:id="def-imaginary-unit">
+                <statement>
+                    
+                    <p component="b" workspace="3in">
+                        The <term>imaginary unit</term> <m>i</m> is defined 
+                    </p>
+                    <p component="a">
+                        The <term>imaginary unit</term> <m>i</m> is defined so that <m>i^2 = -1</m>. What does this let us do?
+                    </p>
+                </statement>
+            </definition>
+        </paragraphs>
+    </page>
+    <page>
+        <example workspace="2in">
+            <introduction>
+                <p>
+                    Express each of the following in terms of <m>i</m>.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>\sqrt{-16}</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\sqrt{-98}</m>
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\sqrt{-75}</m>
+                    </p>
+                </statement>
+            </task>
+        </example>
+    </page>
+
+<page>
+    <definition xml:id="def-complex-numbers">
+        <statement>
+            <p component="b" workspace="4in">
+                The <term>Complex Numbers</term> are all numbers of the form
+            </p>
+            <p component="a">
+                The <term>Complex Numbers</term> are all numbers of the form <m>a + bi</m> where <m>a</m> and <m>b</m> are real numbers.
+            </p>
+        </statement>
+    </definition>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Operations on Complex Numbers</title>
+
+        <p component="b" workspace="2in">
+            Now that we have these complex numbers, we want to be able to do basic operations on them.
+        </p>
+        <p component="a">
+            Now that we have these complex numbers, we want to be able to do basic operations on them. The basic rule is to treat <m>i</m> like a variable, and do operations like you would do on polynomials. Once everything is expanded out, collect like terms. 
+        </p>
+        <example workspace="2in">
+            <introduction>
+                <p>
+                    Compute each of the following:
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>(2+4i) + (-1+5i)</m>
+                    </p>
+                </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(3+2i) - (1+i)</m>
+                    </p>
+                </statement>
+                
+            <solution component="a">
+                <p>
+                
+                </p>
+            </solution>
+            </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(1+3i)(2-i)</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+        </example>
+        
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="2in">
+        <introduction>
+            <p>
+                Compute each of the following:
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>(-1+3i) + (-2-5i)</m>
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(2-i) - (7+3i)</m>
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(2+i)(4-3i)</m>
+                </p>
+            </statement>
+        </task>
+    
+    </example>
+    
+</page>
+
+<page>
+    <paragraphs>
+        <title>Complex Conjugates</title>
+
+        <p component="b" workspace="2in">
+            For a complex number <m>z = a+bi</m>, we define the <term>complex conjugate</term> 
+        </p>
+        <p component="a">
+            For a complex number <m>z = a+bi</m>, we define the <term>complex conjugate</term> <m>\bar{z} = a - bi</m>.  
+        </p>
+
+        <p>
+            Why are complex conjugates great and useful? Let's see in the next example.
+        </p>
+
+        <example workspace="2in">
+            <introduction>
+                <p>
+                    Compute each of the following:
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>(1+3i)(1-3i)</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>(2-i)(2+i)</m>
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+        
+    </paragraphs>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Division of Complex Numbers</title>
+
+        <p>
+            You may have noticed that we haven't talked about division of complex numbers yet. That's because division is kind of a pain.
+        </p>
+
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Compute <m>\displaystyle \frac{2+i}{1+3i}</m>.
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                Need to put into the form <m>a+bi</m>, but we have an addition in the denominator that we need to get rid of first. If this was just one number, ideally a single real number, we'd be golden. So, how can we turn this complex number in the denominator into a real number? By multiplying by the conjugate.
+            </p>
+        </solution>
+        </example>
+        
+        
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="3in">
+        <introduction>
+            <p>
+                Compute each of the following:
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle \frac{1-i}{3+2i}</m>
+                </p>
+            </statement>
+        <solution component="a">
+            <p>
+                
+            </p>
+        </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle \frac{7i-4}{4-i}</m>
+                </p>
+            </statement>
+        </task>
+    
+    </example>
+    
+</page>
+
+</handout>
+
+<handout component="cur">
+    <title>Friday 10/9</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Define terms surrounding quadratic equations and solution methods.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on compositions and graph transformations.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Quadratic Functions and Equations</title>
+
+            <p component="b" workspace="2in">
+                The main objects we are trying to deal with in this section are quadratic equations and quadratic functions.
+            </p>
+            <p component="a">
+                The main objects we are trying to deal with in this section are quadratic equations and quadratic functions. 
+            </p>
+
+            <p component="b" workspace="3in">
+                So how do we solve these? What makes them more difficult than linear equations?
+            </p>
+            <p component="a">
+                So how do we solve these? What makes them more difficult than linear equations? 
+            </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <p component="b" workspace="3in">
+            We have two main techniques or principles that guide us trying to solve these kinds of equations.
+        </p>
+        <p component="a">
+            We have two main techniques or principles that guide us trying to solve these kinds of equations. 
+        </p>
+    </page>
+
+    <page>
+        <example workspace="3in">
+            <statement>
+                <p>
+                    Solve <m>x^2 + 2x = 5x + 4</m>.
+                </p>
+            </statement>
+        
+        </example>
+
+        <example workspace="3in">
+            <statement>
+                <p>
+                    Solve <m>3x^2 - 18 = 0</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="4in">
+            In general, there are three options for what we get as the solution to a quadratic equation.
+        </p>
+        <p component="a">
+            In general, there are three options for what we get as the solution to a quadratic equation. Two real roots, one real (repeated) root, or two complex roots. Corresponds to graphs crossing the <m>x</m>-axis in varying ways. 
+        </p>
+    </page>
+</handout>
+
 
 </section>

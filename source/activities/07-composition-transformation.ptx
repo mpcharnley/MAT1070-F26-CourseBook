@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-composition-transformation" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Composition and Transformation of Functions</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: October 7, 2026</p>
+                    <p>Due Date: October 9, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        In this activity, completed in class on October 7, we explored composition of functions and graph transformations.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>In-Class Work</title>
+    <p>
+        These problems were completed during the in-class activity.
+    </p>
+
+<exercise>
+    <introduction>
+        <p>
+            Given that <m>f(x) = x^2 +2</m>, <m>g(x) = 2x-5</m>, and <m>h(x) = 3x^2 + 4x - 2</m>, find each of the following.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                <m>(f\circ g)(1)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>11</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>(g \circ h)(-3)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>21</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>(h\circ f)(2)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>130</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>(g \circ g)(x)</m> 
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>4x-15</m>
+            </p>
+        </solution>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>(h\circ g)(x)</m>
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>12x^2 - 52x + 53</m>
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+<exercise>
+    <statement>
+        <p>
+            Write an equation for a function that has the shape of <m>y = x^2</m> but is reflected over the <m>x</m>-axis and it shifted to the right by <m>3</m> units.
+        </p>
+    </statement>
+    <solution component="a">
+        <p>
+            <m>y = -(x-3)^2</m>
+        </p>
+    </solution>
+</exercise>
+
+<exercise>
+    <statement>
+        <p>
+            The graph of a function <m>y = f(x)</m> is shown below. No formula for <m>f(x)</m> is given. Make a graph of <m>f(-x) + 2</m>.
+        </p>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-transform-quest">
+    <xi:include href="../../prefigure/fcns-transform-actgraph-one.xml" />
+  </prefigure>
+</image>
+    </statement>
+    <solution component="a">
+            <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-transform-ans">
+    <xi:include href="../../prefigure/fcns-transform-actgraph-ans.xml" />
+  </prefigure>
+</image>
+    </solution>
+</exercise>
+
+
+</paragraphs>
+
+<paragraphs>
+    <title>Hand-in Exercises</title>
+    <p>
+        The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.
+    </p>
+
+    <exercise>
+        <introduction>
+            <p>
+                Given that <m>f(x) = x^2 - 3x + 2</m>, <m>g(x) = -x+5</m>, and <m>h(x) = x^2 - 1</m>, find each of the following.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>(f\circ g)(-1)</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(h\circ g)(4)</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(f\circ h)(x)</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <statement>
+            <p>
+                Write an equation for a function that has the shape of <m>y = |x|</m> but is twice as tall and is shifted to the left by 3 units.
+            </p>
+        </statement>
+        <solution component="a">
+            <p>
+                <m>y = 2|x+3|</m>
+            </p>
+        </solution>
+    </exercise>
+
+
+</paragraphs>
+</page>
+</worksheet>

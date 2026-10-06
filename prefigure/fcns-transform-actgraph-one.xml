@@ -1,0 +1,15 @@
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> p1 = (-5, 1) </definition>
+  <definition> p2 = (-3, 4) </definition>
+  <definition> p3 = (1, 3) </definition>
+  <definition> p4 = (3, 3) </definition>
+  <definition> plotPoints = (p1, p2, p3, p4) </definition>
+  <coordinates bbox="[-6,-6,6,6]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <polygon points = "plotPoints" stroke ="red" />
+    <point p = "p1"/>
+    <point p = "p2"/>
+    <point p = "p3"/>
+    <point p = "p4"/>
+  </coordinates>
+</diagram>
