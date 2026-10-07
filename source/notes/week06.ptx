@@ -1024,6 +1024,42 @@
             </li>
         </ul>
     </objectives>
+
+    <page>
+    <example workspace="2in">
+        <introduction>
+            <p>
+                Compute each of the following:
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle \frac{7i-4}{4-i}</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>\displaystyle \frac{7i+6}{4-i}</m>
+                </p>
+            </statement>
+            <solution component="a">
+                <p>
+                    
+                </p>
+            </solution>
+        </task>
+    
+    </example>
+    
+</page>
     <page>
         <paragraphs>
             <title>Quadratic Functions and Equations</title>
