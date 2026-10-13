@@ -1234,6 +1234,141 @@ var ptx_lunr_docs = [
   "body": "  Solve .   "
 },
 {
+  "id": "notes-week-07",
+  "level": "1",
+  "url": "notes-week-07.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 7",
+  "body": " Week 7   This is an outline of the topics we covered in week 7 of the class, from October 12 to October 16.    Wednesday 10\/14     Complete the square to solve a quadratic equation.    Use the quadratic formula to solve a quadratic equation.    Solve equations that are reducible to a quadratic equation.    Analyze word problems that involve quadratic equations.       Solving Quadratic Equations  Today we'll cover several different methods for solving quadratic equations:  We already have one method that we discussed last time:      Completing the Square  The first method we're going to cover today is completing the square.    Solve the following quadratic equations      .       .        Let's look at that last one again.      Complete the square to find the solutions to .        Complete the square to find the solutions to .       Quadratic Formula  Another way to solve quadratic equations is with the quadratic formula.       Use the quadratic formula to find the solutions to each of the following:                      Use the quadratic formula to find the solutions to .       The Discriminant  Let's go back to the quadratic formula. How do we know if we will get complex solutions?       What kind of solutions will the quadratic have?       Equations Reducible to Quadratic  Some equations aren't quadratic, but can be made that way by changing the variables.    Find the solutions of the equation .         Solve the equation .        Solve the equation .       Applications of Quadratic Equations  Applications of quadratic equations can come in many forms. These are all the word problems that everyone loves so much.       Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Determine the price of a ticket weeks into the season.      Determine at what point(s) in the season the ticket price was .         A vegetable garden has been built alongisde a solid wooden fence. The garden has area 30 and requires 16 of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?        Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?       Friday 10\/14     Finish up the discussion of quadratics    Start worksheet on solutions of quadratics    Quiz on complex numbers and basic quadratics       Overview of Quadratics  We discussed several methods of solving these equations, each with their own benefits and issues.     "
+},
+{
+  "id": "notes-week-07-3-2",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Complete the square to solve a quadratic equation.    Use the quadratic formula to solve a quadratic equation.    Solve equations that are reducible to a quadratic equation.    Analyze word problems that involve quadratic equations.    "
+},
+{
+  "id": "notes-week-07-3-4-1-3",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-4-1-3",
+  "type": "Example",
+  "number": "111",
+  "title": "",
+  "body": "  Solve the following quadratic equations      .       .    "
+},
+{
+  "id": "notes-week-07-3-6-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-6-1",
+  "type": "Example",
+  "number": "112",
+  "title": "",
+  "body": "  Complete the square to find the solutions to .   "
+},
+{
+  "id": "notes-week-07-3-7-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-7-1",
+  "type": "Example",
+  "number": "113",
+  "title": "",
+  "body": "  Complete the square to find the solutions to .   "
+},
+{
+  "id": "notes-week-07-3-9-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-9-1",
+  "type": "Example",
+  "number": "114",
+  "title": "",
+  "body": "  Use the quadratic formula to find the solutions to each of the following:                 "
+},
+{
+  "id": "notes-week-07-3-10-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-10-1",
+  "type": "Example",
+  "number": "115",
+  "title": "",
+  "body": "  Use the quadratic formula to find the solutions to .   "
+},
+{
+  "id": "notes-week-07-3-12-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-12-1",
+  "type": "Example",
+  "number": "116",
+  "title": "",
+  "body": "  What kind of solutions will the quadratic have?   "
+},
+{
+  "id": "notes-week-07-3-13-1-3",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-13-1-3",
+  "type": "Example",
+  "number": "117",
+  "title": "",
+  "body": "  Find the solutions of the equation .   "
+},
+{
+  "id": "notes-week-07-3-14-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-14-1",
+  "type": "Example",
+  "number": "118",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-07-3-15-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-15-1",
+  "type": "Example",
+  "number": "119",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-07-3-17-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-17-1",
+  "type": "Example",
+  "number": "120",
+  "title": "",
+  "body": "  Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Determine the price of a ticket weeks into the season.      Determine at what point(s) in the season the ticket price was .    "
+},
+{
+  "id": "notes-week-07-3-18-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-18-1",
+  "type": "Example",
+  "number": "121",
+  "title": "",
+  "body": "  A vegetable garden has been built alongisde a solid wooden fence. The garden has area 30 and requires 16 of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?   "
+},
+{
+  "id": "notes-week-07-3-19-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-3-19-1",
+  "type": "Example",
+  "number": "122",
+  "title": "",
+  "body": "  Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?   "
+},
+{
+  "id": "notes-week-07-4-2",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Finish up the discussion of quadratics    Start worksheet on solutions of quadratics    Quiz on complex numbers and basic quadratics    "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
@@ -1601,6 +1736,42 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Write an equation for a function that has the shape of but is twice as tall and is shifted to the left by 3 units.   "
+},
+{
+  "id": "wksht-quad-methods",
+  "level": "1",
+  "url": "wksht-quad-methods.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Comparing Methods for Solving Quadratic Equations",
+  "body": " Comparing Methods for Solving Quadratic Equations     Dates  Assigned Date: October 16, 2026  Due Date: October 21, 2026   Objective  Being able to choose an efficient method to solve a quadratic equation is a skill that will be of great benefit as you progress into higher mathematics. This worksheet asks you to compare methods and explore the differences and benefits of each.    Criteria for Success  Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.        Problems    Solve the equation , explaining your steps.     Using the principle of zero products.      Using completing the square.      Which way was easier? Why?       Solve the equation , explaining your steps.     Using the principle of square roots.      Using the quadratic formula.      Which way was easier? Why?          List the four methods that we have used for solving quadratic equations. Then, for each of the four methods, determine which of the statements below apply to it. A given statement below may apply to more than one method. For each of the statements, provide a brief explanation of why it applies. For example: The statement Best for solving quadratics with one term would be listed under Principle of Square Roots and a reason would be: Any quadratic with only one term would look like , dividing by a and taking the square root of both sides to get x, would be fast and easy.      Best for solving quadratics with .      Best for solving quadratics with .      Always applies.      Best for solving quadratics with large coefficients.      Won't apply if the solutions are complex.      Equation must be factorable.      The method I would choose if I were stuck.      My favorite method.      "
+},
+{
+  "id": "wksht-quad-methods-3-1-2",
+  "level": "2",
+  "url": "wksht-quad-methods.html#wksht-quad-methods-3-1-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Solve the equation , explaining your steps.     Using the principle of zero products.      Using completing the square.      Which way was easier? Why?    "
+},
+{
+  "id": "wksht-quad-methods-3-1-3",
+  "level": "2",
+  "url": "wksht-quad-methods.html#wksht-quad-methods-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Solve the equation , explaining your steps.     Using the principle of square roots.      Using the quadratic formula.      Which way was easier? Why?    "
+},
+{
+  "id": "wksht-quad-methods-4-1",
+  "level": "2",
+  "url": "wksht-quad-methods.html#wksht-quad-methods-4-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  List the four methods that we have used for solving quadratic equations. Then, for each of the four methods, determine which of the statements below apply to it. A given statement below may apply to more than one method. For each of the statements, provide a brief explanation of why it applies. For example: The statement Best for solving quadratics with one term would be listed under Principle of Square Roots and a reason would be: Any quadratic with only one term would look like , dividing by a and taking the square root of both sides to get x, would be fast and easy.      Best for solving quadratics with .      Best for solving quadratics with .      Always applies.      Best for solving quadratics with large coefficients.      Won't apply if the solutions are complex.      Equation must be factorable.      The method I would choose if I were stuck.      My favorite method.    "
 },
 {
   "id": "handouts",
