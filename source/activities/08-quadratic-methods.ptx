@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-quad-methods" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Comparing Methods for Solving Quadratic Equations</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: October 16, 2026</p>
+                    <p>Due Date: October 21, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        Being able to choose an efficient method to solve a quadratic equation is a skill that will be of great benefit as you progress into higher mathematics. This worksheet asks you to compare methods and explore the differences and benefits of each. 
+                    </p>
+                </li>
+                <li> <title>Criteria for Success</title>
+                    <p>
+                        Your assignment is due to your instructor by the date listed above. Your instructor will be assessing completeness and correctness for each question.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+
+<exercise workspace="0.2in">
+    <introduction>
+        <p>
+            Solve the equation <m>x^2 + 7x = 18</m>, explaining your steps.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Using the principle of zero products.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Using completing the square.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Which way was easier? Why?
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+<exercise workspace="0.2in">
+    <introduction>
+        <p>
+            Solve the equation <m>7x^2 = 63</m>, explaining your steps.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Using the principle of square roots.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Using the quadratic formula.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Which way was easier? Why?
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+</paragraphs>
+</page>
+
+<page>
+<exercise>
+    <introduction>
+        <p>
+            List the four methods that we have used for solving quadratic equations. Then, for each of the four methods, determine which of the statements below apply to it. A given statement below may apply to more than one method. For each of the statements, provide a brief explanation of why it applies. For example: The statement <q>Best for solving quadratics with one term</q> would be listed under <q>Principle of Square Roots</q> and a reason would be: <q>Any quadratic with only one term would look like <m>ax^2 = 0</m>, dividing by a and taking the square root of both sides to get x, would be fast and easy.</q>
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Best for solving quadratics with <m>b=0</m>.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Best for solving quadratics with <m>c=0</m>.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Always applies.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Best for solving quadratics with large coefficients.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Won't apply if the solutions are complex.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Equation must be factorable.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                The method I would choose if I were stuck.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                My favorite method.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+</page>
+
+
+</worksheet>

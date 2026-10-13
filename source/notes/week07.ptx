@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-07" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 7</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in week 7 of the class, from October 12 to October 16.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Wednesday 10/14</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Complete the square to solve a quadratic equation.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use the quadratic formula to solve a quadratic equation.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve equations that are reducible to a quadratic equation.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Analyze word problems that involve quadratic equations.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Solving Quadratic Equations</title>
+
+            <p component="b" workspace="3in">
+                Today we'll cover several different methods for solving quadratic equations:
+            </p>
+            <p component="a">
+                Today we'll cover several different methods for solving quadratic equations: completing the square, the quadratic formula, as well as how to reduce equations to quadratic.
+            </p>
+
+            <p component="b" workspace="2in">
+                We already have one method that we discussed last time:
+            </p>
+            <p component="a">
+                We already have one method that we discussed last time: The zero product rule after factoring.
+            </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Completing the Square</title>
+            
+            <p component="b" workspace="2in">
+                The first method we're going to cover today is completing the square.
+            </p>
+            <p component="a">
+                The first method we're going to cover today is completing the square. This method uses the square root properly, and is useful when we can't factor a quadratic directly.
+            </p>
+
+            <example workspace="4in">
+                <introduction>
+                    <p>
+                        Solve the following quadratic equations
+                    </p>
+                </introduction>
+            <task workspace="0in">
+                <statement>
+                    <p>
+                        <m>\displaystyle 2x^2 = 10</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle 2(x-2)^2 = 10</m>.
+                    </p>
+                </statement>
+            </task>
+            </example>
+            
+        </paragraphs>
+    </page>
+
+    <page>
+        <p component="b" workspace="1in">
+            Let's look at that last one again.
+        </p>
+        <p component="a">
+            Let's look at that last one again. If we expand out and rewrite things, we get a kind of nasty looking quadratic that we can't factor. We want to find a way to go backwards.
+        </p>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Complete the square to find the solutions to <md>
+                        3x^2 + 9x + 21 = 0
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Complete the square to find the solutions to <md>
+                        2x^2 + 12x - 6 = 0
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Quadratic Formula</title>
+            
+            <p component="b" workspace="2in">
+                Another way to solve quadratic equations is with the quadratic formula.
+            </p>
+            <p component="a">
+                Another way to solve quadratic equations is with the quadratic formula. This formula works every time, and is derived from completing the square, although we won't go through that process here.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="2in">
+            <introduction>
+                <p>
+                    Use the quadratic formula to find the solutions to each of the following:
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle 2x^2 - 5x - 1 = 0</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle x^2 + 3x + 10 = 0</m>
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Use the quadratic formula to find the solutions to <md>
+                        2x^2 - x + 3 = 0
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>The Discriminant</title>
+
+        <p component="b" workspace="2in">
+            Let's go back to the quadratic formula. How do we know if we will get complex solutions?
+        </p>
+        <p component="a">
+            Let's go back to the quadratic formula. How do we know if we will get complex solutions? The thing under the square root needs to be negative. Establish the conditions.
+        </p>
+            
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="2in">
+            <statement>
+                <p>
+                    What kind of solutions will the quadratic <md>
+                        7x^2 - 10x + 4 = 0
+                    </md> have?
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Equations Reducible to Quadratic</title>
+            
+            <p component="b" workspace="2in">
+                Some equations aren't quadratic, but can be made that way by changing the variables.
+            </p>
+            <p component="a">
+                Some equations aren't quadratic, but can be made that way by changing the variables. 
+            </p>
+
+            <example workspace="4in">
+                <statement>
+                    <p>
+                        Find the solutions of the equation <md>
+                            x^6 - 7x^3 - 8 = 0
+                        </md>.
+                        
+                    </p>
+                </statement>
+            
+            </example>
+            
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the equation
+                    <md>
+                        x+6 = 5\sqrt{x}
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the equation 
+                    <md>
+                        x^4 - 10x^2 + 9 = 0
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Applications of Quadratic Equations</title>
+            
+            <p component="b" workspace="3in">
+                Applications of quadratic equations can come in many forms. These are all the word problems that everyone loves so much.
+            </p>
+            <p component="a">
+                Applications of quadratic equations can come in many forms. These are all the word problems that everyone loves so much. Given the quadratic, areas, or length/the pythagorean theorem.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Assume that the average ticket price for a sporting event is given by 
+                    <md>
+                        p(t) = -\frac{5}{8}t^2 + \frac{35}{4}t + 100
+                    </md>, where <m>p</m> is in dollars and <m>t</m> is the number of weeks after the start of the season. 
+                    
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Determine the price of a ticket <m>6</m> weeks into the season.
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Determine at what point(s) in the season the ticket price was <m>\$120</m>.
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    A vegetable garden has been built alongisde a solid wooden fence. The garden has area <quantity><mag>30</mag><unit base="feet" exp="2"/></quantity> and requires <quantity><mag>16</mag><unit base="feet"/></quantity> of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+</handout>
+
+<handout component="cur">
+    <title>Friday 10/14</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Finish up the discussion of quadratics
+                </p>
+            </li>
+            <li>
+                <p>
+                    Start worksheet on solutions of quadratics
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on complex numbers and basic quadratics
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Overview of Quadratics</title>
+    <p component="b" workspace="3in">
+        We discussed several methods of solving these equations, each with their own benefits and issues.
+    </p>
+    <p component="a">
+        We discussed several methods of solving these equations, each with their own benefits and issues. Factoring, square, formula.
+    </p>
+
+        </paragraphs>
+    </page>
+</handout>
+
+
+</section>
