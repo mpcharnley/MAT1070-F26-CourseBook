@@ -273,6 +273,31 @@
         
     </page>
 
+    
+</handout>
+
+<handout component="cur">
+    <title>Friday 10/14</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Finish up the discussion of quadratics
+                </p>
+            </li>
+            <li>
+                <p>
+                    Start worksheet on solutions of quadratics
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on complex numbers and basic quadratics
+                </p>
+            </li>
+        </ul>
+    </objectives>
+
     <page>
         <paragraphs>
             <title>Applications of Quadratic Equations</title>
@@ -321,7 +346,7 @@
         <example workspace="4in">
             <statement>
                 <p>
-                    A vegetable garden has been built alongisde a solid wooden fence. The garden has area <quantity><mag>30</mag><unit base="feet" exp="2"/></quantity> and requires <quantity><mag>16</mag><unit base="feet"/></quantity> of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?
+                    A vegetable garden has been built alongside a solid wooden fence. The garden has area <quantity><mag>30</mag><unit base="foot" exp="2"/></quantity> and requires <quantity><mag>16</mag><unit base="foot"/></quantity> of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?
                 </p>
             </statement>
         
@@ -340,29 +365,7 @@
         </example>
         
     </page>
-</handout>
 
-<handout component="cur">
-    <title>Friday 10/14</title>
-    <objectives>
-        <ul>
-            <li>
-                <p>
-                    Finish up the discussion of quadratics
-                </p>
-            </li>
-            <li>
-                <p>
-                    Start worksheet on solutions of quadratics
-                </p>
-            </li>
-            <li>
-                <p>
-                    Quiz on complex numbers and basic quadratics
-                </p>
-            </li>
-        </ul>
-    </objectives>
     <page>
         <paragraphs>
             <title>Overview of Quadratics</title>
