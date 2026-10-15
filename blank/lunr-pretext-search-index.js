@@ -1240,7 +1240,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 7",
-  "body": " Week 7   This is an outline of the topics we covered in week 7 of the class, from October 12 to October 16.    Wednesday 10\/14     Complete the square to solve a quadratic equation.    Use the quadratic formula to solve a quadratic equation.    Solve equations that are reducible to a quadratic equation.    Analyze word problems that involve quadratic equations.       Solving Quadratic Equations  Today we'll cover several different methods for solving quadratic equations:  We already have one method that we discussed last time:      Completing the Square  The first method we're going to cover today is completing the square.    Solve the following quadratic equations      .       .        Let's look at that last one again.      Complete the square to find the solutions to .        Complete the square to find the solutions to .       Quadratic Formula  Another way to solve quadratic equations is with the quadratic formula.       Use the quadratic formula to find the solutions to each of the following:                      Use the quadratic formula to find the solutions to .       The Discriminant  Let's go back to the quadratic formula. How do we know if we will get complex solutions?       What kind of solutions will the quadratic have?       Equations Reducible to Quadratic  Some equations aren't quadratic, but can be made that way by changing the variables.    Find the solutions of the equation .         Solve the equation .        Solve the equation .       Applications of Quadratic Equations  Applications of quadratic equations can come in many forms. These are all the word problems that everyone loves so much.       Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Determine the price of a ticket weeks into the season.      Determine at what point(s) in the season the ticket price was .         A vegetable garden has been built alongisde a solid wooden fence. The garden has area 30 and requires 16 of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?        Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?       Friday 10\/14     Finish up the discussion of quadratics    Start worksheet on solutions of quadratics    Quiz on complex numbers and basic quadratics       Overview of Quadratics  We discussed several methods of solving these equations, each with their own benefits and issues.     "
+  "body": " Week 7   This is an outline of the topics we covered in week 7 of the class, from October 12 to October 16.    Wednesday 10\/14     Complete the square to solve a quadratic equation.    Use the quadratic formula to solve a quadratic equation.    Solve equations that are reducible to a quadratic equation.    Analyze word problems that involve quadratic equations.       Solving Quadratic Equations  Today we'll cover several different methods for solving quadratic equations:  We already have one method that we discussed last time:      Completing the Square  The first method we're going to cover today is completing the square.    Solve the following quadratic equations      .       .        Let's look at that last one again.      Complete the square to find the solutions to .        Complete the square to find the solutions to .       Quadratic Formula  Another way to solve quadratic equations is with the quadratic formula.       Use the quadratic formula to find the solutions to each of the following:                      Use the quadratic formula to find the solutions to .       The Discriminant  Let's go back to the quadratic formula. How do we know if we will get complex solutions?       What kind of solutions will the quadratic have?       Equations Reducible to Quadratic  Some equations aren't quadratic, but can be made that way by changing the variables.    Find the solutions of the equation .         Solve the equation .        Solve the equation .       Friday 10\/14     Finish up the discussion of quadratics    Start worksheet on solutions of quadratics    Quiz on complex numbers and basic quadratics       Applications of Quadratic Equations  Applications of quadratic equations can come in many forms. These are all the word problems that everyone loves so much.       Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Determine the price of a ticket weeks into the season.      Determine at what point(s) in the season the ticket price was .         A vegetable garden has been built alongside a solid wooden fence. The garden has area 30 and requires 16 of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?        Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?       Overview of Quadratics  We discussed several methods of solving these equations, each with their own benefits and issues.     "
 },
 {
   "id": "notes-week-07-3-2",
@@ -1333,33 +1333,6 @@ var ptx_lunr_docs = [
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-07-3-17-1",
-  "level": "2",
-  "url": "notes-week-07.html#notes-week-07-3-17-1",
-  "type": "Example",
-  "number": "120",
-  "title": "",
-  "body": "  Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Determine the price of a ticket weeks into the season.      Determine at what point(s) in the season the ticket price was .    "
-},
-{
-  "id": "notes-week-07-3-18-1",
-  "level": "2",
-  "url": "notes-week-07.html#notes-week-07-3-18-1",
-  "type": "Example",
-  "number": "121",
-  "title": "",
-  "body": "  A vegetable garden has been built alongisde a solid wooden fence. The garden has area 30 and requires 16 of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?   "
-},
-{
-  "id": "notes-week-07-3-19-1",
-  "level": "2",
-  "url": "notes-week-07.html#notes-week-07-3-19-1",
-  "type": "Example",
-  "number": "122",
-  "title": "",
-  "body": "  Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?   "
-},
-{
   "id": "notes-week-07-4-2",
   "level": "2",
   "url": "notes-week-07.html#notes-week-07-4-2",
@@ -1367,6 +1340,33 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "   Finish up the discussion of quadratics    Start worksheet on solutions of quadratics    Quiz on complex numbers and basic quadratics    "
+},
+{
+  "id": "notes-week-07-4-4-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-4-4-1",
+  "type": "Example",
+  "number": "120",
+  "title": "",
+  "body": "  Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Determine the price of a ticket weeks into the season.      Determine at what point(s) in the season the ticket price was .    "
+},
+{
+  "id": "notes-week-07-4-5-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-4-5-1",
+  "type": "Example",
+  "number": "121",
+  "title": "",
+  "body": "  A vegetable garden has been built alongside a solid wooden fence. The garden has area 30 and requires 16 of wire fencing on the three additional sides (excluding the wooden fence). What are the possible dimensions of the garden?   "
+},
+{
+  "id": "notes-week-07-4-6-1",
+  "level": "2",
+  "url": "notes-week-07.html#notes-week-07-4-6-1",
+  "type": "Example",
+  "number": "122",
+  "title": "",
+  "body": "  Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?   "
 },
 {
   "id": "wksht-graphing-equations",
