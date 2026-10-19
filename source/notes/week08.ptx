@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-08" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 8</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in week 8 of the class, from October 19 to October 24.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 10/19</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review methods of solving quadratic equations.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Investigate the graphs of quadratic functions.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Review of Quadratics</title>
+
+        <p component="b" workspace="3in">
+            We've discussed 4 different methods for solving quadratic equations:
+        </p>
+        <p component="a">
+            We've discussed 4 different methods for solving quadratic equations: 
+        </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Graphs of Quadratics</title>
+            
+<example workspace="4in">
+    <statement>
+        <p>
+            Draw the graphs of <m>x^2</m>, <m>(x-3)^2</m>, <m>x^2 + 1</m>, and <m>-x^2</m>.
+        </p>
+    </statement>
+
+</example>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        
+        <p component="b" workspace="4in">
+            So, what have we learned from this? 
+        </p>
+        <p component="a">
+            So, what have we learned from this?  Quadratic graphs of a good form, we can draw. 
+        </p>
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Consider the quadratic function <m>f(x) = 3(x-1)^2 - 2</m>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Does the parabola point up or down?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Where is the vertex?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        What is the axis of symmetry?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Does the parabola have a maximum or minimum value, and what is it?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        ]Sketch the graph.
+                    </p>
+                </statement>
+            </task>
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Consider the quadratic function <m>f(x) = -2(x+5)^2 +1</m>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Does the parabola point up or down?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Where is the vertex?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        What is the axis of symmetry?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Does the parabola have a maximum or minimum value, and what is it?
+                    </p>
+                </statement>
+            </task>
+            <task workspace="3in">
+                <statement>
+                    <p>
+                        Sketch the graph.
+                    </p>
+                </statement>
+            </task>
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Consider the quadratic function <m>f(x) = \frac{1}{2}(x-3)^2 + 2</m>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Does the parabola point up or down?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Where is the vertex?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        What is the axis of symmetry?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Does the parabola have a maximum or minimum value, and what is it?
+                    </p>
+                </statement>
+            </task>
+            <task workspace="3in">
+                <statement>
+                    <p>
+                        Sketch the graph.
+                    </p>
+                </statement>
+            </task>
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>General Form Quadratics</title>
+            
+            <p component="b" workspace="3in">
+                So, we know how to graph quadratic equations if they are in the form <md>
+                    f(x) = a(x-h)^2 + k
+                </md>. But, what if it's not in this form?
+                
+            </p>
+            <p component="a">
+                So, we know how to graph quadratic equations if they are in the form <md>
+                    f(x) = a(x-h)^2 + k
+                </md>. But, what if it's not in this form? Then, we need to complete the square to make it that way.
+                 
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Use completing the square to write <md>
+                        x^2 - 4x + 9
+                    </md> in the form
+                    <md>
+                        a(x-h)^2 + k
+                    </md>.
+                    Then sketch the graph.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Use completing the square to write <md>
+                        2x^2 + 5x - 10
+                    </md> in the form
+                    <md>
+                        a(x-h)^2 + k
+                    </md>.
+
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Use completing the square to write <md>
+                        3x^2 + 18x + 30
+                    </md> in the form
+                    <md>
+                        a(x-h)^2 + k
+                    </md>.
+                    Then sketch the graph.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Vertex of a Parabola</title>
+            
+<p component="b" workspace="4in">
+    Now that we know how to convert between these forms, we can use that to help us analyze a quadratic function, potentially without changing the form.
+</p>
+<p component="a">
+    Now that we know how to convert between these forms, we can use that to help us analyze a quadratic function, potentially without changing the form. Finding the vertex, know if max or min.
+</p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Find the vertex of the parabola <md>
+                        f(x) = 3x^2 - 7x + 13
+                    </md>. Is this point a maximum or a minimum for the parabola?
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Applications</title>
+            
+            <p component="b" workspace="4in">
+                How can we use this for applications?
+            </p>
+            <p component="a">
+                How can we use this for applications? If we have a word problem with a quadratic, we can now ask what the max or min value is.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Assume that the average ticket price for a sporting event is given by 
+                    <md>
+                        p(t) = -\frac{5}{8}t^2 + \frac{35}{4}t + 100
+                    </md>, where <m>p</m> is in dollars and <m>t</m> is the number of weeks after the start of the season. 
+                    
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Does the ticket price have a maximum or minimum value?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        What is that value and where does it achieve it?
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    A vegetable garden has been built alongside a solid wooden fence. This garden is built with <quantity><mag>16</mag><unit base="foot"/></quantity> of wire fencing on the three additional sides (excluding the wooden fence). What dimensions of the garden maximize its area?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+</handout>
+
+</section>
