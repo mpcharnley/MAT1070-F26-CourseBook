@@ -1369,6 +1369,114 @@ var ptx_lunr_docs = [
   "body": "  Train A leaves a station heading due north at noon. Train B leaves the same station at 2pm traveling due east at a speed 30 mph faster than train A. At 4pm, the two trains are 300 miles apart. How fast is each train moving?   "
 },
 {
+  "id": "notes-week-08",
+  "level": "1",
+  "url": "notes-week-08.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 8",
+  "body": " Week 8   This is an outline of the topics we covered in week 8 of the class, from October 19 to October 24.    Monday 10\/19     Review methods of solving quadratic equations.    Investigate the graphs of quadratic functions.       Review of Quadratics  We've discussed 4 different methods for solving quadratic equations:      Graphs of Quadratics    Draw the graphs of , , , and .       So, what have we learned from this?      Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      ]Sketch the graph.         Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.         Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.        General Form Quadratics  So, we know how to graph quadratic equations if they are in the form . But, what if it's not in this form?       Use completing the square to write in the form . Then sketch the graph.        Use completing the square to write in the form .        Use completing the square to write in the form . Then sketch the graph.       Vertex of a Parabola  Now that we know how to convert between these forms, we can use that to help us analyze a quadratic function, potentially without changing the form.       Find the vertex of the parabola . Is this point a maximum or a minimum for the parabola?       Applications  How can we use this for applications?       Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Does the ticket price have a maximum or minimum value?      What is that value and where does it achieve it?         A vegetable garden has been built alongside a solid wooden fence. This garden is built with 16 of wire fencing on the three additional sides (excluding the wooden fence). What dimensions of the garden maximize its area?      "
+},
+{
+  "id": "notes-week-08-3-2",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review methods of solving quadratic equations.    Investigate the graphs of quadratic functions.    "
+},
+{
+  "id": "notes-week-08-3-4-1-2",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-4-1-2",
+  "type": "Example",
+  "number": "123",
+  "title": "",
+  "body": "  Draw the graphs of , , , and .   "
+},
+{
+  "id": "notes-week-08-3-6-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-6-1",
+  "type": "Example",
+  "number": "124",
+  "title": "",
+  "body": "  Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      ]Sketch the graph.    "
+},
+{
+  "id": "notes-week-08-3-7-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-7-1",
+  "type": "Example",
+  "number": "125",
+  "title": "",
+  "body": "  Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.    "
+},
+{
+  "id": "notes-week-08-3-8-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-8-1",
+  "type": "Example",
+  "number": "126",
+  "title": "",
+  "body": "  Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.    "
+},
+{
+  "id": "notes-week-08-3-10-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-10-1",
+  "type": "Example",
+  "number": "127",
+  "title": "",
+  "body": "  Use completing the square to write in the form . Then sketch the graph.   "
+},
+{
+  "id": "notes-week-08-3-11-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-11-1",
+  "type": "Example",
+  "number": "128",
+  "title": "",
+  "body": "  Use completing the square to write in the form .   "
+},
+{
+  "id": "notes-week-08-3-12-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-12-1",
+  "type": "Example",
+  "number": "129",
+  "title": "",
+  "body": "  Use completing the square to write in the form . Then sketch the graph.   "
+},
+{
+  "id": "notes-week-08-3-14-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-14-1",
+  "type": "Example",
+  "number": "130",
+  "title": "",
+  "body": "  Find the vertex of the parabola . Is this point a maximum or a minimum for the parabola?   "
+},
+{
+  "id": "notes-week-08-3-16-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-16-1",
+  "type": "Example",
+  "number": "131",
+  "title": "",
+  "body": "  Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Does the ticket price have a maximum or minimum value?      What is that value and where does it achieve it?    "
+},
+{
+  "id": "notes-week-08-3-17-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-3-17-1",
+  "type": "Example",
+  "number": "132",
+  "title": "",
+  "body": "  A vegetable garden has been built alongside a solid wooden fence. This garden is built with 16 of wire fencing on the three additional sides (excluding the wooden fence). What dimensions of the garden maximize its area?   "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
