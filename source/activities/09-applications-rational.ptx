@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-application-rational" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Applications of Rational Functions</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: October 26, 2026</p>
+                    <p>Due Date: October 28, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        In this activity, completed in class on October 26, we explored various applications (word problems) that use rational functions.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>In-Class Work</title>
+    <p>
+        These problems were completed during the in-class activity.
+    </p>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            The sum of a number and twenty-one times its reciprocal is <m>-10</m>. Find the number.
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            The speed of the current in Catamount Creek is 3 mph.  Sean can kayak 4 mi upstream in the same time that it takes him to kayak 10 mi downstream.  What is the speed of the kayak in still water?
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            A freight train covers 120 mi at its typical speed.  If the train travels 10 mph faster, the trip is 2 hr shorter.  How fast does the train typically travel?
+        </p>
+    </statement>
+
+</exercise>
+
+</paragraphs>
+
+<paragraphs>
+    <title>Hand-in Exercises</title>
+    <p>
+        The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.
+    </p>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            The sum of the reciprocal of a number and the reciprocal of the number two greater is 5/12. Find (both possibilities for) the two numbers.
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Annette’s paddleboat travels 3 km/h in still water.  The boat is paddled 10 km downstream in the same time that it takes to go 2 km upstream.  What is the speed of the river? 
+        </p>
+    </statement>
+
+</exercise>
+
+</paragraphs>
+</page>
+</worksheet>

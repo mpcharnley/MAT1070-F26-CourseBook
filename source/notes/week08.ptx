@@ -276,7 +276,44 @@
         
     </page>
 
+   </handout>
+
+<handout component="cur">
+    <title>Wednesday 10/21</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Wrap up graphs of quadratic functions
+                </p>
+            </li>
+            <li>
+                <p>
+                    Discuss solving rational equations
+                </p>
+            </li>
+            <li>
+                <p>
+                    Review for test 2
+                </p>
+            </li>
+        </ul>
+    </objectives>
     <page>
+        <paragraphs>
+            <title>Graphs of Quadratic Equations</title>
+
+        <p component="b" workspace="3in">
+            Last time, we investigated graphs of quadratic functions. What did we learn?
+        </p>
+        <p component="a">
+            Last time, we investigated graphs of quadratic functions. What did we learn? Form <m>y = a(x-h)^2 + k</m>, then completing the square.
+        </p>
+
+        </paragraphs>
+    </page>
+
+ <page>
         <paragraphs>
             <title>Vertex of a Parabola</title>
             
@@ -291,7 +328,14 @@
     </page>
 
     <page>
-        <example workspace="4in">
+        <p component="b" workspace="2in">
+            Therefore, for the quadratic <m>f(x) = ax^2 + bx + c</m>, the vertex is
+        </p>
+        <p component="a">
+            Therefore, for the quadratic <m>f(x) = ax^2 + bx + c</m> , the vertex is at the <m>x</m>-coordinate <m>-\frac{b}{2a}</m>...
+        </p>
+
+        <example workspace="2in">
             <statement>
                 <p>
                     Find the vertex of the parabola <md>
@@ -359,6 +403,157 @@
         </example>
         
     </page>
+
+
+<page>
+    <paragraphs>
+        <title>Rational Equations and Functions</title>
+        
+<p component="b" workspace="4in">
+    The next class of functions that we want to deal with are rational functions.
+</p>
+<p component="a">
+    The next class of functions that we want to deal with are rational functions. Rational means ratio, or including fractions. Write an example. How do we solve these? We clear all denominators and then solve it normally.
+</p>
+
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve <md>
+                    \frac{2}{x} = x + 1
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve <md>
+                    \frac{3}{x+5} = \frac{1}{2x-1}
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <p>
+        It's also important to check your answers to these problems to make sure they work in the original equation. For rational functions, there's a chance that you get an <term>extraneous</term> solution when you clear denominators.
+    </p>
+
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve <md>
+                    \frac{2x-5}{x-2} = \frac{x+1}{x+2} + \frac{2x}{x^2 - 4}
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <paragraphs>
+        <title>Rational Expressions and Functions</title>
+
+        <p component="b" workspace="2in">
+            What if we have a rational function, something that looks like <md>
+                f(x) = \frac{3}{x+2} - \frac{5x+1}{x-3}
+            </md>. What can we do with that?  
+            
+        </p>
+        <p component="a">
+            What if we have a rational function, something that looks like <md>
+                f(x) = \frac{3}{x+2} - \frac{5x+1}{x-3}
+            </md>. What can we do with that? Need to get to a common denominator and leave that on the bottom. We don't have another side of the equation to clear things to. 
+             
+        </p>
+
+
+        
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Write <md>
+                    f(x) = \frac{x-\frac{5}{2}}{x-6} + \frac{x - \frac{1}{2}}{x-2}
+                </md> as a single fraction. Then, use this to determine the values of <m>x</m> where <m>f(x) = 1</m>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <paragraphs>
+        <title>Test 2 Review</title>
+
+        <p>
+            Test 2 is on Friday. Topics for Test 2:
+            <ul>
+                <li>
+                    <p>
+                        Algebra of Functions (Section 2.3, Homework 2.2)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Difference Quotients (Section 2.3, Homework 2.2)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Composition of Functions (Section 2.4, Homework 2.3)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Graph Transformations (Section 2.6, Homework 2.5)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Complex Numbers (Section and Homework 3.1)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Quadratic Equations and their solutions (Section and Homework 3.2)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Applications of Quadratic Functions (Section and Homework 3.2)
+                    </p>
+                </li>
+            </ul>
+        </p>
+        
+    </paragraphs>
+</page>
+
+
 </handout>
 
 </section>

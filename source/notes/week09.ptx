@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-09" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 9</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in Week 9 of the semester, from October 26 to October 30.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 10/26</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Solve rational equations
+                </p>
+            </li>
+            <li>
+                <p>
+                    Simplify rational functions
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve application problems using rational functions
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve radical equations
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Rational Functions</title>
+
+<p component="b" workspace="4in">
+   We started talking about rational equations and functions last week. What were the main ideas and points there?
+</p>
+<p component="a">
+    We started talking about rational equations and functions last week. What were the main ideas and points there? Equations involving fractions. Solve them by clearing denominators. Always need to check for extraneous solutions.
+</p>
+
+    </paragraphs>
+</page>
+
+<page>
+    <example>
+        <statement>
+            <p>
+                Solve <md>
+                    1 + \frac{\frac{11}{3}}{x-4} = \frac{\frac{8}{3}}{x-1}
+                </md>.
+                
+            </p>
+        </statement>
+    </example>
+</page>
+
+
+<page>
+    <paragraphs>
+        <title>Rational Expressions and Functions</title>
+
+        <p component="b" workspace="2in">
+            What if we have a rational function, something that looks like <md>
+                f(x) = \frac{3}{x+2} - \frac{5x+1}{x-3}
+            </md>. What can we do with that?  
+            
+        </p>
+        <p component="a">
+            What if we have a rational function, something that looks like <md>
+                f(x) = \frac{3}{x+2} - \frac{5x+1}{x-3}
+            </md>. What can we do with that? Need to get to a common denominator and leave that on the bottom. We don't have another side of the equation to clear things to. 
+             
+        </p>
+
+
+        
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Write <md>
+                    f(x) = \frac{x-\frac{5}{2}}{x-6} + \frac{x - \frac{1}{2}}{x-2}
+                </md> as a single fraction. Then, use this to determine the values of <m>x</m> where <m>f(x) = 1</m>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Write <md>
+                    f(x) = \frac{3}{x-1} - \frac{5}{x+3}
+                </md> as a single fraction. Then, use this to determine the values of <m>x</m> where <m>f(x) = 2</m>.
+                
+            </p>
+        </statement>
+    
+    </example>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Applications of Rational Functions</title>
+        
+        <p component="b" workspace="4in">
+            Rational functions can also show up in a variety of applications.
+        </p>
+        <p component="a">
+            Rational functions can also show up in a variety of applications. One of the main examples is speed and distance problems. In the past we had distance is rate times time. But, what if you know something about the rate and need to solve for the time? Then the variable ends up in the denominator.
+        </p>
+
+    </paragraphs>
+</page>
+
+<page>
+    <paragraphs>
+        <title>Radical Equations</title>
+        
+<p component="b" workspace="4in">
+    The next type of equation we want to work on solving is radical equations.
+</p>
+<p component="a">
+    The next type of equation we want to work on solving is radical equations. These are equations that involve a square root. We want to get rid of that square root to solve the equation, so we need to isolate the radical term, then square both sides of the equation. If <m>a=b</m>, then <m>a^2 = b^2</m>. Again need to check for extraneous solutions. 
+</p>
+
+    </paragraphs>
+</page>
+<page>
+<example workspace="2in">
+    <statement>
+        <p>
+            Solve the equation <md>
+                \sqrt{x-3} = 2
+            </md>.
+            
+        </p>
+    </statement>
+
+</example>
+<example workspace="2in">
+    <statement>
+        <p>
+            Solve the equation <md>
+                \sqrt{4x+1} = 5
+            </md>.
+            
+        </p>
+    </statement>
+
+</example>
+
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve the equation <md>
+                    4 + \sqrt{2x+7} = x
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve the equation <md>
+                    6 + \sqrt{x+14} = x
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+
+<p component="b" workspace="2in">
+    Sometimes, this process isn't enough to eliminate all radicals from your equation.
+</p>
+<p component="a">
+    Sometimes, this process isn't enough to eliminate all radicals from your equation. If not, reisolate the remaining radical and do it again.
+</p>
+
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve the equation <md>
+                    \sqrt{x+2} + \sqrt{x-3} = 5
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve the equation <md>
+                    \sqrt{x+5} + \sqrt{x-1} = 8
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Solve the equation <md>
+                    \sqrt{2x-1} + \sqrt{x+4} = 6
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+</handout>
+
+
+</section>

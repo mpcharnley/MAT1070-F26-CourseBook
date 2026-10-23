@@ -24,6 +24,7 @@
       <xi:include href="./notes/week06.ptx"/>
       <xi:include href="./notes/week07.ptx"/>
       <xi:include href="./notes/week08.ptx"/>
+      <xi:include href="./notes/week09.ptx"/>
       <!-- etc. -->
 
     </chapter>
@@ -40,6 +41,7 @@
       <xi:include href="./activities/06-algebra-functions.ptx"/>
       <xi:include href="./activities/07-composition-transformation.ptx"/>
       <xi:include href="./activities/08-quadratic-methods.ptx"/>
+      <xi:include href="./activities/09-applications-rational.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
