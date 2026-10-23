@@ -1375,7 +1375,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 8",
-  "body": " Week 8   This is an outline of the topics we covered in week 8 of the class, from October 19 to October 24.    Monday 10\/19     Review methods of solving quadratic equations.    Investigate the graphs of quadratic functions.       Review of Quadratics  We've discussed 4 different methods for solving quadratic equations:      Graphs of Quadratics    Draw the graphs of , , , and .       So, what have we learned from this?      Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      ]Sketch the graph.         Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.         Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.        General Form Quadratics  So, we know how to graph quadratic equations if they are in the form . But, what if it's not in this form?       Use completing the square to write in the form . Then sketch the graph.        Use completing the square to write in the form .        Use completing the square to write in the form . Then sketch the graph.       Vertex of a Parabola  Now that we know how to convert between these forms, we can use that to help us analyze a quadratic function, potentially without changing the form.       Find the vertex of the parabola . Is this point a maximum or a minimum for the parabola?       Applications  How can we use this for applications?       Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Does the ticket price have a maximum or minimum value?      What is that value and where does it achieve it?         A vegetable garden has been built alongside a solid wooden fence. This garden is built with 16 of wire fencing on the three additional sides (excluding the wooden fence). What dimensions of the garden maximize its area?      "
+  "body": " Week 8   This is an outline of the topics we covered in week 8 of the class, from October 19 to October 24.    Monday 10\/19     Review methods of solving quadratic equations.    Investigate the graphs of quadratic functions.       Review of Quadratics  We've discussed 4 different methods for solving quadratic equations:      Graphs of Quadratics    Draw the graphs of , , , and .       So, what have we learned from this?      Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      ]Sketch the graph.         Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.         Consider the quadratic function      Does the parabola point up or down?      Where is the vertex?      What is the axis of symmetry?      Does the parabola have a maximum or minimum value, and what is it?      Sketch the graph.        General Form Quadratics  So, we know how to graph quadratic equations if they are in the form . But, what if it's not in this form?       Use completing the square to write in the form . Then sketch the graph.        Use completing the square to write in the form .        Use completing the square to write in the form . Then sketch the graph.       Wednesday 10\/21     Wrap up graphs of quadratic functions    Discuss solving rational equations    Review for test 2       Graphs of Quadratic Equations  Last time, we investigated graphs of quadratic functions. What did we learn?      Vertex of a Parabola  Now that we know how to convert between these forms, we can use that to help us analyze a quadratic function, potentially without changing the form.     Therefore, for the quadratic , the vertex is    Find the vertex of the parabola . Is this point a maximum or a minimum for the parabola?       Applications  How can we use this for applications?       Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Does the ticket price have a maximum or minimum value?      What is that value and where does it achieve it?         A vegetable garden has been built alongside a solid wooden fence. This garden is built with 16 of wire fencing on the three additional sides (excluding the wooden fence). What dimensions of the garden maximize its area?       Rational Equations and Functions  The next class of functions that we want to deal with are rational functions.       Solve .        Solve .      It's also important to check your answers to these problems to make sure they work in the original equation. For rational functions, there's a chance that you get an extraneous solution when you clear denominators.    Solve .       Rational Expressions and Functions  What if we have a rational function, something that looks like . What can we do with that?       Write as a single fraction. Then, use this to determine the values of where .       Test 2 Review  Test 2 is on Friday. Topics for Test 2:   Algebra of Functions (Section 2.3, Homework 2.2)    Difference Quotients (Section 2.3, Homework 2.2)    Composition of Functions (Section 2.4, Homework 2.3)    Graph Transformations (Section 2.6, Homework 2.5)    Complex Numbers (Section and Homework 3.1)    Quadratic Equations and their solutions (Section and Homework 3.2)    Applications of Quadratic Functions (Section and Homework 3.2)        "
 },
 {
   "id": "notes-week-08-3-2",
@@ -1450,31 +1450,193 @@ var ptx_lunr_docs = [
   "body": "  Use completing the square to write in the form . Then sketch the graph.   "
 },
 {
-  "id": "notes-week-08-3-14-1",
+  "id": "notes-week-08-4-2",
   "level": "2",
-  "url": "notes-week-08.html#notes-week-08-3-14-1",
+  "url": "notes-week-08.html#notes-week-08-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Wrap up graphs of quadratic functions    Discuss solving rational equations    Review for test 2    "
+},
+{
+  "id": "notes-week-08-4-5-2",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-4-5-2",
   "type": "Example",
   "number": "130",
   "title": "",
   "body": "  Find the vertex of the parabola . Is this point a maximum or a minimum for the parabola?   "
 },
 {
-  "id": "notes-week-08-3-16-1",
+  "id": "notes-week-08-4-7-1",
   "level": "2",
-  "url": "notes-week-08.html#notes-week-08-3-16-1",
+  "url": "notes-week-08.html#notes-week-08-4-7-1",
   "type": "Example",
   "number": "131",
   "title": "",
   "body": "  Assume that the average ticket price for a sporting event is given by , where is in dollars and is the number of weeks after the start of the season.     Does the ticket price have a maximum or minimum value?      What is that value and where does it achieve it?    "
 },
 {
-  "id": "notes-week-08-3-17-1",
+  "id": "notes-week-08-4-8-1",
   "level": "2",
-  "url": "notes-week-08.html#notes-week-08-3-17-1",
+  "url": "notes-week-08.html#notes-week-08-4-8-1",
   "type": "Example",
   "number": "132",
   "title": "",
   "body": "  A vegetable garden has been built alongside a solid wooden fence. This garden is built with 16 of wire fencing on the three additional sides (excluding the wooden fence). What dimensions of the garden maximize its area?   "
+},
+{
+  "id": "notes-week-08-4-10-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-4-10-1",
+  "type": "Example",
+  "number": "133",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-08-4-11-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-4-11-1",
+  "type": "Example",
+  "number": "134",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-08-4-12-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-4-12-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "extraneous "
+},
+{
+  "id": "notes-week-08-4-12-2",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-4-12-2",
+  "type": "Example",
+  "number": "135",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-08-4-14-1",
+  "level": "2",
+  "url": "notes-week-08.html#notes-week-08-4-14-1",
+  "type": "Example",
+  "number": "136",
+  "title": "",
+  "body": "  Write as a single fraction. Then, use this to determine the values of where .   "
+},
+{
+  "id": "notes-week-09",
+  "level": "1",
+  "url": "notes-week-09.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 9",
+  "body": " Week 9   This is an outline of the topics we covered in Week 9 of the semester, from October 26 to October 30.    Monday 10\/26     Solve rational equations    Simplify rational functions    Solve application problems using rational functions    Solve radical equations       Rational Functions  We started talking about rational equations and functions last week. What were the main ideas and points there?       Solve .       Rational Expressions and Functions  What if we have a rational function, something that looks like . What can we do with that?       Write as a single fraction. Then, use this to determine the values of where .        Write as a single fraction. Then, use this to determine the values of where .       Applications of Rational Functions  Rational functions can also show up in a variety of applications.      Radical Equations  The next type of equation we want to work on solving is radical equations.       Solve the equation .      Solve the equation .        Solve the equation .        Solve the equation .      Sometimes, this process isn't enough to eliminate all radicals from your equation.      Solve the equation .        Solve the equation .        Solve the equation .      "
+},
+{
+  "id": "notes-week-09-3-2",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Solve rational equations    Simplify rational functions    Solve application problems using rational functions    Solve radical equations    "
+},
+{
+  "id": "notes-week-09-3-4-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-4-1",
+  "type": "Example",
+  "number": "137",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-09-3-6-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-6-1",
+  "type": "Example",
+  "number": "138",
+  "title": "",
+  "body": "  Write as a single fraction. Then, use this to determine the values of where .   "
+},
+{
+  "id": "notes-week-09-3-7-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-7-1",
+  "type": "Example",
+  "number": "139",
+  "title": "",
+  "body": "  Write as a single fraction. Then, use this to determine the values of where .   "
+},
+{
+  "id": "notes-week-09-3-10-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-10-1",
+  "type": "Example",
+  "number": "140",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-3-10-2",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-10-2",
+  "type": "Example",
+  "number": "141",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-3-11-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-11-1",
+  "type": "Example",
+  "number": "142",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-3-12-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-12-1",
+  "type": "Example",
+  "number": "143",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-3-14-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-14-1",
+  "type": "Example",
+  "number": "144",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-3-15-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-15-1",
+  "type": "Example",
+  "number": "145",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-3-16-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-3-16-1",
+  "type": "Example",
+  "number": "146",
+  "title": "",
+  "body": "  Solve the equation .   "
 },
 {
   "id": "wksht-graphing-equations",
@@ -1880,6 +2042,60 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  List the four methods that we have used for solving quadratic equations. Then, for each of the four methods, determine which of the statements below apply to it. A given statement below may apply to more than one method. For each of the statements, provide a brief explanation of why it applies. For example: The statement Best for solving quadratics with one term would be listed under Principle of Square Roots and a reason would be: Any quadratic with only one term would look like , dividing by a and taking the square root of both sides to get x, would be fast and easy.      Best for solving quadratics with .      Best for solving quadratics with .      Always applies.      Best for solving quadratics with large coefficients.      Won't apply if the solutions are complex.      Equation must be factorable.      The method I would choose if I were stuck.      My favorite method.    "
+},
+{
+  "id": "wksht-application-rational",
+  "level": "1",
+  "url": "wksht-application-rational.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Applications of Rational Functions",
+  "body": " Applications of Rational Functions     Dates  Assigned Date: October 26, 2026  Due Date: October 28, 2026   Objective  In this activity, completed in class on October 26, we explored various applications (word problems) that use rational functions.        In-Class Work  These problems were completed during the in-class activity.    The sum of a number and twenty-one times its reciprocal is . Find the number.      The speed of the current in Catamount Creek is 3 mph. Sean can kayak 4 mi upstream in the same time that it takes him to kayak 10 mi downstream. What is the speed of the kayak in still water?      A freight train covers 120 mi at its typical speed. If the train travels 10 mph faster, the trip is 2 hr shorter. How fast does the train typically travel?      Hand-in Exercises  The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.    The sum of the reciprocal of a number and the reciprocal of the number two greater is 5\/12. Find (both possibilities for) the two numbers.      Annette’s paddleboat travels 3 km\/h in still water. The boat is paddled 10 km downstream in the same time that it takes to go 2 km upstream. What is the speed of the river?      "
+},
+{
+  "id": "wksht-application-rational-3-1-3",
+  "level": "2",
+  "url": "wksht-application-rational.html#wksht-application-rational-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  The sum of a number and twenty-one times its reciprocal is . Find the number.   "
+},
+{
+  "id": "wksht-application-rational-3-1-4",
+  "level": "2",
+  "url": "wksht-application-rational.html#wksht-application-rational-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The speed of the current in Catamount Creek is 3 mph. Sean can kayak 4 mi upstream in the same time that it takes him to kayak 10 mi downstream. What is the speed of the kayak in still water?   "
+},
+{
+  "id": "wksht-application-rational-3-1-5",
+  "level": "2",
+  "url": "wksht-application-rational.html#wksht-application-rational-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  A freight train covers 120 mi at its typical speed. If the train travels 10 mph faster, the trip is 2 hr shorter. How fast does the train typically travel?   "
+},
+{
+  "id": "wksht-application-rational-3-2-3",
+  "level": "2",
+  "url": "wksht-application-rational.html#wksht-application-rational-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The sum of the reciprocal of a number and the reciprocal of the number two greater is 5\/12. Find (both possibilities for) the two numbers.   "
+},
+{
+  "id": "wksht-application-rational-3-2-4",
+  "level": "2",
+  "url": "wksht-application-rational.html#wksht-application-rational-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Annette’s paddleboat travels 3 km\/h in still water. The boat is paddled 10 km downstream in the same time that it takes to go 2 km upstream. What is the speed of the river?   "
 },
 {
   "id": "handouts",
