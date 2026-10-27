@@ -1537,7 +1537,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 9",
-  "body": " Week 9   This is an outline of the topics we covered in Week 9 of the semester, from October 26 to October 30.    Monday 10\/26     Solve rational equations    Simplify rational functions    Solve application problems using rational functions    Solve radical equations       Rational Functions  We started talking about rational equations and functions last week. What were the main ideas and points there?       Solve .       Rational Expressions and Functions  What if we have a rational function, something that looks like . What can we do with that?       Write as a single fraction. Then, use this to determine the values of where .        Write as a single fraction. Then, use this to determine the values of where .       Applications of Rational Functions  Rational functions can also show up in a variety of applications.      Radical Equations  The next type of equation we want to work on solving is radical equations.       Solve the equation .      Solve the equation .        Solve the equation .        Solve the equation .      Sometimes, this process isn't enough to eliminate all radicals from your equation.      Solve the equation .        Solve the equation .        Solve the equation .      "
+  "body": " Week 9   This is an outline of the topics we covered in Week 9 of the semester, from October 26 to October 30.    Monday 10\/26     Solve rational equations    Simplify rational functions    Solve application problems using rational functions    Solve radical equations       Rational Functions  We started talking about rational equations and functions last week. What were the main ideas and points there?       Solve .       Rational Expressions and Functions  What if we have a rational function, something that looks like . What can we do with that?       Write as a single fraction. Then, use this to determine the values of where .        Write as a single fraction. Then, use this to determine the values of where .       Applications of Rational Functions  Rational functions can also show up in a variety of applications.      Wednesday 10\/28     Solve radical equations.    Solve absolute value equations and inequalities.       Radical Equations  The next type of equation we want to work on solving is radical equations.       Solve the equation .      Solve the equation .        Solve the equation .        Solve the equation .      Sometimes, this process isn't enough to eliminate all radicals from your equation.      Solve the equation .        Solve the equation .        Solve the equation .       Absolute Value Equations  The next type of equation we want to solve are equations involving absolute values. How can we handle these equations?     How can we summarize these methods?      Solve the equation .      Solve the equation .        Solve the equation .       Inequalities with Absolute Values  What happens if these absolute value equalities are actually inequalities? How does that work?       Solve .        Solve .        Solve each of the following inequalities.      .               Friday 10\/30     Introduction to polynomials and polynomial modeling       Polynomials  In Chapter 4, we will start dealing with general polynomials. These are an extention of linear and quadratic functions that we have discussed previously.     What kinds of functions are not polynomials?     Properties of Polynomials  There are some common properties shared by all polynomials.      End Behavior of Polynomials  Another nice fact about polynomials is that they have predictable behavior at the left and right ends. The general rule is that the leading term determines the behavior.       If is the leading term of a polynomial function then the graph of looks like:        Match the following polynomial functions to their graphs using the leading term test.                            f(x)=x^4 + 2*x^3- 2*x^2-2*x-1            f(x)=-x^6+2*x^4-x^3+x^2              f(x)=-x^5 + 3*x^3 - 2*x +1            f(x)=2*x^3 - x^2 - 5*x + 1              "
 },
 {
   "id": "notes-week-09-3-2",
@@ -1576,67 +1576,157 @@ var ptx_lunr_docs = [
   "body": "  Write as a single fraction. Then, use this to determine the values of where .   "
 },
 {
-  "id": "notes-week-09-3-10-1",
+  "id": "notes-week-09-4-2",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-10-1",
+  "url": "notes-week-09.html#notes-week-09-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Solve radical equations.    Solve absolute value equations and inequalities.    "
+},
+{
+  "id": "notes-week-09-4-4-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-4-1",
   "type": "Example",
   "number": "140",
   "title": "",
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-09-3-10-2",
+  "id": "notes-week-09-4-4-2",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-10-2",
+  "url": "notes-week-09.html#notes-week-09-4-4-2",
   "type": "Example",
   "number": "141",
   "title": "",
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-09-3-11-1",
+  "id": "notes-week-09-4-5-1",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-11-1",
+  "url": "notes-week-09.html#notes-week-09-4-5-1",
   "type": "Example",
   "number": "142",
   "title": "",
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-09-3-12-1",
+  "id": "notes-week-09-4-6-1",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-12-1",
+  "url": "notes-week-09.html#notes-week-09-4-6-1",
   "type": "Example",
   "number": "143",
   "title": "",
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-09-3-14-1",
+  "id": "notes-week-09-4-8-1",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-14-1",
+  "url": "notes-week-09.html#notes-week-09-4-8-1",
   "type": "Example",
   "number": "144",
   "title": "",
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-09-3-15-1",
+  "id": "notes-week-09-4-9-1",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-15-1",
+  "url": "notes-week-09.html#notes-week-09-4-9-1",
   "type": "Example",
   "number": "145",
   "title": "",
   "body": "  Solve the equation .   "
 },
 {
-  "id": "notes-week-09-3-16-1",
+  "id": "notes-week-09-4-10-1",
   "level": "2",
-  "url": "notes-week-09.html#notes-week-09-3-16-1",
+  "url": "notes-week-09.html#notes-week-09-4-10-1",
   "type": "Example",
   "number": "146",
   "title": "",
   "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-4-13-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-13-1",
+  "type": "Example",
+  "number": "147",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-4-13-2",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-13-2",
+  "type": "Example",
+  "number": "148",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-4-14-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-14-1",
+  "type": "Example",
+  "number": "149",
+  "title": "",
+  "body": "  Solve the equation .   "
+},
+{
+  "id": "notes-week-09-4-16-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-16-1",
+  "type": "Example",
+  "number": "150",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-09-4-17-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-17-1",
+  "type": "Example",
+  "number": "151",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "notes-week-09-4-18-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-4-18-1",
+  "type": "Example",
+  "number": "152",
+  "title": "",
+  "body": "  Solve each of the following inequalities.      .           "
+},
+{
+  "id": "notes-week-09-5-2",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Introduction to polynomials and polynomial modeling    "
+},
+{
+  "id": "thm-leading-term-test",
+  "level": "2",
+  "url": "notes-week-09.html#thm-leading-term-test",
+  "type": "Theorem",
+  "number": "153",
+  "title": "",
+  "body": "  If is the leading term of a polynomial function then the graph of looks like:   "
+},
+{
+  "id": "notes-week-09-5-8-1",
+  "level": "2",
+  "url": "notes-week-09.html#notes-week-09-5-8-1",
+  "type": "Example",
+  "number": "154",
+  "title": "",
+  "body": "  Match the following polynomial functions to their graphs using the leading term test.                            f(x)=x^4 + 2*x^3- 2*x^2-2*x-1            f(x)=-x^6+2*x^4-x^3+x^2              f(x)=-x^5 + 3*x^3 - 2*x +1            f(x)=2*x^3 - x^2 - 5*x + 1           "
 },
 {
   "id": "wksht-graphing-equations",
