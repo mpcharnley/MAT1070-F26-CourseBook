@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-10" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 10</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in week 10 of the course, from November 2 to November 6.
+    </p>
+</introduction>
+
+
+<handout component="cur">
+    <title>Monday 11/2</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Investigate finding zeros of polynomials.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Explore different methods of factoring polynomials.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use polynomials to model real world scenarios.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Polynomials</title>
+
+        <p component="b" workspace="4in">
+            Last time, we defined the basic terms surrounding polynomials. 
+        </p>
+        <p component="a">
+            Last time, we defined the basic terms surrounding polynomials.  Formula, degree, leading term and end behavior.
+        </p>
+
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Zeros of Polynomials</title>
+                    <p component="b" workspace="4in">
+            One of the other most important things about polynomials is trying to find the zeros.
+        </p>
+        <p component="a">
+            One of the other most important things about polynomials is trying to find the zeros. This is something that we did extensively for quadratics. What are zeros, what does it mean to find them?
+        </p>
+        </paragraphs>
+
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Consider <m>f(x) = x^3 - 2x^2 - 5x + 6</m>. Determine if <m>x=2</m> and <m>x=1</m> are zeros of this polynomial?
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="2in">
+            One of the easiest way to find zeros of quadratics was using the principle of zero products.
+        </p>
+        <p component="a">
+            One of the easiest way to find zeros of quadratics was using the principle of zero products. This meant factoring the polynomial.
+        </p>
+
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Find the zeros of the function <m>f(x) = (x-1)^4(x+3)^2(x-5)</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Find the zeros of the polynomial <m>f(x) = (x+2)^5(x+6)^2(x-3)^3</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Multiplicity</title>
+            
+        <p component="b" workspace="4in">
+            How do these different zeros show up on the graphs of the polynomial? They have to be points where the graph touches the <m>x</m>-axis, but is that all we know?
+        </p>
+        <p component="a">
+            How do these different zeros show up on the graphs of the polynomial? They have to be points where the graph touches the <m>x</m>-axis, but is that all we know? Show graphs, look at multiplicity, even and odd.
+        </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Consider the polynomial 
+                    <md>
+                        f(x) = (x+5)^3(x+2)^6(x-1)(x-4)^2
+                    </md>.
+                    Find all of the zeros and their muliplicity. Using the fact that the leading term of this polynomial is <m>1x^{12}</m>, sketch a graph of this function, including all of the zeros and how the graph interacts with them.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Factoring Polynomials</title>
+            
+<p component="b" workspace="2in">
+    So, how do we get a polynomial into factored form? This is a bit trickier.
+</p>
+<p component="a">
+    So, how do we get a polynomial into factored form? This is a bit trickier. There are a few ideas or strategies that can work, or we need to use a more detailed process that we will discuss in the next section.
+</p>
+
+<example workspace="3in">
+    <statement>
+        <p>
+            Find all of the zeros of <m>f(x) = x^3 - 7x^2 - 4x + 28</m>.
+        </p>
+    </statement>
+
+</example>
+
+
+        </paragraphs>
+    </page>
+<page>
+    <example workspace="3in">
+        <statement>
+            <p>
+                Find all of the zeros of <m>f(x) = x^4 - 2x^2 + 8</m>.
+            </p>
+        </statement>
+    
+    </example>
+
+    <example workspace="3in">
+        <statement>
+            <p>
+                Find all of the zeros of <m>f(x) = x^4 - 5x^3 + 2x^2 - 10x</m>.
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>    
+
+<page>
+    <p component="b" workspace="2in">
+        For zeros, we see that the real valued ones show up as intercepts on the graph, but the complex ones do not.
+    </p>
+    <p component="a">
+        For zeros, we see that the real valued ones show up as intercepts on the graph, but the complex ones do not. When we're thinking in the conceptual context, we want to talk about zeros. From the practical point of view, it is usually the intercepts that matter more (but complex zeros do still have their applications).
+    </p>
+
+    <theorem xml:id="thm-polynomial-roots" workspace="1in">
+        <statement>
+            <p>
+                Every polynomial function of degree <m>n</m>, for <m>n \geq 1</m> has exactly <m>n</m> zeros (real or complex), when counted with multiplicity.
+            </p>
+        </statement>
+    </theorem>
+    
+</page>
+
+<page>
+    <example workspace="4in">
+        <statement>
+            <p>
+                Analyze the zeros and intercepts of the function 
+                <md>
+                    f(x) = x^5 + x^4 - 5x^3 - x^2 + 8x - 4 = (x-1)^3(x+2)^2
+                </md>.
+                
+            </p>
+        </statement>
+    
+    </example>
+    
+</page>
+
+<page>
+    <paragraphs>
+        <title>Polynomial Models</title>
+        
+<p component="b" workspace="4in">
+    Just like quadratics, we can use polynomials to modeal real-world situations. These problems often take two forms:
+</p>
+<p component="a">
+    Just like quadratics, we can use polynomials to modeal real-world situations. These problems often take two forms: Given a polynomial and need to evaluate/analyze, or need to determine the polynomial from the set-up.
+</p>
+
+    </paragraphs>
+</page>
+
+<page>
+    <example workspace="0in">
+        <introduction>
+            <p>
+                The polynomial function 
+                <md>
+                    M(t) = 0.5 t^4 + 3.45t^3 - 96.65t^2 + 347.7 t
+                </md>
+                can be used to estimate the number of milligrams of ibuprofen in the bloodstream <m>t</m> hours after a person takes a <m>400</m> mg dose.
+                
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    Find the number of milligrams of ibuprofen in the bloodstream at <m>t = 0,\ 0.5, 1, 1.5, </m> and so on, up to <m>t = 6</m> hr. Round values to the nearest tenth.
+                </p>
+            </statement>
+        </task>
+        <task workspace="4in">
+            <statement>
+                <p>
+                    Find the domain, the relative maximum and where it occurs, and the range.
+                </p>
+            </statement>
+        </task>
+    
+    </example>
+    
+</page>
+
+</handout>
+
+</section>

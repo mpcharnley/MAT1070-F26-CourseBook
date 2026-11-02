@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-poly-modeling" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Polynomial Modeling</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: November 2, 2026</p>
+                    <p>Due Date: November 6, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        The skill that you will practice in this exercise is polynomial modeling. Our textbook gives examples and problems that heavily rely on a calculator. The problems here should be solvable without a calculator and are typical examples of what will be asked on a future test or quiz.
+                    </p>
+                </li>
+                <li> <title>Criteria for Success</title>
+                    <p>
+                        Your assignment is due to your instructor by the date listed above. You must submit 1 pdf document through Canvas. Your instructor will be assessing completeness and correctness for each question. This assignment will be worth 20 points.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+
+<exercise workspace="2in">
+    <statement>
+        <p>
+            The profit P (in millions of dollars) for a T-shirt manufacturer can be modeled by <md>P(x) = -x^3 + 3x^2 + x + 1</md> where <m>x</m> is the number of T-shirts produced (in millions). Currently the company produces 3 million T-shirts and makes a profit of $4,000,000. What lesser number of T-shirts could the company produce and still make the same profit? 
+        </p>
+    </statement>
+</exercise>
+
+<exercise workspace="2in">
+    <statement>
+        <p>
+            You are designing a rectangular swimming pool to be set into the ground. The width of the pool is 5 feet less than the length, and the depth is 40 feet less than the length. The pool holds 9000 cubic feet of water. What are the dimensions of the pool? 
+        </p>
+    </statement>
+</exercise>
+
+</paragraphs>
+
+</page>
+
+<page>
+
+<exercise workspace="2in">
+    <introduction>
+        <p>
+            A production crew is assembling a three-level platform inside a stadium for a performance. The platform has the dimensions shown in the diagram and has a volume of 2,160 cubic feet. 
+        </p>
+        <image width="80%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-poly-modeling-image">
+    <xi:include href="../../prefigure/wksht-poly-modeling-image.xml" />
+  </prefigure>
+</image>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                What is the volume, in terms of <m>x</m>, of each of the three levels of the platform? 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Use what you know about the total volume to write an equation involving <m>x</m>. 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Solve the equation from the previous part. Use your solution to calculate the dimensions of each of the three levels of the platform. 
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+</page>
+
+
+
+</worksheet>

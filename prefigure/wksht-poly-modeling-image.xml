@@ -1,0 +1,65 @@
+<diagram dimensions="(650,200)" margins="5" xmlns="https://prefigure.org">
+  <coordinates bbox="(0,0,32,10)">
+    
+    <!-- 1. Left View: 2D Nested Rectangles -->
+    <polygon points="((1,2.5), (9,2.5), (9,9.5), (1,9.5))" stroke="black" fill="white" thickness="1" closed="yes"/>
+    <polygon points="((2,3.5), (8,3.5), (8,8.5), (2,8.5))" stroke="black" fill="white" thickness="1" closed="yes"/>
+    <polygon points="((3,4.5), (7,4.5), (7,7.5), (3,7.5))" stroke="black" fill="white" thickness="1" closed="yes"/>
+    
+    <!-- Labels for 2D View -->
+    <label anchor="(5, 4.5)" alignment="s" color="black" scale="0.8"><m>4x</m></label>
+    <label anchor="(7, 6)" alignment="e" color="black" scale="0.8"><m>2x</m></label>
+    <label anchor="(5, 3.5)" alignment="s" color="black" scale="0.8"><m>6x</m></label>
+    <label anchor="(8, 6)" alignment="e" color="black" scale="0.8"><m>4x</m></label>
+    <label anchor="(5, 2.5)" alignment="s" color="black" scale="0.8"><m>8x</m></label>
+    <label anchor="(9, 6)" alignment="e" color="black" scale="0.8"><m>6x</m></label>
+
+    <!-- 2. Middle View: Side Elevation (Stacked Slabs) -->
+    <polygon points="((11,3), (19,3), (19,4), (11,4))" stroke="black" fill="lightblue" thickness="1" closed="yes"/>
+    <polygon points="((12,4), (18,4), (18,5), (12,5))" stroke="black" fill="peachpuff" thickness="1" closed="yes"/>
+    <polygon points="((13,5), (17,5), (17,6), (13,6))" stroke="black" fill="lightgreen" thickness="1" closed="yes"/>
+    
+    <!-- Labels for Side View -->
+    <label anchor="(19, 3.5)"  alignment="e" color="black" scale="0.8"><m>x</m></label>
+    <label anchor="(18, 4.5)" alignment="e" color="black" scale="0.8"><m>x</m></label>
+    <label anchor="(17, 5.5)" alignment="e" color="black" scale="0.8"><m>x</m></label>
+
+
+    <definition> extraSpace = 0.2 </definition>
+
+
+    <!-- 3. Right View: 3D Isometric View -->
+    <!-- Blue Base Cuboid -->
+    <polygon points="((21,2.5), (27,2.5), (27,3.5), (21,3.5))" stroke="black" fill="lightblue" thickness="1.5" closed="yes"/>
+    <polygon points="((27,2.5), (31,4.5), (31,5.5), (27,3.5))" stroke="black" fill="lightblue" thickness="1.5" closed="yes"/>
+    <polygon points="((21,3.5), (27,3.5), (31,5.5), (25,5.5))" stroke="black" fill="lightblue" thickness="1.5" closed="yes"/>
+
+    <!-- Orange Middle Cuboid -->
+    <polygon points="((21.75,3.75), (26.75,3.75), (26.75,4.75), (21.75,4.75))"  stroke="black" fill="peachpuff" thickness="1.5" closed="yes"/>
+    <polygon points="((26.75,3.75), (30,5.325), (30,6.325), (26.75,4.75))"  stroke="black" fill="peachpuff" thickness="1.5" closed="yes"/>
+    <polygon points="((21.75,4.75), (26.75,4.75), (30,6.325), (25,6.325))" stroke="black" fill="peachpuff" thickness="1.5" closed="yes"/>
+
+
+    <!--
+    <polygon points="((22,6.5), (25,5.2), (28,6.5), (25,7.8))" stroke="coral" fill="peachpuff" thickness="1.5"/>
+    <polygon points="((22,5.5), (25,4.2), (25,5.2), (22,6.5))" stroke="coral" fill="peachpuff" thickness="1.5"/>
+    <polygon points="((25,4.2), (28,5.5), (28,6.5), (25,5.2))" stroke="coral" fill="peachpuff" thickness="1.5"/>
+
+-->
+    <!-- Green Top Cuboid -->
+    <polygon points="((22.5,5), (26.5,5), (26.5,6), (22.5,6))" stroke="black" fill="lightgreen" thickness="1.5" closed="yes"/>
+    <polygon points="((26.5,5), (29,6.25), (29,7.25), (26.5,6))" stroke="black" fill="lightgreen" thickness="1.5" closed="yes"/>
+    <polygon points="((22.5,6), (26.5,6), (29,7.25), (25,7.25))" stroke="black" fill="lightgreen" thickness="1.5" closed="yes"/>
+
+
+  </coordinates>
+</diagram>
+
+<!-- include as 
+<image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="wksht-graphing-lines-inter">
+    <xi:include href="../../prefigure/test-diagram.xml" />
+  </prefigure>
+</image>
+-->
