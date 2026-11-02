@@ -1729,6 +1729,114 @@ var ptx_lunr_docs = [
   "body": "  Match the following polynomial functions to their graphs using the leading term test.                            f(x)=x^4 + 2*x^3- 2*x^2-2*x-1            f(x)=-x^6+2*x^4-x^3+x^2              f(x)=-x^5 + 3*x^3 - 2*x +1            f(x)=2*x^3 - x^2 - 5*x + 1           "
 },
 {
+  "id": "notes-week-10",
+  "level": "1",
+  "url": "notes-week-10.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 10",
+  "body": " Week 10   This is an outline of the topics we covered in week 10 of the course, from November 2 to November 6.    Monday 11\/2     Investigate finding zeros of polynomials.    Explore different methods of factoring polynomials.    Use polynomials to model real world scenarios.       Polynomials  Last time, we defined the basic terms surrounding polynomials.      Zeros of Polynomials  One of the other most important things about polynomials is trying to find the zeros.       Consider . Determine if and are zeros of this polynomial?      One of the easiest way to find zeros of quadratics was using the principle of zero products.    Find the zeros of the function .        Find the zeros of the polynomial .       Multiplicity  How do these different zeros show up on the graphs of the polynomial? They have to be points where the graph touches the -axis, but is that all we know?       Consider the polynomial . Find all of the zeros and their muliplicity. Using the fact that the leading term of this polynomial is , sketch a graph of this function, including all of the zeros and how the graph interacts with them.       Factoring Polynomials  So, how do we get a polynomial into factored form? This is a bit trickier.    Find all of the zeros of .         Find all of the zeros of .      Find all of the zeros of .      For zeros, we see that the real valued ones show up as intercepts on the graph, but the complex ones do not.    Every polynomial function of degree , for has exactly zeros (real or complex), when counted with multiplicity.        Analyze the zeros and intercepts of the function .       Polynomial Models  Just like quadratics, we can use polynomials to modeal real-world situations. These problems often take two forms:       The polynomial function can be used to estimate the number of milligrams of ibuprofen in the bloodstream hours after a person takes a mg dose.     Find the number of milligrams of ibuprofen in the bloodstream at and so on, up to hr. Round values to the nearest tenth.      Find the domain, the relative maximum and where it occurs, and the range.       "
+},
+{
+  "id": "notes-week-10-3-2",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Investigate finding zeros of polynomials.    Explore different methods of factoring polynomials.    Use polynomials to model real world scenarios.    "
+},
+{
+  "id": "notes-week-10-3-5-1",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-5-1",
+  "type": "Example",
+  "number": "155",
+  "title": "",
+  "body": "  Consider . Determine if and are zeros of this polynomial?   "
+},
+{
+  "id": "notes-week-10-3-6-2",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-6-2",
+  "type": "Example",
+  "number": "156",
+  "title": "",
+  "body": "  Find the zeros of the function .   "
+},
+{
+  "id": "notes-week-10-3-7-1",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-7-1",
+  "type": "Example",
+  "number": "157",
+  "title": "",
+  "body": "  Find the zeros of the polynomial .   "
+},
+{
+  "id": "notes-week-10-3-9-1",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-9-1",
+  "type": "Example",
+  "number": "158",
+  "title": "",
+  "body": "  Consider the polynomial . Find all of the zeros and their muliplicity. Using the fact that the leading term of this polynomial is , sketch a graph of this function, including all of the zeros and how the graph interacts with them.   "
+},
+{
+  "id": "notes-week-10-3-10-1-3",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-10-1-3",
+  "type": "Example",
+  "number": "159",
+  "title": "",
+  "body": "  Find all of the zeros of .   "
+},
+{
+  "id": "notes-week-10-3-11-1",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-11-1",
+  "type": "Example",
+  "number": "160",
+  "title": "",
+  "body": "  Find all of the zeros of .   "
+},
+{
+  "id": "notes-week-10-3-11-2",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-11-2",
+  "type": "Example",
+  "number": "161",
+  "title": "",
+  "body": "  Find all of the zeros of .   "
+},
+{
+  "id": "thm-polynomial-roots",
+  "level": "2",
+  "url": "notes-week-10.html#thm-polynomial-roots",
+  "type": "Theorem",
+  "number": "162",
+  "title": "",
+  "body": "  Every polynomial function of degree , for has exactly zeros (real or complex), when counted with multiplicity.   "
+},
+{
+  "id": "notes-week-10-3-13-1",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-13-1",
+  "type": "Example",
+  "number": "163",
+  "title": "",
+  "body": "  Analyze the zeros and intercepts of the function .   "
+},
+{
+  "id": "notes-week-10-3-15-1",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-3-15-1",
+  "type": "Example",
+  "number": "164",
+  "title": "",
+  "body": "  The polynomial function can be used to estimate the number of milligrams of ibuprofen in the bloodstream hours after a person takes a mg dose.     Find the number of milligrams of ibuprofen in the bloodstream at and so on, up to hr. Round values to the nearest tenth.      Find the domain, the relative maximum and where it occurs, and the range.    "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
@@ -2186,6 +2294,42 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Annette’s paddleboat travels 3 km\/h in still water. The boat is paddled 10 km downstream in the same time that it takes to go 2 km upstream. What is the speed of the river?   "
+},
+{
+  "id": "wksht-poly-modeling",
+  "level": "1",
+  "url": "wksht-poly-modeling.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Polynomial Modeling",
+  "body": " Polynomial Modeling     Dates  Assigned Date: November 2, 2026  Due Date: November 6, 2026   Objective  The skill that you will practice in this exercise is polynomial modeling. Our textbook gives examples and problems that heavily rely on a calculator. The problems here should be solvable without a calculator and are typical examples of what will be asked on a future test or quiz.    Criteria for Success  Your assignment is due to your instructor by the date listed above. You must submit 1 pdf document through Canvas. Your instructor will be assessing completeness and correctness for each question. This assignment will be worth 20 points.        Problems    The profit P (in millions of dollars) for a T-shirt manufacturer can be modeled by where is the number of T-shirts produced (in millions). Currently the company produces 3 million T-shirts and makes a profit of $4,000,000. What lesser number of T-shirts could the company produce and still make the same profit?      You are designing a rectangular swimming pool to be set into the ground. The width of the pool is 5 feet less than the length, and the depth is 40 feet less than the length. The pool holds 9000 cubic feet of water. What are the dimensions of the pool?         A production crew is assembling a three-level platform inside a stadium for a performance. The platform has the dimensions shown in the diagram and has a volume of 2,160 cubic feet.           4x  2x  6x  4x  8x  6x       x  x  x  extraSpace = 0.2                       What is the volume, in terms of , of each of the three levels of the platform?      Use what you know about the total volume to write an equation involving .      Solve the equation from the previous part. Use your solution to calculate the dimensions of each of the three levels of the platform.      "
+},
+{
+  "id": "wksht-poly-modeling-3-1-2",
+  "level": "2",
+  "url": "wksht-poly-modeling.html#wksht-poly-modeling-3-1-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  The profit P (in millions of dollars) for a T-shirt manufacturer can be modeled by where is the number of T-shirts produced (in millions). Currently the company produces 3 million T-shirts and makes a profit of $4,000,000. What lesser number of T-shirts could the company produce and still make the same profit?   "
+},
+{
+  "id": "wksht-poly-modeling-3-1-3",
+  "level": "2",
+  "url": "wksht-poly-modeling.html#wksht-poly-modeling-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  You are designing a rectangular swimming pool to be set into the ground. The width of the pool is 5 feet less than the length, and the depth is 40 feet less than the length. The pool holds 9000 cubic feet of water. What are the dimensions of the pool?   "
+},
+{
+  "id": "wksht-poly-modeling-4-1",
+  "level": "2",
+  "url": "wksht-poly-modeling.html#wksht-poly-modeling-4-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  A production crew is assembling a three-level platform inside a stadium for a performance. The platform has the dimensions shown in the diagram and has a volume of 2,160 cubic feet.           4x  2x  6x  4x  8x  6x       x  x  x  extraSpace = 0.2                       What is the volume, in terms of , of each of the three levels of the platform?      Use what you know about the total volume to write an equation involving .      Solve the equation from the previous part. Use your solution to calculate the dimensions of each of the three levels of the platform.    "
 },
 {
   "id": "handouts",
