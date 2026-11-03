@@ -212,7 +212,10 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-section contains-active">
 <div class="toc-title-box"><a href="notes-week-10.html" class="internal"><span class="title">Week 10</span></a></div>
-<ul class="structural toc-item-list active" id="ptx-toc-group-notes-week-10"><li class="toc-item toc-handout"><div class="toc-title-box"><a href="notes-week-10.html#notes-week-10-3" class="internal"><span class="title">Monday 11/2</span></a></div></li></ul>
+<ul class="structural toc-item-list active" id="ptx-toc-group-notes-week-10">
+<li class="toc-item toc-handout"><div class="toc-title-box"><a href="notes-week-10.html#notes-week-10-3" class="internal"><span class="title">Monday 11/2</span></a></div></li>
+<li class="toc-item toc-handout"><div class="toc-title-box"><a href="notes-week-10.html#notes-week-10-4" class="internal"><span class="title">Wednesday 11/4</span></a></div></li>
+</ul>
 </li>
 </ul>
 </li>
@@ -229,6 +232,7 @@ eBookConfig.enable_chatcodes =  false;
 <li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="wksht-quad-methods.html" class="internal"><span class="title">Comparing Methods for Solving Quadratic Equations</span></a></div></li>
 <li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="wksht-application-rational.html" class="internal"><span class="title">Applications of Rational Functions</span></a></div></li>
 <li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="wksht-poly-modeling.html" class="internal"><span class="title">Polynomial Modeling</span></a></div></li>
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="wksht-rational-domain.html" class="internal"><span class="title">Polynomial Division and Domains</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter"><div class="toc-title-box"><a href="handouts.html" class="internal"><span class="title">Handouts</span></a></div></li>
@@ -470,6 +474,230 @@ M(t) = 0.5 t^4 + 3.45t^3 - 96.65t^2 + 347.7 t
 <div class="autopermalink" aria-hidden="true" data-description="Task 164.b"><a tabindex="-1" href="#notes-week-10-3-15-1-3" title="Copy heading and permalink for Task 164.b" aria-label="Copy heading and permalink for Task 164.b">🔗</a></div>
 </article><div class="autopermalink" aria-hidden="true" data-description="Example 164"><a tabindex="-1" href="#notes-week-10-3-15-1" title="Copy heading and permalink for Example 164" aria-label="Copy heading and permalink for Example 164">🔗</a></div>
 </article></section><div class="autopermalink" aria-hidden="true" data-description="Handout: Monday 11/2"><a tabindex="-1" href="#notes-week-10-3" title="Copy heading and permalink for Handout: Monday 11/2" aria-label="Copy heading and permalink for Handout: Monday 11/2">🔗</a></div>
+</section>
+<section class="handout" id="notes-week-10-4" data-margins="0.75in 0.75in 0.75in 0.75in" data-header-first-left="Name: ___________________" data-header-first-right="Date: __________">
+<h2 class="heading hide-type">
+<span class="type">Handout</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Wednesday 11/4</span><div class="print-links"><a href="?printpreview=notes-week-10-4" class="print-link" title="Print preview"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span></a></div>
+</h2>
+<article class="objectives goal-like" id="notes-week-10-4-2"><h3 class="heading"><span class="type">Objectives</span></h3>
+<ul class="disc" id="notes-week-10-4-2-1">
+<li id="notes-week-10-4-2-1-1">
+<div class="para" id="notes-week-10-4-2-1-1-1">Use polynomial division to factor polynomials of degree at least 3.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Objective"><a tabindex="-1" href="#notes-week-10-4-2-1-1" title="Copy heading and permalink for Objective" aria-label="Copy heading and permalink for Objective">🔗</a></div>
+</li>
+<li id="notes-week-10-4-2-1-2">
+<div class="para" id="notes-week-10-4-2-1-2-1">Analyze the domain, vertical, and horizontal asymptotes of rational functions.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Objective"><a tabindex="-1" href="#notes-week-10-4-2-1-2" title="Copy heading and permalink for Objective" aria-label="Copy heading and permalink for Objective">🔗</a></div>
+</li>
+</ul>
+<div class="autopermalink" aria-hidden="true" data-description="Objectives"><a tabindex="-1" href="#notes-week-10-4-2" title="Copy heading and permalink for Objectives" aria-label="Copy heading and permalink for Objectives">🔗</a></div>
+</article><section class="onepage" id="notes-week-10-4-3">
+<section class="paragraphs" id="notes-week-10-4-3-1"><h3 class="heading"><span class="title">Polynomial Division and Factoring.</span></h3>
+<div class="para" id="notes-week-10-4-3-1-2">Last time, we mentioned how factoring polynomials was important for understanding how they work and what they do. If we can’t factor by grouping or make it look like a quadratic, we need another approach.<div class="workspace" data-space="2in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-3-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<article class="example example-like" id="notes-week-10-4-3-1-3"><h4 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">165</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h4>
+<div class="para" id="notes-week-10-4-3-1-3-1-1">Use long division to find <span class="process-math">\(1784 \div 9\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-3-1-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="2in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 165"><a tabindex="-1" href="#notes-week-10-4-3-1-3" title="Copy heading and permalink for Example 165" aria-label="Copy heading and permalink for Example 165">🔗</a></div>
+</article><div class="autopermalink" aria-hidden="true" data-description="Paragraphs: Polynomial Division and Factoring"><a tabindex="-1" href="#notes-week-10-4-3-1" title="Copy heading and permalink for Paragraphs: Polynomial Division and Factoring" aria-label="Copy heading and permalink for Paragraphs: Polynomial Division and Factoring">🔗</a></div>
+</section></section><section class="onepage" id="notes-week-10-4-4">
+<article class="example example-like" id="notes-week-10-4-4-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">166</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para" id="notes-week-10-4-4-1-1-1">Determine if <span class="process-math">\((x+1)\)</span> and <span class="process-math">\((x+2)\)</span> are factors of <span class="process-math">\(f(x) = x^3 - 3x^2 - 6x + 8\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-4-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 166"><a tabindex="-1" href="#notes-week-10-4-4-1" title="Copy heading and permalink for Example 166" aria-label="Copy heading and permalink for Example 166">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-5">
+<section class="paragraphs" id="notes-week-10-4-5-1"><h3 class="heading"><span class="title">Polynomial Division.</span></h3>
+<div class="para" id="notes-week-10-4-5-1-2">What is the general process of polynomial long division? If we want to divide <span class="process-math">\(P(x)\)</span> by <span class="process-math">\(d(x)\text{,}\)</span> what do we get?<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-5-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraphs: Polynomial Division"><a tabindex="-1" href="#notes-week-10-4-5-1" title="Copy heading and permalink for Paragraphs: Polynomial Division" aria-label="Copy heading and permalink for Paragraphs: Polynomial Division">🔗</a></div>
+</section></section><section class="onepage" id="notes-week-10-4-6">
+<article class="example example-like" id="notes-week-10-4-6-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">167</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para logical" id="notes-week-10-4-6-1-1-1">
+<div class="para">Compute</div>
+<div class="displaymath process-math" id="notes-week-10-4-6-1-1-1-1">
+\begin{equation*}
+(3x^3 - 7x + 4) \div (x+3)
+\end{equation*}
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-6-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 167"><a tabindex="-1" href="#notes-week-10-4-6-1" title="Copy heading and permalink for Example 167" aria-label="Copy heading and permalink for Example 167">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-7">
+<article class="example example-like" id="notes-week-10-4-7-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">168</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para logical" id="notes-week-10-4-7-1-1-1">
+<div class="para">Compute</div>
+<div class="displaymath process-math" id="notes-week-10-4-7-1-1-1-1">
+\begin{equation*}
+(2x^3 +5x^2  - 1) \div (x-2)
+\end{equation*}
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-7-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 168"><a tabindex="-1" href="#notes-week-10-4-7-1" title="Copy heading and permalink for Example 168" aria-label="Copy heading and permalink for Example 168">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-8">
+<article class="example example-like" id="notes-week-10-4-8-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">169</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para" id="notes-week-10-4-8-1-1-1">For the polynomials <span class="process-math">\(f(x) = 3x^3 - 7x + 4\)</span> and <span class="process-math">\(g(x) = 2x^3 + 5x^2 - 1\text{,}\)</span> evaluate <span class="process-math">\(f(-3)\)</span> and <span class="process-math">\(g(2)\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-8-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 169"><a tabindex="-1" href="#notes-week-10-4-8-1" title="Copy heading and permalink for Example 169" aria-label="Copy heading and permalink for Example 169">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-9">
+<div class="para" id="notes-week-10-4-9-1">What have we learned from this?<div class="workspace" data-space="2in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-9-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></section><section class="onepage" id="notes-week-10-4-10">
+<article class="example example-like" id="notes-week-10-4-10-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">170</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para" id="notes-week-10-4-10-1-1-1">Find all factors of <span class="process-math">\(f(x) = x^3 + x^2 - 5x + 3\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-10-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 170"><a tabindex="-1" href="#notes-week-10-4-10-1" title="Copy heading and permalink for Example 170" aria-label="Copy heading and permalink for Example 170">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-11">
+<article class="example example-like" id="notes-week-10-4-11-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">171</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para" id="notes-week-10-4-11-1-1-1">Find all factors of <span class="process-math">\(f(x) = x^3 - x^2 - 10x - 8\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-11-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 171"><a tabindex="-1" href="#notes-week-10-4-11-1" title="Copy heading and permalink for Example 171" aria-label="Copy heading and permalink for Example 171">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-12">
+<section class="paragraphs" id="notes-week-10-4-12-1"><h3 class="heading"><span class="title">Rational Functions.</span></h3>
+<div class="para" id="notes-week-10-4-12-1-2">We’ve talked about rational expressions and functions before. What is the technical definition of these things?<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-12-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraphs: Rational Functions"><a tabindex="-1" href="#notes-week-10-4-12-1" title="Copy heading and permalink for Paragraphs: Rational Functions" aria-label="Copy heading and permalink for Paragraphs: Rational Functions">🔗</a></div>
+</section></section><section class="onepage" id="notes-week-10-4-13">
+<article class="example example-like" id="notes-week-10-4-13-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">172</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para logical" id="notes-week-10-4-13-1-1-1">
+<div class="para">Find the domain and sketch the graph of the function</div>
+<div class="displaymath process-math" id="notes-week-10-4-13-1-1-1-1">
+\begin{equation*}
+f(x) = \frac{1}{x+4}\text{.}
+\end{equation*}
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-13-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Example 172"><a tabindex="-1" href="#notes-week-10-4-13-1" title="Copy heading and permalink for Example 172" aria-label="Copy heading and permalink for Example 172">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-14">
+<article class="example example-like" id="notes-week-10-4-14-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">173</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="introduction" id="notes-week-10-4-14-1-1">
+<div class="para" id="notes-week-10-4-14-1-1-1">Find the domain of each of the following rational functions.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-14-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</div>
+<article class="task exercise-like" id="notes-week-10-4-14-1-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
+<div class="para" id="notes-week-10-4-14-1-2-1-1">
+<span class="process-math">\(\displaystyle f(x) = \frac{1}{x^2}\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-14-1-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 173.a"><a tabindex="-1" href="#notes-week-10-4-14-1-2" title="Copy heading and permalink for Task 173.a" aria-label="Copy heading and permalink for Task 173.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="notes-week-10-4-14-1-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="para" id="notes-week-10-4-14-1-3-1-1">
+<span class="process-math">\(\displaystyle g(x) = \frac{3x+1}{x-5}\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-14-1-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 173.b"><a tabindex="-1" href="#notes-week-10-4-14-1-3" title="Copy heading and permalink for Task 173.b" aria-label="Copy heading and permalink for Task 173.b">🔗</a></div>
+</article>
+<article class="task exercise-like" id="notes-week-10-4-14-1-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
+<div class="para" id="notes-week-10-4-14-1-4-1-1">
+<span class="process-math">\(\displaystyle h(x) = \frac{x+1}{x^2 + x-6}\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-14-1-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 173.c"><a tabindex="-1" href="#notes-week-10-4-14-1-4" title="Copy heading and permalink for Task 173.c" aria-label="Copy heading and permalink for Task 173.c">🔗</a></div>
+</article>
+<article class="task exercise-like" id="notes-week-10-4-14-1-5"><h4 class="heading"><span class="codenumber">(d)</span></h4>
+<div class="para" id="notes-week-10-4-14-1-5-1-1">
+<span class="process-math">\(\displaystyle r(x) = \frac{x^2 - 4x-5}{x^2 - 4x - 12}\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-14-1-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 173.d"><a tabindex="-1" href="#notes-week-10-4-14-1-5" title="Copy heading and permalink for Task 173.d" aria-label="Copy heading and permalink for Task 173.d">🔗</a></div>
+</article><div class="autopermalink" aria-hidden="true" data-description="Example 173"><a tabindex="-1" href="#notes-week-10-4-14-1" title="Copy heading and permalink for Example 173" aria-label="Copy heading and permalink for Example 173">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-15">
+<section class="paragraphs" id="notes-week-10-4-15-1"><h3 class="heading"><span class="title">Vertical Asymptotes.</span></h3>
+<div class="para" id="notes-week-10-4-15-1-2">What happens to the graph of <span class="process-math">\(f(x) = \frac{1}{x+4}\)</span> as the input value gets closer and closer to <span class="process-math">\(-4\text{?}\)</span><div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-15-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraphs: Vertical Asymptotes"><a tabindex="-1" href="#notes-week-10-4-15-1" title="Copy heading and permalink for Paragraphs: Vertical Asymptotes" aria-label="Copy heading and permalink for Paragraphs: Vertical Asymptotes">🔗</a></div>
+</section></section><section class="onepage" id="notes-week-10-4-16">
+<div class="para" id="notes-week-10-4-16-1">This leads us to the definition of a vertical asymptote.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-16-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<article class="definition definition-like" id="def-vertical-asymptote"><h3 class="heading">
+<span class="type">Definition</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">174</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="para" id="def-vertical-asymptote-1-1">Let <span class="process-math">\(f(x)\)</span> be a rational function. We say that <span class="process-math">\(x=a\)</span> is a vertical asymptote of <span class="process-math">\(f(x)\)</span> if<div class="workspace" data-space="2in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#def-vertical-asymptote-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Definition 174"><a tabindex="-1" href="#def-vertical-asymptote" title="Copy heading and permalink for Definition 174" aria-label="Copy heading and permalink for Definition 174">🔗</a></div>
+</article>
+<div class="para" id="notes-week-10-4-16-3">However, this isn’t generally how we find these asymptotes:<div class="workspace" data-space="2in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-16-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></section><section class="onepage" id="notes-week-10-4-17">
+<article class="example example-like" id="notes-week-10-4-17-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">175</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="introduction" id="notes-week-10-4-17-1-1">
+<div class="para" id="notes-week-10-4-17-1-1-1">Find all of the vertical asymptotes for the following functions.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-17-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</div>
+<article class="task exercise-like" id="notes-week-10-4-17-1-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
+<div class="para" id="notes-week-10-4-17-1-2-1-1">
+<span class="process-math">\(\displaystyle f(x) = \frac{3x+5}{x^2 - 3x - 10}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-17-1-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 175.a"><a tabindex="-1" href="#notes-week-10-4-17-1-2" title="Copy heading and permalink for Task 175.a" aria-label="Copy heading and permalink for Task 175.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="notes-week-10-4-17-1-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="para" id="notes-week-10-4-17-1-3-1-1">
+<span class="process-math">\(\displaystyle g(x) = \frac{x^2 + 4x - 12}{x^3 - 7x^2 + 10x}\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-17-1-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 175.b"><a tabindex="-1" href="#notes-week-10-4-17-1-3" title="Copy heading and permalink for Task 175.b" aria-label="Copy heading and permalink for Task 175.b">🔗</a></div>
+</article><div class="autopermalink" aria-hidden="true" data-description="Example 175"><a tabindex="-1" href="#notes-week-10-4-17-1" title="Copy heading and permalink for Example 175" aria-label="Copy heading and permalink for Example 175">🔗</a></div>
+</article></section><section class="onepage" id="notes-week-10-4-18">
+<article class="example example-like" id="notes-week-10-4-18-1"><h3 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">176</span><span class="period heading-divison-mark heading-divison-mark__period">.</span>
+</h3>
+<div class="introduction" id="notes-week-10-4-18-1-1">
+<div class="para" id="notes-week-10-4-18-1-1-1">Find all of the vertical asymptotes for the following functions.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-18-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</div>
+<article class="task exercise-like" id="notes-week-10-4-18-1-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
+<div class="para" id="notes-week-10-4-18-1-2-1-1">
+<span class="process-math">\(\displaystyle f(x) = \frac{x^2 - x - 6}{x^2 +2x - 15}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-18-1-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 176.a"><a tabindex="-1" href="#notes-week-10-4-18-1-2" title="Copy heading and permalink for Task 176.a" aria-label="Copy heading and permalink for Task 176.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="notes-week-10-4-18-1-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="para" id="notes-week-10-4-18-1-3-1-1">
+<span class="process-math">\(\displaystyle g(x) = \frac{x+4}{x^3 - 8x}\text{.}\)</span><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#notes-week-10-4-18-1-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="4in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 176.b"><a tabindex="-1" href="#notes-week-10-4-18-1-3" title="Copy heading and permalink for Task 176.b" aria-label="Copy heading and permalink for Task 176.b">🔗</a></div>
+</article><div class="autopermalink" aria-hidden="true" data-description="Example 176"><a tabindex="-1" href="#notes-week-10-4-18-1" title="Copy heading and permalink for Example 176" aria-label="Copy heading and permalink for Example 176">🔗</a></div>
+</article></section><div class="autopermalink" aria-hidden="true" data-description="Handout: Wednesday 11/4"><a tabindex="-1" href="#notes-week-10-4" title="Copy heading and permalink for Handout: Wednesday 11/4" aria-label="Copy heading and permalink for Handout: Wednesday 11/4">🔗</a></div>
 </section><div class="autopermalink" aria-hidden="true" data-description="Section: Week 10"><a tabindex="-1" href="#notes-week-10" title="Copy heading and permalink for Section: Week 10" aria-label="Copy heading and permalink for Section: Week 10">🔗</a></div>
 </section>
 </div>
