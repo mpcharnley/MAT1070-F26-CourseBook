@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-rational-domain" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Polynomial Division and Domains</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: November 6, 2026</p>
+                    <p>Due Date: November 11, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        In this activity, completed in class on November 6, we explored polynomial division and domains of rational functions.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>In-Class Work</title>
+    <p>
+        These problems were completed during the in-class activity.
+    </p>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Use polynomial division to determine if <m>x+2</m> is a factor of <m>P(x) = 2x^4 + 7x - 18</m>.
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Find the domain of the function <m>\displaystyle f(x) = \frac{(x-3)^2}{2x^2 - 9x - 5}</m>
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Find the domain of the function <m>\displaystyle f(x) = \frac{\sqrt{x+10}}{3x-4}</m>.
+        </p>
+    </statement>
+
+</exercise>
+
+</paragraphs>
+
+<paragraphs>
+    <title>Hand-in Exercises</title>
+    <p>
+        The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.
+    </p>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Use polynomial division to determine if <m>x-2</m> is a factor of <m>P(x) = x^3 - 2x^2 + 6</m>.
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Find the domain of the function <m>\displaystyle f(x) = \frac{\sqrt{3x-5}}{x^2 - 2x}</m>.
+        </p>
+    </statement>
+
+</exercise>
+
+</paragraphs>
+</page>
+</worksheet>

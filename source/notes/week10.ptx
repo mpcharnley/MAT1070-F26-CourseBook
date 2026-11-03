@@ -257,4 +257,337 @@
 
 </handout>
 
+<handout component="cur">
+    <title>Wednesday 11/4</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Use polynomial division to factor polynomials of degree at least 3.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Analyze the domain, vertical, and horizontal asymptotes of rational functions.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Polynomial Division and Factoring</title>
+
+        <p component="b" workspace="2in">
+            Last time, we mentioned how factoring polynomials was important for understanding how they work and what they do. If we can't factor by grouping or make it look like a quadratic, we need another approach.
+        </p>
+        <p component="a">
+            Last time, we mentioned how factoring polynomials was important for understanding how they work and what they do. If we can't factor by grouping or make it look like a quadratic, we need another approach. When we're dividing numbers, we often find one factor and divide by it. That's what we're going to do here. 
+        </p>
+
+        <example workspace="2in">
+            <statement>
+                <p>
+                    Use long division to find <m>1784 \div 9</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Determine if <m>(x+1)</m> and <m>(x+2)</m> are factors of <m>f(x) = x^3 - 3x^2 - 6x + 8</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Polynomial Division</title>
+            
+            <p component="b" workspace="4in">
+                What is the general process of polynomial long division? If we want to divide <m>P(x)</m> by <m>d(x)</m>, what do we get?
+            </p>
+            <p component="a">
+                What is the general process of polynomial long division? If we want to divide <m>P(x)</m> by <m>d(x)</m>, what do we get? Q and R, write out what it looks like and what that means for the degree.
+            </p>
+        </paragraphs>
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Compute <md>
+                        (3x^3 - 7x + 4) \div (x+3)
+                    </md>
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Compute <md>
+                        (2x^3 +5x^2  - 1) \div (x-2)
+                    </md>
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    For the polynomials <m>f(x) = 3x^3 - 7x + 4</m> and <m>g(x) = 2x^3 + 5x^2 - 1</m>, evaluate <m>f(-3)</m> and <m>g(2)</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p component="b" workspace="2in">
+            What have we learned from this?
+        </p>
+        <p component="a">
+            What have we learned from this? <m>f(c) = 0</m> means <m>x-c</m> is a factor, then we can divide it out.
+        </p>
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Find all factors of <m>f(x) = x^3 + x^2 - 5x + 3</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Find all factors of <m>f(x) = x^3 - x^2 - 10x - 8</m>.
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Rational Functions</title>
+
+            <p component="b" workspace="4in">
+                We've talked about rational expressions and functions before. What is the technical definition of these things?
+            </p>
+            <p component="a">
+                We've talked about rational expressions and functions before. What is the technical definition of these things? Quotient of polynomials. Domain is where the denominator is zero.
+            </p>
+            
+        </paragraphs>
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Find the domain and sketch the graph of the function 
+                    <md>
+                        f(x) = \frac{1}{x+4}
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Find the domain of each of the following rational functions.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle f(x) = \frac{1}{x^2}</m>.
+                    </p>
+                </statement>
+        
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle g(x) = \frac{3x+1}{x-5}</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle h(x) = \frac{x+1}{x^2 + x-6}</m>.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle r(x) = \frac{x^2 - 4x-5}{x^2 - 4x - 12}</m>.
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Vertical Asymptotes</title>
+            
+        <p component="b" workspace="4in">
+            What happens to the graph of <m>f(x) = \frac{1}{x+4}</m> as the input value gets closer and closer to <m>-4</m>?
+        </p>
+        <p component="a">
+            What happens to the graph of <m>f(x) = \frac{1}{x+4}</m> as the input value gets closer and closer to <m>-4</m>? The outputs either get really big and positive, or really big and negative. Notate this with arrows to infinity. Left and right side notation.
+        </p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <p>
+            This leads us to the definition of a vertical asymptote.
+        </p>
+        <definition xml:id="def-vertical-asymptote">
+            <statement>
+                <p component="b" workspace="2in">
+                    Let <m>f(x)</m> be a rational function. We say that <m>x=a</m> is a vertical asymptote of <m>f(x)</m> if 
+                </p>
+                <p component="a">
+                    Let <m>f(x)</m> be a rational function. We say that <m>x=a</m> is a vertical asymptote of <m>f(x)</m> if the values get really big (either positive or negative) as we approach <m>a</m> from at least one side.
+                </p>
+            </statement>
+        </definition>
+
+        <p component="b" workspace="2in">
+            However, this isn't generally how we find these asymptotes:
+        </p>
+        <p component="a">
+            However, this isn't generally how we find these asymptotes: Bottom is zero and top and bottom do not share any common factors.
+        </p>
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Find all of the vertical asymptotes for the following functions.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle f(x) = \frac{3x+5}{x^2 - 3x - 10}</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task workspace="4in">
+                <statement>
+                    <p>
+                        <m>\displaystyle g(x) = \frac{x^2 + 4x - 12}{x^3 - 7x^2 + 10x}</m>.
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="0in">
+            <introduction>
+                <p>
+                    Find all of the vertical asymptotes for the following functions.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        <m>\displaystyle f(x) = \frac{x^2 - x - 6}{x^2 +2x - 15}</m>
+                    </p>
+                </statement>
+        
+            </task>
+            <task workspace="4in">
+                <statement>
+                    <p>
+                        <m>\displaystyle g(x) = \frac{x+4}{x^3 - 8x}</m>.
+                    </p>
+                </statement>
+            </task>
+        
+        </example>
+        
+    </page>
+</handout>
+
+<handout component="future">
+    <title>Friday 11/6</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review of topics from the week.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Activity on polynomial division and domains.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on 3.4, 3.5, and 4.1.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Review of the Week</title>
+
+        <p component="b" workspace="4in">
+            What are the main things we discussed this week?
+        </p>
+        <p component="a">
+            What are the main things we discussed this week? Polynomials and how they can be used to solve problems, polynomial division to aid in factoring, rational functions and their domains and asymptotes.
+        </p>
+
+        </paragraphs>
+    </page>
+</handout>
+
 </section>

@@ -44,6 +44,7 @@
       <xi:include href="./activities/08-quadratic-methods.ptx"/>
       <xi:include href="./activities/09-applications-rational.ptx"/>
       <xi:include href="./activities/10-polynomial-modeling.ptx"/>
+      <xi:include href="./activities/11-polynomial-rational-domain.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
