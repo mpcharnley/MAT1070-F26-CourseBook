@@ -1735,7 +1735,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Week 10",
-  "body": " Week 10   This is an outline of the topics we covered in week 10 of the course, from November 2 to November 6.    Monday 11\/2     Investigate finding zeros of polynomials.    Explore different methods of factoring polynomials.    Use polynomials to model real world scenarios.       Polynomials  Last time, we defined the basic terms surrounding polynomials.      Zeros of Polynomials  One of the other most important things about polynomials is trying to find the zeros.       Consider . Determine if and are zeros of this polynomial?      One of the easiest way to find zeros of quadratics was using the principle of zero products.    Find the zeros of the function .        Find the zeros of the polynomial .       Multiplicity  How do these different zeros show up on the graphs of the polynomial? They have to be points where the graph touches the -axis, but is that all we know?       Consider the polynomial . Find all of the zeros and their muliplicity. Using the fact that the leading term of this polynomial is , sketch a graph of this function, including all of the zeros and how the graph interacts with them.       Factoring Polynomials  So, how do we get a polynomial into factored form? This is a bit trickier.    Find all of the zeros of .         Find all of the zeros of .      Find all of the zeros of .      For zeros, we see that the real valued ones show up as intercepts on the graph, but the complex ones do not.    Every polynomial function of degree , for has exactly zeros (real or complex), when counted with multiplicity.        Analyze the zeros and intercepts of the function .       Polynomial Models  Just like quadratics, we can use polynomials to modeal real-world situations. These problems often take two forms:       The polynomial function can be used to estimate the number of milligrams of ibuprofen in the bloodstream hours after a person takes a mg dose.     Find the number of milligrams of ibuprofen in the bloodstream at and so on, up to hr. Round values to the nearest tenth.      Find the domain, the relative maximum and where it occurs, and the range.        Wednesday 11\/4     Use polynomial division to factor polynomials of degree at least 3.    Analyze the domain, vertical, and horizontal asymptotes of rational functions.       Polynomial Division and Factoring  Last time, we mentioned how factoring polynomials was important for understanding how they work and what they do. If we can't factor by grouping or make it look like a quadratic, we need another approach.    Use long division to find .         Determine if and are factors of .       Polynomial Division  What is the general process of polynomial long division? If we want to divide by , what do we get?       Compute         Compute         For the polynomials and , evaluate and .      What have we learned from this?      Find all factors of .        Find all factors of .       Rational Functions  We've talked about rational expressions and functions before. What is the technical definition of these things?       Find the domain and sketch the graph of the function .        Find the domain of each of the following rational functions.      .       .       .       .        Vertical Asymptotes  What happens to the graph of as the input value gets closer and closer to ?     This leads us to the definition of a vertical asymptote.    Let be a rational function. We say that is a vertical asymptote of if    However, this isn't generally how we find these asymptotes:      Find all of the vertical asymptotes for the following functions.             .         Find all of the vertical asymptotes for the following functions.             .       "
+  "body": " Week 10   This is an outline of the topics we covered in week 10 of the course, from November 2 to November 6.    Monday 11\/2     Investigate finding zeros of polynomials.    Explore different methods of factoring polynomials.    Use polynomials to model real world scenarios.       Polynomials  Last time, we defined the basic terms surrounding polynomials.      Zeros of Polynomials  One of the other most important things about polynomials is trying to find the zeros.       Consider . Determine if and are zeros of this polynomial?      One of the easiest way to find zeros of quadratics was using the principle of zero products.    Find the zeros of the function .        Find the zeros of the polynomial .       Multiplicity  How do these different zeros show up on the graphs of the polynomial? They have to be points where the graph touches the -axis, but is that all we know?       Consider the polynomial . Find all of the zeros and their muliplicity. Using the fact that the leading term of this polynomial is , sketch a graph of this function, including all of the zeros and how the graph interacts with them.       Factoring Polynomials  So, how do we get a polynomial into factored form? This is a bit trickier.    Find all of the zeros of .         Find all of the zeros of .      Find all of the zeros of .      For zeros, we see that the real valued ones show up as intercepts on the graph, but the complex ones do not.    Every polynomial function of degree , for has exactly zeros (real or complex), when counted with multiplicity.        Analyze the zeros and intercepts of the function .       Polynomial Models  Just like quadratics, we can use polynomials to modeal real-world situations. These problems often take two forms:       The polynomial function can be used to estimate the number of milligrams of ibuprofen in the bloodstream hours after a person takes a mg dose.     Find the number of milligrams of ibuprofen in the bloodstream at and so on, up to hr. Round values to the nearest tenth.      Find the domain, the relative maximum and where it occurs, and the range.        Wednesday 11\/4     Use polynomial division to factor polynomials of degree at least 3.    Analyze the domain, vertical, and horizontal asymptotes of rational functions.       Polynomial Division and Factoring  Last time, we mentioned how factoring polynomials was important for understanding how they work and what they do. If we can't factor by grouping or make it look like a quadratic, we need another approach.    Use long division to find .         Determine if and are factors of .       Polynomial Division  What is the general process of polynomial long division? If we want to divide by , what do we get?       Compute         Compute         For the polynomials and , evaluate and .      What have we learned from this?      Find all factors of .        Find all factors of .       Rational Functions  We've talked about rational expressions and functions before. What is the technical definition of these things?       Find the domain and sketch the graph of the function .        Find the domain of each of the following rational functions.      .       .       .       .        Vertical Asymptotes  What happens to the graph of as the input value gets closer and closer to ?      Friday 11\/6     Review of topics from the week.    Activity on polynomial division and domains.    Quiz on 3.4, 3.5, and 4.1.       Vertical Asymptotes  This leads us to the definition of a vertical asymptote.    Let be a rational function. We say that is a vertical asymptote of if    However, this isn't generally how we find these asymptotes:       Find all of the vertical asymptotes for the following functions.             .         Find all of the vertical asymptotes for the following functions.             .        Review of the Week  What are the main things we discussed this week?     "
 },
 {
   "id": "notes-week-10-3-2",
@@ -1927,6 +1927,15 @@ var ptx_lunr_docs = [
   "body": "  Find the domain of each of the following rational functions.      .       .       .       .    "
 },
 {
+  "id": "notes-week-10-5-2",
+  "level": "2",
+  "url": "notes-week-10.html#notes-week-10-5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review of topics from the week.    Activity on polynomial division and domains.    Quiz on 3.4, 3.5, and 4.1.    "
+},
+{
   "id": "def-vertical-asymptote",
   "level": "2",
   "url": "notes-week-10.html#def-vertical-asymptote",
@@ -1936,18 +1945,18 @@ var ptx_lunr_docs = [
   "body": "  Let be a rational function. We say that is a vertical asymptote of if   "
 },
 {
-  "id": "notes-week-10-4-17-1",
+  "id": "notes-week-10-5-4-1",
   "level": "2",
-  "url": "notes-week-10.html#notes-week-10-4-17-1",
+  "url": "notes-week-10.html#notes-week-10-5-4-1",
   "type": "Example",
   "number": "175",
   "title": "",
   "body": "  Find all of the vertical asymptotes for the following functions.             .    "
 },
 {
-  "id": "notes-week-10-4-18-1",
+  "id": "notes-week-10-5-5-1",
   "level": "2",
-  "url": "notes-week-10.html#notes-week-10-4-18-1",
+  "url": "notes-week-10.html#notes-week-10-5-5-1",
   "type": "Example",
   "number": "176",
   "title": "",
@@ -2455,7 +2464,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Polynomial Division and Domains",
-  "body": " Polynomial Division and Domains     Dates  Assigned Date: November 6, 2026  Due Date: November 11, 2026   Objective  In this activity, completed in class on November 6, we explored polynomial division and domains of rational functions.        In-Class Work  These problems were completed during the in-class activity.    Use polynomial division to determine if is a factor of .      Find the domain of the function       Find the domain of the function .      Hand-in Exercises  The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.    Use polynomial division to determine if is a factor of .      Find the domain of the function .      "
+  "body": " Polynomial Division and Domains     Dates  Assigned Date: November 9, 2026  Due Date: November 13, 2026   Objective  In this activity, completed in class on November 9, we explored polynomial division and domains of rational functions.        In-Class Work  These problems were completed during the in-class activity.    Use polynomial division to determine if is a factor of .      Find the domain of the function       Find the domain of the function .      Hand-in Exercises  The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.    Use polynomial division to determine if is a factor of .      Find the domain of the function .      "
 },
 {
   "id": "wksht-rational-domain-3-1-3",
