@@ -476,7 +476,34 @@
         </paragraphs>
     </page>
 
+</handout>
+
+<handout component="cur">
+    <title>Friday 11/6</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review of topics from the week.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Activity on polynomial division and domains.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on 3.4, 3.5, and 4.1.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+
     <page>
+        <paragraphs>
+            <title>Vertical Asymptotes</title>
+            
         <p>
             This leads us to the definition of a vertical asymptote.
         </p>
@@ -497,6 +524,7 @@
         <p component="a">
             However, this isn't generally how we find these asymptotes: Bottom is zero and top and bottom do not share any common factors.
         </p>
+        </paragraphs>
     </page>
 
     <page>
@@ -552,29 +580,6 @@
         </example>
         
     </page>
-</handout>
-
-<handout component="future">
-    <title>Friday 11/6</title>
-    <objectives>
-        <ul>
-            <li>
-                <p>
-                    Review of topics from the week.
-                </p>
-            </li>
-            <li>
-                <p>
-                    Activity on polynomial division and domains.
-                </p>
-            </li>
-            <li>
-                <p>
-                    Quiz on 3.4, 3.5, and 4.1.
-                </p>
-            </li>
-        </ul>
-    </objectives>
     <page>
         <paragraphs>
             <title>Review of the Week</title>
