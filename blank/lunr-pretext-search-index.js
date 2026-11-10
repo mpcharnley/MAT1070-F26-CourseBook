@@ -1963,6 +1963,177 @@ var ptx_lunr_docs = [
   "body": "  Find all of the vertical asymptotes for the following functions.             .    "
 },
 {
+  "id": "notes-week-11",
+  "level": "1",
+  "url": "notes-week-11.html",
+  "type": "Section",
+  "number": "",
+  "title": "Week 11",
+  "body": " Week 11   This is an outline of the topics we covered in Week 11 of the course, from November 9 to November 13.    Monday 11\/9     Activity on Polynomial Division and Domains    Solving Polynomial Inequalities    Solving Rational Inequalities       Polynomial Division and Domains of Rational Functions  Last week, we talked about how we could use polynomial division to find zeros of functions, and how to analyze rational functions to find their domains. Today, we'll start with an activity about that.      Polynomial and Rational Inequalities  Sometimes, a model or situation will want us to solve a polynomial or rational inequality, instead of just an equation.    Analyze each of the following inequalities using their graphs.         Graph of a polynomial.    f(x)=x^2                 Graph of a polynomial.    f(x)=x\/(x^2 - 3)               The summary is that we need to be very careful in how we approach these things. What does the general process look like?      Solve the inequality .        Solve the inequality .        Solve the inequality .      This also works for higher degree polynomials; we just need to be able to figure out where that polynomial is zero.    Solve the inequality .        Solve the inequality .       Wednesday 11\/11     Review Polynomial Inequalities    Solve Rational Inequalities       Polynomial and Rational Inequalities  Sometimes, a model or situation will want us to solve a polynomial or rational inequality, instead of just an equation.    Analyze each of the following inequalities using their graphs.         Graph of a polynomial.    f(x)=x^2                 Graph of a polynomial.    f(x)=x\/(x^2 - 3)               The summary is that we need to be very careful in how we approach these things. What does the general process look like?      Solve the inequality .        Solve the inequality .        Solve the inequality .        Rational Inequalities  What happens if rational functions or fractions are involved? Overall, the process is still the same.       Solve the inequality .        Solve the inequality .        Solve the inequality .        Solve the inequality . Note: The answers here will involve fractions.        Solve the inequality .        Solve the inequality .      Next, we'll review all of this with an activity.    "
+},
+{
+  "id": "notes-week-11-3-2",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Activity on Polynomial Division and Domains    Solving Polynomial Inequalities    Solving Rational Inequalities    "
+},
+{
+  "id": "notes-week-11-3-4-1-3",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-4-1-3",
+  "type": "Example",
+  "number": "177",
+  "title": "",
+  "body": "  Analyze each of the following inequalities using their graphs.         Graph of a polynomial.    f(x)=x^2                 Graph of a polynomial.    f(x)=x\/(x^2 - 3)           "
+},
+{
+  "id": "notes-week-11-3-6-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-6-1",
+  "type": "Example",
+  "number": "178",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-3-7-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-7-1",
+  "type": "Example",
+  "number": "179",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-3-8-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-8-1",
+  "type": "Example",
+  "number": "180",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-3-9-2",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-9-2",
+  "type": "Example",
+  "number": "181",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-3-10-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-3-10-1",
+  "type": "Example",
+  "number": "182",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-2",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review Polynomial Inequalities    Solve Rational Inequalities    "
+},
+{
+  "id": "notes-week-11-4-3-1-3",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-3-1-3",
+  "type": "Example",
+  "number": "183",
+  "title": "",
+  "body": "  Analyze each of the following inequalities using their graphs.         Graph of a polynomial.    f(x)=x^2                 Graph of a polynomial.    f(x)=x\/(x^2 - 3)           "
+},
+{
+  "id": "notes-week-11-4-5-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-5-1",
+  "type": "Example",
+  "number": "184",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-6-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-6-1",
+  "type": "Example",
+  "number": "185",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-7-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-7-1",
+  "type": "Example",
+  "number": "186",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-9-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-9-1",
+  "type": "Example",
+  "number": "187",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-10-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-10-1",
+  "type": "Example",
+  "number": "188",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-11-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-11-1",
+  "type": "Example",
+  "number": "189",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-12-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-12-1",
+  "type": "Example",
+  "number": "190",
+  "title": "",
+  "body": "  Solve the inequality . Note: The answers here will involve fractions.   "
+},
+{
+  "id": "notes-week-11-4-13-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-13-1",
+  "type": "Example",
+  "number": "191",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
+  "id": "notes-week-11-4-14-1",
+  "level": "2",
+  "url": "notes-week-11.html#notes-week-11-4-14-1",
+  "type": "Example",
+  "number": "192",
+  "title": "",
+  "body": "  Solve the inequality .   "
+},
+{
   "id": "wksht-graphing-equations",
   "level": "1",
   "url": "wksht-graphing-equations.html",
@@ -2510,6 +2681,69 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Find the domain of the function .   "
+},
+{
+  "id": "wksht-sign-charts",
+  "level": "1",
+  "url": "wksht-sign-charts.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Sign Charts for Inequalities",
+  "body": " Sign Charts for Inequalities     Dates  Assigned Date: November 11, 2026  Due Date: November 18, 2026   Objective  In this activity, completed in class on November 11, we explored using sign charts for solving polynomial and rational inequalities.        In-Class Work  These problems were completed during the in-class activity.    Solve .      Solve .      Solve .      Hand-in Exercises  The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.    Solve .      Solve .      Solve .      "
+},
+{
+  "id": "wksht-sign-charts-3-1-3",
+  "level": "2",
+  "url": "wksht-sign-charts.html#wksht-sign-charts-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "wksht-sign-charts-3-1-4",
+  "level": "2",
+  "url": "wksht-sign-charts.html#wksht-sign-charts-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "wksht-sign-charts-3-1-5",
+  "level": "2",
+  "url": "wksht-sign-charts.html#wksht-sign-charts-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "wksht-sign-charts-3-2-3",
+  "level": "2",
+  "url": "wksht-sign-charts.html#wksht-sign-charts-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "wksht-sign-charts-3-2-4",
+  "level": "2",
+  "url": "wksht-sign-charts.html#wksht-sign-charts-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Solve .   "
+},
+{
+  "id": "wksht-sign-charts-3-2-5",
+  "level": "2",
+  "url": "wksht-sign-charts.html#wksht-sign-charts-3-2-5",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Solve .   "
 },
 {
   "id": "handouts",
