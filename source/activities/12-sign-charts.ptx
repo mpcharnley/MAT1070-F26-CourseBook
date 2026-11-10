@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet component = "cur" xml:id = "wksht-sign-charts" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Sign Charts for Inequalities</title>
+
+    <introduction>
+        <p>
+            <ul>
+                <li><title>Dates</title>
+                    <p>Assigned Date: November 11, 2026</p>
+                    <p>Due Date: November 18, 2026</p>
+                </li>
+                <li><title>Objective</title>
+                    <p>
+                        In this activity, completed in class on November 11, we explored using sign charts for solving polynomial and rational inequalities.
+                    </p>
+                </li>
+            </ul>
+        </p>
+    </introduction>
+
+<page>
+
+<paragraphs>
+    <title>In-Class Work</title>
+    <p>
+        These problems were completed during the in-class activity.
+    </p>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Solve <md>
+                2x^2 \lt -5x + 12
+            </md>.
+            
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Solve <md>
+                \frac{x-4}{x+2} \geq 3
+            </md>.
+            
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Solve <md>
+                \frac{x^2}{x^2 + 4x - 21} \leq 0
+            </md>.
+            
+        </p>
+    </statement>
+
+</exercise>
+
+</paragraphs>
+
+<paragraphs>
+    <title>Hand-in Exercises</title>
+    <p>
+        The following problems will need to be written up carefully and turned in to the assignment on Canvas by the due date at the top of the first page.
+    </p>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Solve <md>
+                x^3 - 5x^2 \gt 50x
+            </md>.
+            
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Solve <md>
+                \frac{x-3}{x+2} \leq 4
+            </md>.
+            
+        </p>
+    </statement>
+
+</exercise>
+
+<exercise workspace="0in">
+    <statement>
+        <p>
+            Solve <md>
+                \frac{x-1}{x+5} \gt \frac{x-7}{x+3}
+            </md>.
+            
+        </p>
+    </statement>
+
+</exercise>
+
+</paragraphs>
+</page>
+</worksheet>

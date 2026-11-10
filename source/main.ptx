@@ -26,6 +26,7 @@
       <xi:include href="./notes/week08.ptx"/>
       <xi:include href="./notes/week09.ptx"/>
       <xi:include href="./notes/week10.ptx"/>
+      <xi:include href="./notes/week11.ptx"/>
       <!-- etc. -->
 
     </chapter>
@@ -45,6 +46,7 @@
       <xi:include href="./activities/09-applications-rational.ptx"/>
       <xi:include href="./activities/10-polynomial-modeling.ptx"/>
       <xi:include href="./activities/11-polynomial-rational-domain.ptx"/>
+      <xi:include href="./activities/12-sign-charts.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>

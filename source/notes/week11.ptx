@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-11" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Week 11</title>
+
+<introduction>
+    <p>
+        This is an outline of the topics we covered in Week 11 of the course, from November 9 to November 13.
+    </p>
+</introduction>
+
+<handout component="cur">
+    <title>Monday 11/9</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Activity on Polynomial Division and Domains
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solving Polynomial Inequalities
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solving Rational Inequalities
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Polynomial Division and Domains of Rational Functions</title>
+
+<p>
+    Last week, we talked about how we could use polynomial division to find zeros of functions, and how to analyze rational functions to find their domains. Today, we'll start with an activity about that.
+</p>
+
+        </paragraphs>
+    </page>
+
+    <page>
+        <paragraphs>
+            <title>Polynomial and Rational Inequalities</title>
+            
+            <p>
+                Sometimes, a model or situation will want us to solve a polynomial or rational inequality, instead of just an equation.
+            </p>
+
+            <example workspace="0.1in">
+                <introduction>
+                    <p>
+                        Analyze each of the following inequalities using their graphs.
+                    </p>
+                </introduction>
+                <task>
+                    <statement>
+                        <p>
+                            <m>x^2 \gt 4</m>
+                        </p>
+                        <image width="60%">
+                <shortdescription>Graph of a polynomial.</shortdescription>
+                <prefigure xmlns="https://prefigure.org"
+             label="poly-ineq-one">
+            <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x^2</definition>
+  <coordinates bbox="[-4,-4,4,10]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+                    </statement>
+            
+                </task>
+                <task>
+                    <statement>
+                        <p>
+                            <m>\frac{x}{x^2 - 3} \leq 2</m>
+                        </p>
+                        <image width="60%">
+                <shortdescription>Graph of a polynomial.</shortdescription>
+                <prefigure xmlns="https://prefigure.org"
+             label="poly-ineq-two">
+            <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x/(x^2 - 3)</definition>
+  <coordinates bbox="[-5,-10,5,10]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+                    </statement>
+            
+                </task>
+            
+            </example>
+            
+        </paragraphs>
+    </page>
+
+    <page>
+        <p component="b" workspace="4in">
+            The summary is that we need to be very careful in how we approach these things. What does the general process look like?
+        </p>
+        <p component="a">
+            The summary is that we need to be very careful in how we approach these things. What does the general process look like? Add and subtract to get zero on one side. Make a sign chart for the function that is left. 
+        </p>
+
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality <md>
+                        x^2 \gt 4
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality <md>
+                        x^2 + x + 1 \leq 4x + 11
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality <md>
+                        x-2 \leq 4 - x^2
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <p>
+            This also works for higher degree polynomials; we just need to be able to figure out where that polynomial is zero.
+        </p>
+
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        x^3 + 2x^2 - 1 \lt x^2 + 4x + 3
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        x^4 - 15x^2 + x \geq 5x^2 + x - 7 - x^4
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+</handout>
+
+<handout component="cur">
+    <title>Wednesday 11/11</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Review Polynomial Inequalities
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve Rational Inequalities
+                </p>
+            </li>
+        </ul>
+    </objectives>
+
+ <page>
+        <paragraphs>
+            <title>Polynomial and Rational Inequalities</title>
+            
+            <p>
+                Sometimes, a model or situation will want us to solve a polynomial or rational inequality, instead of just an equation.
+            </p>
+
+            <example workspace="0.1in">
+                <introduction>
+                    <p>
+                        Analyze each of the following inequalities using their graphs.
+                    </p>
+                </introduction>
+                <task>
+                    <statement>
+                        <p>
+                            <m>x^2 \gt 4</m>
+                        </p>
+                        <image width="60%">
+                <shortdescription>Graph of a polynomial.</shortdescription>
+                <prefigure xmlns="https://prefigure.org"
+             label="poly-ineq-one-two">
+            <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x^2</definition>
+  <coordinates bbox="[-4,-4,4,10]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+                    </statement>
+            
+                </task>
+                <task>
+                    <statement>
+                        <p>
+                            <m>\frac{x}{x^2 - 3} \leq 2</m>
+                        </p>
+                        <image width="60%">
+                <shortdescription>Graph of a polynomial.</shortdescription>
+                <prefigure xmlns="https://prefigure.org"
+             label="poly-ineq-two-two">
+            <diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
+  <definition> f(x)=x/(x^2 - 3)</definition>
+  <coordinates bbox="[-5,-10,5,10]">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+                    </statement>
+            
+                </task>
+            
+            </example>
+            
+        </paragraphs>
+    </page>
+
+    <page>
+        <p component="b" workspace="4in">
+            The summary is that we need to be very careful in how we approach these things. What does the general process look like?
+        </p>
+        <p component="a">
+            The summary is that we need to be very careful in how we approach these things. What does the general process look like? Add and subtract to get zero on one side. Make a sign chart for the function that is left. 
+        </p>
+
+    </page>
+
+        <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality <md>
+                        x^2 \gt 4
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality <md>
+                        x^2 - x + 1 \leq 4x + 7
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality <md>
+                        x-4 \lt 8 - x^2
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+        
+    </page>
+
+ <!--    
+    <page>
+        <paragraphs>
+            <title>Polynomial Inequalities</title>
+    <p component="b" workspace="4in">
+        Last time, we dealt with solving polynomial inequalities, problems of the form <md>
+            x^2 - 3x - 5 \geq 5-x 
+        </md>.
+        What was the general process for solving these?
+    </p>
+    <p component="a">
+        Last time, we dealt with solving polynomial inequalities, problems of the form <md>
+            x^2 - 3x - 5 \geq 5-x 
+        </md>.
+        What was the general process for solving these? Get zero on one side, sign chart, read the answer.
+    </p>
+
+        </paragraphs>
+    </page>
+ -->
+        <page>
+        <paragraphs>
+            <title>Rational Inequalities</title>
+            <p component="b" workspace="4in">
+                What happens if rational functions or fractions are involved? Overall, the process is still the same.
+            </p>
+            <p component="a">
+                What happens if rational functions or fractions are involved? Overall, the process is still the same. The main warning is don't clear denominators until you're solving the equation version. Places where the function is not defined matter a lot.
+            </p>
+        </paragraphs>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        \frac{4x}{x-3} \gt 0
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        \frac{x}{x^2-3} \leq 2
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        \frac{x-1}{x+6} \lt \frac{x-4}{x+2}
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        \frac{x+3}{2x-5} \geq 2
+                    </md>. Note: The answers here will involve fractions.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        \frac{x - \frac{7}{3}}{x+1} \lt 1 + \frac{x - \frac{16}{3}}{x-2}
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+    <page>
+        <example workspace="4in">
+            <statement>
+                <p>
+                    Solve the inequality
+                    <md>
+                        \frac{2}{x^2 - 4x + 3} \leq \frac{5}{x^2 - 9}
+                    </md>.
+                    
+                </p>
+            </statement>
+        
+        </example>
+    </page>
+
+    <page>
+        <p>
+            Next, we'll review all of this with an activity.
+        </p>
+    </page>
+</handout>
+
+
+<handout component="future">
+    <title>Friday 11/13</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Recap on polynomial and rational inequalities
+                </p>
+            </li>
+            <li>
+                <p>
+                    Quiz on 4.3 (polynomial division and rational functions)
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+        <paragraphs>
+            <title>Polynomial and Rational Inequalities</title>
+
+        <p component="b" workspace="4in">
+            What did we cover this week? What are the key ideas behind solving these inequalities?
+        </p>
+        <p component="a">
+            What did we cover this week? What are the key ideas behind solving these inequalities? Not as simple as linear inequalities where we can just solve for <m>x</m>. We need to get zero on one side of the inequality and then build a sign chart for the resulting function. We can then use that to read off the answer.
+        </p>
+
+        </paragraphs>
+    </page>
+    <page>
+        <paragraphs>
+            <title>Where are we heading next?</title>
+
+            <p component="b" workspace="4in">
+                After this week, we're leaving polynomials behind for a bit. Instead, we're going to look at a different class of functions and see what kind of physical problems we can solve with them.
+            </p>
+            <p component="a">
+                After this week, we're leaving polynomials behind for a bit. Instead, we're going to look at a different class of functions and see what kind of physical problems we can solve with them. Our new class of functions are the exponential functions <m>a^x</m> and their inverses, logarithmic functions. <m>x^2</m> vs. <m>2^x</m>.
+            </p>
+            
+        </paragraphs>
+    </page>
+</handout>
+
+</section>
